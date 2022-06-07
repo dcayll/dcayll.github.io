@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: David Cayll
+email: dcayll@utexas.edu
 description: >- # this means to ignore newlines until "baseurl:"
   I'm currently a PhD student at the Univeristy of Texas at Austin in the
   Nanoscale Design and Manufacturing lab. I'm also working part time as an R&D
@@ -65,7 +65,7 @@ plugins:
 author:
   name   : "David Cayll"
   avatar : "/assets/images/DSC04797.JPG"
-  bio    : "Thinking, learning, and writing about it in real time. Mostly for me, but take what you will"
+  bio    : "Thinking, learning, and writing in real time. Mostly for me, but take what you will"
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
