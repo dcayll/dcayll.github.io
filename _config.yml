@@ -16,11 +16,16 @@
 title: MM
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  I'm currently a PhD student at the Univeristy of Texas at Austin in the
+  Nanoscale Design and Manufacturing lab. I'm also working part time as an R&D
+  Engineer at GraphAudio inc, a small start-up based in Austin. In my spare time
+  I enjoy being outdoors, riding motorcycles, lifting weights, practicing macro
+  and astro photography, and learning about macro economics and monetary policy.
+  This website is for organizing my random thoughts and hobbies, and hopefully
+  these things may be helpful to others.
+instagram_username: dcayll
+twitter_username: dcayll
+github_username: dcayll
 minimal_mistakes_skin: default
 search: true
 
@@ -58,34 +63,37 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "David Cayll"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Thinking, learning, and writing about it in real time. Mostly for me, but take what you will"
   links:
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://www.linkedin.com/in/david-cayll/"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/dcayll"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/dcayll"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/dcayll95"
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/david-cayll/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/dcayll"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/dcayll"
 
 defaults:
   # _posts
