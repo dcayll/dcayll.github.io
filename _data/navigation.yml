@@ -1,9 +1,21 @@
 main:
+  - title: "About"
+    url: /about/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
+
+sidebar-sample:
+  - title: "Photography"
+    children:
+      - title: "Child Page A1"
+        url: /child-page-a1/
+      - title: "Child Page A2"
+        url: /child-page-a2/
+      - title: "Child Page A3"
+        url: /child-page-a3/
+      - title: "Child Page A4"
+        url: /child-page-a4/
