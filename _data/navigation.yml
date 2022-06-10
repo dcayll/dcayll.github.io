@@ -7,6 +7,8 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
+  -title: "Photography"
+    url: '/Photography/'
 
 sidebar-sample:
   - title: "Photography"
