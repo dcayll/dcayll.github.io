@@ -114,9 +114,19 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+  # _photography
+  - scope:
+      path: "_photography"
+      type: photography
+    values:
+      layout: single
+      author_profile: true
+
+  # _test folder
   - scope:
       path: "_test"
-      type: Photography
+      type: test
     values:
       layout: single
       author_profile: true
