@@ -4,8 +4,8 @@ To do local site testing:
 1. open git bash:
 2. navigate to folder with website files (need to do double \\)
    - i.e. (C:\\Users\\dcayl\\Documents\\GitHub\\dcayll.github.io)
-3. run command 'bundle install'
-4. run command 'bundle exec jekyll serve'
+3. run command `bundle install`
+4. run command `bundle exec jekyll serve`
 5. now git bash is a virtual server (at http://127.0.0.1:4000/) which hosts the files inside the folder from step 2.
    - any changes made and saved in the code will show up as changes in the website
 
