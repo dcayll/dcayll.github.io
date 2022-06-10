@@ -8,9 +8,9 @@ main:
   - title: "Tags"
     url: /tags/
   - title: "Photography"
-    url: '/photography/'
+    url: /photography/
   - title: "test"
-    url: '/test/'
+    url: /test/
 
 sidebar-sample:
   - title: "Photography"
