@@ -1,14 +1,13 @@
-# Minimal Mistakes remote theme starter
-
-To do local site testing:
-1. open git bash:
-2. navigate to folder with website files (need to do double \\)
-   - i.e. (C:\\Users\\dcayl\\Documents\\GitHub\\dcayll.github.io)
+# To do local site testing & Troubleshooting:
+1. open git bash
+2. navigate to folder with website files (need to do double \\\)
+   - i.e. (C:\\\Users\\\dcayl\\\Documents\\\GitHub\\\dcayll.github.io)
 3. run command `bundle install`
 4. run command `bundle exec jekyll serve`
 5. now git bash is a virtual server (at http://127.0.0.1:4000/) which hosts the files inside the folder from step 2.
    - any changes made and saved in the code will show up as changes in the website
 
+# Minimal Mistakes clone for personal website
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
