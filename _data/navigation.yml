@@ -7,9 +7,9 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  -title: "Photography"
+  - title: "Photography"
     url: '/photography/'
-  -title: "test"
+  - title: "test"
     url: '/test/'
 
 sidebar-sample:
