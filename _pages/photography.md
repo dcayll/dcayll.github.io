@@ -1,6 +1,6 @@
 ---
 title: "Photography"
 permalink: /photography/
-layout: posts
+layout: single
 author_profile: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Testing"
 permalink: /test/
-layout: posts
+layout: single
 author_profile: true
 ---
