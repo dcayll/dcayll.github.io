@@ -1,7 +1,8 @@
 # To do local site testing & Troubleshooting:
 1. open git bash
-2. navigate to folder with website files (need to do double \\\)
-   - i.e. (C:\\\Users\\\dcayl\\\Documents\\\GitHub\\\dcayll.github.io)
+2. navigate to folder with website files using `cd` + filepath (need to do double \\\)
+   - personal site: (C:\\\Users\\\dcayl\\\Documents\\\GitHub\\\dcayll.github.io)
+   - example site: (C:\\\Users\\\dcayl\\\Documents\\\GitHub\\\dcayll_minimal-mistakeCopy.github.io)
 3. run command `bundle install`
 4. run command `bundle exec jekyll serve`
 5. now git bash is a virtual server (at http://127.0.0.1:4000/) which hosts the files inside the folder from step 2.
