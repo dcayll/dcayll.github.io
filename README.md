@@ -5,7 +5,8 @@
    - example site: (C:\\\Users\\\dcayl\\\Documents\\\GitHub\\\dcayll_minimal-mistakeCopy.github.io)
 3. run command `bundle install`
 4. run command `bundle exec jekyll serve`
-5. now git bash is a virtual server (at http://127.0.0.1:4000/) which hosts the files inside the folder from step 2.
+5. to run multiple servers add a port `bundle exec jekyll serve --port 4001`
+6. now git bash is a virtual server (at http://127.0.0.1:4000/) which hosts the files inside the folder from step 2.
    - any changes made and saved in the code will show up as changes in the website
 
 # Minimal Mistakes clone for personal website
