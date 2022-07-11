@@ -17,7 +17,7 @@ This is my first post. I made this website mostly for myself so I can track thin
 
 ## Fitness
 
-I've been physically active my whole life, and fitness is one of my passions. I love to share my knowledge with others and invite friends to work out with me. I've been lifting weights since 2012, and it's been a long up and down journey full of cycles with good progress followed by injury and rehab and even slower progress back to the starting point. I'm humbled by the mistakes I've made and will continue to learn my entire life. The goal is to stay healthy for as long as possible. I'm not trying to live forever, but I want as many years as possible to be as high quality as possible. We lose muscle at a rate of 10%/decade as we age, and I'm hoping to get my initial number high enough so that I can squat down and pick up my grandkids at 80 and stave off the general pain associated with growing old.
+I've been physically active for (mostly) my whole life, and fitness is one of my passions. I love to share my knowledge with others and invite friends to work out with me. I've been lifting weights since 2012, and it's been a long up and down journey full of cycles with good progress followed by injury and rehab and even slower progress back to the starting point. I'm humbled by the mistakes I've made and will continue to learn my entire life. The goal is to stay healthy for as long as possible. I'm not trying to live forever, but I want as many years as possible to be as high quality as possible. We lose muscle at a rate of 10%/decade as we age, and I'm hoping to get my initial number high enough so that I can squat down and pick up my grandkids at 80 and stave off the general pain associated with growing old.
 
 ### Bodybuilding
 
@@ -29,7 +29,7 @@ My two major injuries are impingement in my left shoulder from weak rotator cuff
 
 ### Cardio
 
-I like to be as efficient as possible when doing cardio, so I mostly do HIIT training (zone 5 I think). And this is also only when I'm trying to cut down. I'd like to add in some zone 2 cardio in the near future if I can fit it into my schedule conveniently. 
+I like to be as efficient as possible when doing cardio, so I mostly do HIIT training (zone 5 I think). And this is also only when I'm trying to cut down. I'd like to add in some zone 2 cardio in the near future if I can fit it into my schedule conveniently.
 
 ## Photography
 
