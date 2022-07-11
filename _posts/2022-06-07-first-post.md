@@ -29,7 +29,7 @@ My two major injuries are impingement in my left shoulder from weak rotator cuff
 
 ### Cardio
 
-
+I like to be as efficient as possible when doing cardio, so I mostly do HIIT training (zone 5 I think). And this is also only when I'm trying to cut down. I'd like to add in some zone 2 cardio in the near future if I can fit it into my schedule conveniently. 
 
 ## Photography
 
@@ -57,18 +57,20 @@ I've been learning how to use GIMP, which is the open source equivalent of Adobe
 
 ## Blog
 
-I have found that I kind of like writing. I dont especially like writing, but I like the process of refining my ideas and thinking about what the best way to communicate an idea is. 
+I have found that I actually like writing. Not the act of writing, but I like the process of refining my ideas and thinking about the best way to communicate an idea. Communicating your thoughts is just as important as having a complex thought to begin with. If you have great insights, but can never communicate them to someone else or even to your future self, then how great was that thought anyway? (i.e. if a tree falls in the forest and nobody hears it, does it make a sound?). This is my attempt at forcing myself to improve my communication, technical and otherwise.
 
 ### Engineering
 
-
+I'm an engineer and a scientist, so I think about a lot of weird "what if's". I may perform some back of the envelope calculations to prove a curiosity of mine, and share my thought process. I've had pretty fruitful conversations with colleagues talking about how/why/where bubbles form in beer, example 2, example 3.
 
 ### Finances
 
-
+I'm very interested in macroeconomics and monetary policy. I enjoy learning about large scale consequences created by monetary decisions made by people in various positions of power. I'm also interested in personal finance, and how to maximize the value of every dollar.
 
 ### Life
 
-
+I will likely not include many personal details on this site, but I may try to distill down some personal insights I've gained over time. I'll try to keep from being preachy and self-riteous.
 
 ## Conclusion
+
+I guess I'm a blogger now. Sounds weird to say, and I didn't even know that this was blogging. This is mostly a personal blog, but if my friends/family/colleagues/friendly strangers want to browse, it is welcome!
