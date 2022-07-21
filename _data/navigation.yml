@@ -20,15 +20,15 @@ main:
 #  - title: "Tags"
 #    url: /tags/
 
-#sidebar-sample:
+#photos sidebar:
 photos:
   - title: "Photography"
     children:
       - title: "Macrophotography"
-        url: /photos/macrophotography/
+        url: /photography/macro/
       - title: "Astrophotography"
-        url: /photos/astrophotography/
+        url: /photography/astro/
       - title: "Landscape Photography"
-        url: /photos/landscape-photography/
+        url: /photography/landscape/
       - title: "Photo Editing"
-        url: /photos/photo-editing/
+        url: /photography/photo-editing/
