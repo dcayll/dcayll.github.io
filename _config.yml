@@ -40,11 +40,11 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
-  - _photography
-  - _fitness
-  - _finances
-  - _engineering
-  - _recipes
+#  - _photography
+#  - _fitness
+#  - _finances
+#  - _engineering
+#  - _recipes
 
 
 # Exclude from processing.
@@ -100,6 +100,27 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/dcayll"
+
+
+# Collections
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+  photography:
+    output: true
+    permalink: /:collection/:path/
+  engineering:
+    output: true
+    permalink: /:collection/:path/
+  finances:
+    output: true
+    permalink: /:collection/:path/
+  fitness:
+    output: true
+    permalink: /:collection/:path/
+
+
 
 defaults:
   # _posts
