@@ -172,7 +172,7 @@ defaults:
 
   # _photography
   - scope:
-      path: "_photography"
+      path: ""
       type: photography
     values:
       layout: single

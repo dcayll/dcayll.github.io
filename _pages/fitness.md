@@ -1,6 +1,9 @@
 ---
 title: "Fitness"
 permalink: /fitness/
-layout: single
+layout: collection
+collection: fitness
 author_profile: true
 ---
+
+Collection of my fitness goals, tips, tricks, etc. 
