@@ -21,13 +21,14 @@ main:
 #    url: /tags/
 
 #sidebar-sample:
-#  - title: "Photography"
-#    children:
-#      - title: "Child Page A1"
-#        url: /child-page-a1/
-#      - title: "Child Page A2"
-#        url: /child-page-a2/
-#      - title: "Child Page A3"
-#        url: /child-page-a3/
-#      - title: "Child Page A4"
-#        url: /child-page-a4/
+photos:
+  - title: "Photography"
+    children:
+      - title: "Macrophotogrpahy"
+        url: /photos/macrophotography/
+      - title: "Astrophotography"
+        url: /photos/astrophotography/
+      - title: "Landscape Photography"
+        url: /photos/landscape-photography/
+      - title: "Photo Editing"
+        url: /photos/photo-editing/
