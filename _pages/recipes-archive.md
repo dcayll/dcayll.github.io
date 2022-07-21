@@ -2,8 +2,8 @@
 layout: collection
 title: "Recipes"
 collection: recipes
-permalink: /recipes-archive/
+permalink: /recipes/
 author_profile: false
 ---
 
-Sample document listing for the collection `_recipes`. using recipes-archive.md grid layout
+Collection of my recipes in the '_recipes' folder
