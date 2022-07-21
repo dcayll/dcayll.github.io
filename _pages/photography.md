@@ -3,7 +3,7 @@ title: "Photography"
 permalink: /photography/
 layout: collection
 collection: photography
-author_profile: true
+author_profile: false
 sidebar:
   nav: "photos"
 ---
