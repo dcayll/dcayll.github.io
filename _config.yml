@@ -152,11 +152,12 @@ defaults:
 
   # _recipes
   - scope:
-      path: "_recipes"
+      path: "" #"_recipes"
       type: recipes
     values:
       layout: single
       author_profile: true
+      share: true
 
   # _finances
   - scope:
