@@ -26,8 +26,6 @@ categories:
 tags:
   - Succulent
   - photography
-sidebar:
-  nav: "photos"
 
 ---
 
