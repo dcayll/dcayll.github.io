@@ -1,5 +1,6 @@
 ---
 title: "Mom's Brownies"
+excerpt: "The biggest reminder of home"
 ---
 
 
