@@ -123,10 +123,34 @@ defaults:
       layout: single
       author_profile: true
 
-  # _test folder
+  # _recipes
   - scope:
-      path: "_test"
-      type: test
+      path: "_recipes"
+      type: recipes
+    values:
+      layout: single
+      author_profile: true
+
+  # _finances
+  - scope:
+      path: "_finances"
+      type: finaces
+    values:
+      layout: single
+      author_profile: true
+
+  # _fitness
+  - scope:
+      path: "_fitness"
+      type: fitness
+    values:
+      layout: single
+      author_profile: true
+
+  # _engineering
+  - scope:
+      path: "_engineering"
+      type: engineering
     values:
       layout: single
       author_profile: true
