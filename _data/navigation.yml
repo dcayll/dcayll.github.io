@@ -24,7 +24,7 @@ main:
 photos:
   - title: "Photography"
     children:
-      - title: "Macrophotogrpahy"
+      - title: "Macrophotography"
         url: /photos/macrophotography/
       - title: "Astrophotography"
         url: /photos/astrophotography/

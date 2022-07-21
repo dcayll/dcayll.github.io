@@ -2,5 +2,5 @@
 title: "Engineering"
 permalink: /engineering/
 layout: collection
-author_profile: true
+author_profile: false
 ---
