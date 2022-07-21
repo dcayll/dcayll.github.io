@@ -3,14 +3,22 @@ main:
     url: /about/
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "Test"
-    url: /test/
+  - title: "Fitness"
+    url: /fitness/
   - title: "Photography"
     url: /photography/
+  - title: "Finances"
+    url: /finances/
+  - title: "Engineering"
+    url: /engineering/
+  - title: "Recipes"
+    url: /recipes/
+
+
+#  - title: "Categories"
+#    url: /categories/
+#  - title: "Tags"
+#    url: /tags/
 
 #sidebar-sample:
 #  - title: "Photography"
