@@ -1,6 +1,6 @@
 ---
 title: "Engineering"
 permalink: /engineering/
-layout: single
+layout: collection
 author_profile: true
 ---

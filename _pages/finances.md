@@ -1,6 +1,6 @@
 ---
 title: "Finances"
 permalink: /finances/
-layout: single
+layout: collection
 author_profile: true
 ---
