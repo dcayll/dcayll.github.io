@@ -4,7 +4,7 @@
    - personal site: `C:\\Users\\dcayl\\Documents\\GitHub\\dcayll.github.io`
    - personal site testing: `C:\\Users\\dcayl\\Documents\\GitHub\\dcayll.github.io\\test`
    - example minimal mistakes site: `C:\\Users\\dcayl\\Documents\\GitHub\\dcayll_minimal-mistakeCopy.github.io`
-   - example minimal mistakes site testing: `C:\\Users\\dcayl\\Documents\\GitHub\\dcayll_minimal-mistakeCopy.github.io\\tests`
+   - example minimal mistakes site testing: `C:\\Users\\dcayl\\Documents\\GitHub\\dcayll_minimal-mistakeCopy.github.io\\test`
 3. run command `bundle install`
 4. run command `bundle exec jekyll serve`
 5. to run multiple servers add a port `bundle exec jekyll serve --port 4001`

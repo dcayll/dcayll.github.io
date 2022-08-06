@@ -2,6 +2,9 @@
 title: "Mom's Brownies"
 excerpt: "The biggest reminder of home"
 author_profile: false
+header:
+  image: /assets/images/foo-bar-identity.jpg #replace with image of brownies
+  teaser: /assets/images/foo-bar-identity-th.jpg
 ---
 
 
