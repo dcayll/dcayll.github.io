@@ -30,4 +30,4 @@ tags:
 
 ---
 
-Download image of what you want to cut out. I'm cutting out the shape of puerto rico and will be rastering the flag into the background as wall decoration for my girlfriend Isabel's apartment.
+Download image of what you want to cut out. I'm cutting out the shape of puerto rico and will be rastering the flag into the background as wall decoration for my girlfriend's apartment.
