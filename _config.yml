@@ -138,6 +138,9 @@ collections:
   photography:
     output: true
     permalink: /:collection/:path/
+  macrophotography:
+    output: true
+    peermalink: /:collection/:path/
   engineering:
     output: true
     permalink: /:collection/:path/
@@ -174,6 +177,14 @@ defaults:
   - scope:
       path: ""
       type: photography
+    values:
+      layout: single
+      author_profile: true
+
+  # _macrophotography
+  - scope:
+      path: ""
+      type: macrophotography
     values:
       layout: single
       author_profile: true
