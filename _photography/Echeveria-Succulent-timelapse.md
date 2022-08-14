@@ -23,6 +23,7 @@ header:
 #    alt: "placeholder image 3"
 categories:
   - photography
+  - macrophotography
 tags:
   - Succulent
   - photography
