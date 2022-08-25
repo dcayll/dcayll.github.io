@@ -132,24 +132,22 @@ footer:
 
 # Collections
 collections:
-  recipes:
+  Photography:
     output: true
     permalink: /:collection/:path/
-  photography:
-    output: true
-    permalink: /:collection/:path/
-  macrophotography:
+  Macrophotography:
     output: true
     peermalink: /:collection/:path/
-  engineering:
+  Astrophotography:
     output: true
-    permalink: /:collection/:path/
-  finances:
+    peermalink: /:collection/:path/
+  Landscape Photography:
     output: true
-    permalink: /:collection/:path/
-  fitness:
+    peermalink: /:collection/:path/
+  Photo Editing:
     output: true
-    permalink: /:collection/:path/
+    peermalink: /:collection/:path/
+
 
 
 
