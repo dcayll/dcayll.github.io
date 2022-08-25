@@ -1,5 +1,5 @@
 ---
-title: "Puerto Rico Laser Cut"
+title: "Puerto Rico Laser Cut2"
 excerpt: "GIMP process for making a laser cut image from a png file."
 header:
   image: /assets/images/foo-bar-identity.jpg #put gif here
