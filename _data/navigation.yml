@@ -14,9 +14,9 @@ main:
   - title: "Recipes"
     url: /recipes/
   - title: "Sample Posts"
-     url: /year-archive/
+     url: /posts/
   - title: "Sample Collections"
-     url: /collection-archive/
+     url: /category-archive/
 
 #  - title: "Categories"
 #    url: /categories/
