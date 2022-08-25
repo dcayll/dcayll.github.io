@@ -1,7 +1,7 @@
 ---
 title: "Engineering"
 permalink: /engineering/
-layout: collection
+layout: categories
 author_profile: false
 ---
 
