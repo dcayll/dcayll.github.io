@@ -183,7 +183,7 @@ defaults:
 
   # _macrophotography
   - scope:
-      path: ""
+      path: "_photography/macro"
       type: macrophotography
     values:
       layout: single
