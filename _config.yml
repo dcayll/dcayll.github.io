@@ -132,21 +132,21 @@ footer:
 
 # Collections
 collections:
-  Photography:
+  photography:
     output: true
     permalink: /:collection/:path/
-  Macrophotography:
+  macrophotography:
     output: true
     peermalink: /:collection/:path/
-  Astrophotography:
+  astrophotography:
     output: true
     peermalink: /:collection/:path/
-  Landscape Photography:
-    output: true
-    peermalink: /:collection/:path/
-  Photo Editing:
-    output: true
-    peermalink: /:collection/:path/
+#  landscape photography:
+#    output: true
+#    peermalink: /:collection/:path/
+#  photo Editing:
+#    output: true
+#    peermalink: /:collection/:path/
 
 
 
@@ -163,6 +163,7 @@ defaults:
       comments: true
       share: true
       related: true
+
   # _pages
   - scope:
       path: "_pages"
