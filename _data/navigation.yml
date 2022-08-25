@@ -13,7 +13,10 @@ main:
     url: /engineering/
   - title: "Recipes"
     url: /recipes/
-
+  - title: "Sample Posts"
+     url: /year-archive/
+  - title: "Sample Collections"
+     url: /collection-archive/
 
 #  - title: "Categories"
 #    url: /categories/
