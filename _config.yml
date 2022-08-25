@@ -187,6 +187,14 @@ defaults:
       layout: single
       author_profile: true
 
+  # _astrophotography
+  - scope:
+      path: ""
+      type: astrophotography
+    values:
+      layout: single
+      author_profile: true
+
   # _recipes
   - scope:
       path: "" #"_recipes"
