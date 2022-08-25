@@ -2,7 +2,7 @@
 title: "Astrophotography"
 permalink: /photography/astro/
 layout: collection
-collection: Astrophotography
+collection: astrophotography
 author_profile: false
 sidebar:
   nav: "photos"
