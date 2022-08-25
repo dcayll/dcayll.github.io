@@ -2,7 +2,7 @@
 title: "Fitness"
 permalink: /fitness/
 layout: collection
-collection: fitness
+#collection: fitness
 author_profile: false
 sidebar:
   nav: "fit"
