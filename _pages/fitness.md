@@ -1,7 +1,7 @@
 ---
 title: "Fitness"
 permalink: /fitness/
-layout: collection
+layout: collection-categorized
 collection: fitness
 author_profile: false
 sidebar:
