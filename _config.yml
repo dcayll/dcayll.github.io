@@ -137,16 +137,16 @@ collections:
     permalink: /:collection/:path/
   macrophotography:
     output: true
-    peermalink: /:collection/:path/
+    permalink: /:collection/:path/
   astrophotography:
     output: true
-    peermalink: /:collection/:path/
+    permalink: /:collection/:path/
   fitness:
     output: true
-    peermalink: /:collection/:path/
+    permalink: /:collection/:path/
   recipes:
     output: true
-    peermalink: /:collection/:path/
+    permalink: /:collection/:path/
 #  landscape photography:
 #    output: true
 #    peermalink: /:collection/:path/
