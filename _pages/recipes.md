@@ -1,7 +1,7 @@
 ---
 title: "Recipes"
 permalink: /recipes/
-layout: collection
+layout: collection-archive-grid
 collection: recipes
 author_profile: false
 ---
