@@ -144,9 +144,9 @@ collections:
   fitness:
     output: true
     permalink: /:collection/:path/
-  recipes:
-    output: true
-    permalink: /:collection/:path/
+#  recipes:
+#    output: true
+#    permalink: /:collection/:path/
 #  landscape photography:
 #    output: true
 #    peermalink: /:collection/:path/
@@ -204,7 +204,7 @@ defaults:
 
   # _recipes
   - scope:
-      path: "_recipes"
+      path: "" # "_recipes"
       type: recipes
     values:
       layout: single
