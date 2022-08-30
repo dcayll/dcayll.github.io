@@ -144,9 +144,9 @@ collections:
   fitness:
     output: true
     permalink: /:collection/:path/
-#  recipes:
-#    output: true
-#    permalink: /:collection/:path/
+  recipes:
+    output: true
+    permalink: /:collection/:path/
 #  landscape photography:
 #    output: true
 #    peermalink: /:collection/:path/
