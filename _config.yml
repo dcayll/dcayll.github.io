@@ -141,6 +141,9 @@ collections:
   astrophotography:
     output: true
     peermalink: /:collection/:path/
+  fitness:
+    output: true
+    peermalink: /:collection/:path/
 #  landscape photography:
 #    output: true
 #    peermalink: /:collection/:path/
