@@ -1,6 +1,6 @@
 ---
 title: "Test"
-excerpt: "The making of a time lapse of the growth of an Echeveria Succulent from a single leaf."
+excerpt: "Test astro post"
 header:
   image: /assets/images/foo-bar-identity.jpg #put gif here
   teaser: /assets/images/foo-bar-identity-th.jpg
