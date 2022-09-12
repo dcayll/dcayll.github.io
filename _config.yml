@@ -141,7 +141,7 @@ collections:
   astrophotography:
     output: true
     permalink: /:collection/:path/
-   fitness:
+  fitness:
      output: false
      permalink: /:collection/:path/
   recipes:
@@ -149,10 +149,10 @@ collections:
     permalink: /:collection/:path/
   landscape-photography:
     output: true
-    peermalink: /:collection/:path/
+    permalink: /:collection/:path/
   photo-editing:
     output: true
-    peermalink: /:collection/:path/
+    permalink: /:collection/:path/
 
 
 
@@ -188,7 +188,7 @@ defaults:
 
   # _macrophotography
   - scope:
-      path: "_macrophotography"
+      path: ""
       type: macrophotography
     values:
       layout: single
