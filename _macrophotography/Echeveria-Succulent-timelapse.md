@@ -22,8 +22,8 @@ header:
 #    image_path: assets/images/unsplash-gallery-image-3-th.jpg
 #    alt: "placeholder image 3"
 categories:
-  - photography
-#  - macrophotography
+#  - photography
+  - macrophotography
 tags:
   - Succulent
   - photography
