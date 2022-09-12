@@ -1,6 +1,6 @@
 ---
 title: "Macrophotography"
-permalink: /photography/macro/
+permalink: /macrophotography/
 layout: collection
 collection: macrophotography
 author_profile: false

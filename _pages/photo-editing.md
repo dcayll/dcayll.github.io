@@ -1,6 +1,6 @@
 ---
 title: "Photo editing"
-permalink: /photography/photo-editing/
+permalink: /photo-editing/
 layout: collection
 collection: photo-editing
 author_profile: false

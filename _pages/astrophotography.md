@@ -1,6 +1,6 @@
 ---
 title: "Astrophotography"
-permalink: /photography/astro/
+permalink: /astrophotography/
 layout: collection
 collection: astrophotography
 author_profile: false

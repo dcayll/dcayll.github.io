@@ -1,6 +1,6 @@
 ---
 title: "Landscape Photography"
-permalink: /photography/landscape/
+permalink: /landscape-photography/
 layout: collection
 collection: landscape-photography
 author_profile: false

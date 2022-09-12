@@ -24,13 +24,13 @@ photos:
   - title: "Photography Collections"
     children:
       - title: "Macrophotography"
-        url: /photography/macro/
+        url: /macrophotography/
       - title: "Astrophotography"
-        url: /photography/astro/
+        url: /astrophotography/
       - title: "Landscape Photography"
-        url: /photography/landscape/
+        url: /landscape-photography/
       - title: "Photo Editing"
-        url: /photography/photo-editing/
+        url: /photo-editing/
       - title: "Grid view"
         url: /photo-archive-grid/
 
