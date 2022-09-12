@@ -1,6 +1,6 @@
 ---
 title: "Photography"
-permalink: /photography/
+permalink: /photography-overview/
 layout: collection
 collection: photography
 author_profile: false
