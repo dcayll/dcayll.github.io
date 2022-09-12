@@ -144,12 +144,6 @@ collections:
     output: true
     permalink: /:collection/:path/
     photo: true
-  fitness:
-    output: false
-    permalink: /:collection/:path/
-  recipes:
-    output: true
-    permalink: /:collection/:path/
   landscape-photography:
     output: true
     permalink: /:collection/:path/
@@ -158,7 +152,12 @@ collections:
     output: true
     permalink: /:collection/:path/
     photo: true
-
+  fitness:
+    output: true
+    permalink: /:collection/:path/
+  recipes:
+    output: true
+    permalink: /:collection/:path/
 
 
 
