@@ -142,10 +142,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   fitness:
-    output: true
+    output: false
     permalink: /:collection/:path/
   recipes:
-    output: true
+    output: false
     permalink: /:collection/:path/
   landscape-photography:
     output: true
