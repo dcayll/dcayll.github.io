@@ -2,7 +2,7 @@
 title: "Landscape Photography"
 permalink: /photography/landscape/
 layout: collection
-collection: landscape
+collection: landscape-photography
 author_profile: false
 sidebar:
   nav: "photos"
