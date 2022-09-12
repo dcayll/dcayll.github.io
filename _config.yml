@@ -202,6 +202,22 @@ defaults:
       layout: single
       author_profile: true
 
+  # _landscape-photogrpahy
+  - scope:
+      path: ""
+      type: landscape-photography
+    values:
+      layout: single
+      author_profile: true
+
+  # _photo-editing
+  - scope:
+      path: ""
+      type: photo-editing
+    values:
+      layout: single
+      author_profile: true
+
   # _recipes
   - scope:
       path: "" # "_recipes"
