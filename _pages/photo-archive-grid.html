@@ -15,7 +15,7 @@ sidebar:
 {% capture written_label %}'None'{% endcapture %}
 
 {% for collection in site.collections %}
-  {% if collection.photo == "yes" %}
+  {% if collection.photo == true %}
     {% unless collection.output == false or collection.label == "posts" %}
       <section class="taxonomy__section">
         {% capture label %}{{ collection.label }}{% endcapture %}
