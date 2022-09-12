@@ -141,9 +141,9 @@ collections:
   astrophotography:
     output: true
     permalink: /:collection/:path/
-  # fitness:
-  #   output: true
-  #   permalink: /:collection/:path/
+   fitness:
+     output: false
+     permalink: /:collection/:path/
   recipes:
     output: true
     permalink: /:collection/:path/
