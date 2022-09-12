@@ -31,6 +31,8 @@ photos:
         url: /landscape-photography/
       - title: "Photo Editing"
         url: /photo-editing/
+      - title: "General Photography"
+        url: /general-photography/
       - title: "Grid view"
         url: /photo-archive-grid/
 

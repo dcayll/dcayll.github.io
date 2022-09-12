@@ -1,5 +1,5 @@
 ---
-title: "Echeveria Succulent Timelapse"
+title: "General photography"
 excerpt: "The making of a time lapse of the growth of an Echeveria Succulent from a single leaf."
 header:
   image: /assets/images/foo-bar-identity.jpg #put gif here
