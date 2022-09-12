@@ -135,12 +135,15 @@ collections:
   photography:
     output: true
     permalink: /:collection/:path/
+    photo: yes
   macrophotography:
     output: true
     permalink: /:collection/:path/
+    photo: yes
   astrophotography:
     output: true
     permalink: /:collection/:path/
+    photo: yes
   fitness:
     output: false
     permalink: /:collection/:path/
@@ -150,9 +153,11 @@ collections:
   landscape-photography:
     output: true
     permalink: /:collection/:path/
+    photo: yes
   photo-editing:
     output: true
     permalink: /:collection/:path/
+    photo: yes
 
 
 
