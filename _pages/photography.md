@@ -2,9 +2,7 @@
 title: "Photography"
 permalink: /photography/
 layout: collection
-collection: photography
-collection: macrophotography
-collection: astrophotography
+collection: photography, astrophotography, macrophotography
 author_profile: false
 sidebar:
   nav: "photos"
