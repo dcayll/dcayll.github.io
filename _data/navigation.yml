@@ -31,6 +31,8 @@ photos:
         url: /photography/landscape/
       - title: "Photo Editing"
         url: /photography/photo-editing/
+      - title: "Grid view"
+        url: /photo-archive-grid/
 
 fit:
   - title: "Goals and Plans"
