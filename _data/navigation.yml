@@ -35,12 +35,12 @@ photos:
         url: /photo-archive-grid/
 
 fit:
-  - title: "Goals and Plans"
-    children:
-      - title: "Goals"
-        url: /fitness/goals
+#  - title: "Goals and Plans"
+#    children:
+#      - title: "Goals"
+#        url: /fitness/goals
   - title: "Shoulder Rehab"
-#    url: /fitness/shoulder-rehab
+    url: /fitness/shoulder-rehab
     children:
       - title: "Anatomy"
         url: /fitness/shoulder-rehab/anatomy
@@ -49,7 +49,7 @@ fit:
       - title: "Stretches"
         url: /fitness/shoulder-rehab/stretches
   - title: "Back Rehab"
-#    url: /fitness/back-Rehab
+    url: /fitness/back-Rehab
     children:
       - title: "Anatomy"
         url: /fitness/back-rehab/anatomy
