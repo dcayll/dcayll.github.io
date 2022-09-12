@@ -145,7 +145,7 @@ collections:
     output: false
     permalink: /:collection/:path/
   recipes:
-    output: false
+    output: true
     permalink: /:collection/:path/
   landscape-photography:
     output: true
