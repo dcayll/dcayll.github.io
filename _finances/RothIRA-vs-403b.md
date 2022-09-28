@@ -8,4 +8,10 @@ tags:
   - money
 ---
 
-look at the best way to invest the next chunk of money after maxing out the employer matching contribution of 403(b) and filling up an emergency fund. 
+look at the best way to invest the next chunk of money after maxing out the employer matching contribution of 403(b) and filling up an emergency fund.
+
+include plots from a jupyter notebook in this section. and the code. expected returns for editable assumed yearly rates.
+
+{::nomarkdown}
+<iframe src="https://utexas.app.box.com/embed/s/2vszs7ba3oy3hsuf99zm74ix5d3liyk9?sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
+{:/}
