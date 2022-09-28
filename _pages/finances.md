@@ -2,6 +2,7 @@
 title: "Finances"
 permalink: /finances/
 layout: collection
+collection: finances
 author_profile: false
 ---
 
