@@ -35,6 +35,8 @@ Replace sample content with your own and [configure as necessary](https://mmista
 
 ## Troubleshooting
 
+Sometimes, if a collection doesnt show up when you think it should be, restart git bash. When there are names of collections or defaults changed, jekyll needs to redo the whole configuration process by restarting git bash. 
+
 If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
 
 - [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
