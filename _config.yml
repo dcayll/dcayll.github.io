@@ -158,6 +158,9 @@ collections:
   recipes:
     output: true
     permalink: /:collection/:path/
+  finances:
+    output: true
+    permalink: /:collection/:path/
 
 
 
