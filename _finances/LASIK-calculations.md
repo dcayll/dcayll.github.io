@@ -1,6 +1,7 @@
 ---
 title: "LASIK Financing comparison"
 excerpt: "Determining the most cost effective way to finance my LASIK eye procedure"
+permalink: /finances/LASIK-calculations
 categories:
   - finances
 tags:

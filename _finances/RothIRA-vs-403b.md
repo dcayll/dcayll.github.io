@@ -1,6 +1,7 @@
 ---
 title: "Roth IRA vs 403(b) vs paying down student debt"
 excerpt: "Determining the optimal way to invest in early career as a medical professional"
+permalink: /finances/RothIRA-vs-403b
 categories:
   - finances
 tags:
