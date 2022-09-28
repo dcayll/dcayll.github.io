@@ -258,6 +258,14 @@ defaults:
       layout: single
       author_profile: true
 
+  # _finances
+  - scope:
+      path: ""
+      type: finances
+    values:
+      layout: single
+      author_profile: true
+
 category_archive:
   type: liquid
   path: /categories/
