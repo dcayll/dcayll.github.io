@@ -22,6 +22,7 @@ main:
 #photos sidebar:
 photos:
   - title: "Photography Collections"
+    url: /photography/
     children:
       - title: "Macrophotography"
         url: /macrophotography/
@@ -33,8 +34,6 @@ photos:
         url: /photo-editing/
       - title: "General Photography"
         url: /general-photography/
-      - title: "Grid view"
-        url: /photo-archive-grid/
 
 fit:
 #  - title: "Goals and Plans"
@@ -46,6 +45,9 @@ fit:
     children:
       - title: "Anatomy"
         url: /fitness/shoulder-rehab/anatomy
+          children:
+            - title: "Anatomy"
+              url: /fitness/shoulder-rehab/anatomy
       - title: "Exercises"
         url: /fitness/shoulder-rehab/exercises
       - title: "Stretches"
