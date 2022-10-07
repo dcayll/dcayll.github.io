@@ -13,6 +13,8 @@ main:
     url: /engineering/
   - title: "Recipes"
     url: /recipes/
+  - title: "Posts by tag"
+    url: /tag-archive/
 
 #  - title: "Categories"
 #    url: /categories/
@@ -45,9 +47,6 @@ fit:
     children:
       - title: "Anatomy"
         url: /fitness/shoulder-rehab/anatomy
-          children:
-            - title: "Anatomy"
-              url: /fitness/shoulder-rehab/anatomy
       - title: "Exercises"
         url: /fitness/shoulder-rehab/exercises
       - title: "Stretches"
