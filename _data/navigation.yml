@@ -14,7 +14,7 @@ main:
   - title: "Recipes"
     url: /recipes/
   - title: "Posts by tag"
-    url: /tag-archive/
+    url: /tags/
 
 #  - title: "Categories"
 #    url: /categories/
