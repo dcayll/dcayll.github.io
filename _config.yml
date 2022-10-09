@@ -132,36 +132,47 @@ footer:
 
 # Collections
 collections:
-  photography:
-    output: true
-    permalink: /:collection/:path/
-    photo: true
-  macrophotography:
-    output: true
-    permalink: /:collection/:path/
-    photo: true
-  astrophotography:
-    output: true
-    permalink: /:collection/:path/
-    photo: true
-  landscape-photography:
-    output: true
-    permalink: /:collection/:path/
-    photo: true
-  photo-editing:
-    output: true
-    permalink: /:collection/:path/
-    photo: true
   fitness:
     output: true
     permalink: /:collection/:path/
   recipes:
     output: true
     permalink: /:collection/:path/
-  finances:
+  shoulder-rehab:
     output: true
     permalink: /:collection/:path/
-
+  shoulder-stretches:
+    output: true
+    permalink: /:collection/:path/
+  back-rehab:
+    output: true
+    permalink: /:collection/:path/
+  back-stretches:
+    output: true
+    permalink: /:collection/:path/
+  # photography:
+  #   output: true
+  #   permalink: /:collection/:path/
+  #   photo: true
+  # macrophotography:
+  #   output: true
+  #   permalink: /:collection/:path/
+  #   photo: true
+  # astrophotography:
+  #   output: true
+  #   permalink: /:collection/:path/
+  #   photo: true
+  # landscape-photography:
+  #   output: true
+  #   permalink: /:collection/:path/
+  #   photo: true
+  # photo-editing:
+  #   output: true
+  #   permalink: /:collection/:path/
+  #   photo: true
+  # finances:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 defaults:
@@ -185,46 +196,6 @@ defaults:
       layout: single
       author_profile: true
 
-  # _photography
-  - scope:
-      path: ""
-      type: photography
-    values:
-      layout: single
-      author_profile: true
-
-  # _macrophotography
-  - scope:
-      path: ""
-      type: macrophotography
-    values:
-      layout: single
-      author_profile: true
-
-  # _astrophotography
-  - scope:
-      path: ""
-      type: astrophotography
-    values:
-      layout: single
-      author_profile: true
-
-  # _landscape-photogrpahy
-  - scope:
-      path: ""
-      type: landscape-photography
-    values:
-      layout: single
-      author_profile: true
-
-  # _photo-editing
-  - scope:
-      path: ""
-      type: photo-editing
-    values:
-      layout: single
-      author_profile: true
-
   # _recipes
   - scope:
       path: "" # "_recipes"
@@ -234,37 +205,105 @@ defaults:
       author_profile: true
       share: true
 
-  # _finances
+  # _shoulder-rehab
   - scope:
-      path: "_finances"
-      type: finaces
+      path: "" # "_recipes"
+      type: shoulder-rehab
     values:
       layout: single
       author_profile: true
+      share: true
 
-  # _fitness
+  # _shoulder-stretches
   - scope:
-      path: "_fitness"
-      type: fitness
+      path: "" # "_recipes"
+      type: shoulder-stretches
     values:
       layout: single
       author_profile: true
+      share: true
 
-  # _engineering
+  # _back-rehab
   - scope:
-      path: "_engineering"
-      type: engineering
+      path: "" # "_recipes"
+      type: back-rehab
     values:
       layout: single
       author_profile: true
+      share: true
 
-  # _finances
+  # _back-stretches
   - scope:
-      path: ""
-      type: finances
+      path: "" # "_recipes"
+      type: back-stretches
     values:
       layout: single
       author_profile: true
+      share: true
+
+  # # _photography
+  # - scope:
+  #     path: ""
+  #     type: photography
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #
+  # # _macrophotography
+  # - scope:
+  #     path: ""
+  #     type: macrophotography
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #
+  # # _astrophotography
+  # - scope:
+  #     path: ""
+  #     type: astrophotography
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #
+  # # _landscape-photogrpahy
+  # - scope:
+  #     path: ""
+  #     type: landscape-photography
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #
+  # # _photo-editing
+  # - scope:
+  #     path: ""
+  #     type: photo-editing
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  # # _finances
+  # - scope:
+  #     path: "_finances"
+  #     type: finaces
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #
+  # # _fitness
+  # - scope:
+  #     path: "_fitness"
+  #     type: fitness
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #
+  # # _engineering
+  # - scope:
+  #     path: "_engineering"
+  #     type: engineering
+  #   values:
+  #     layout: single
+  #     author_profile: true
+
 
 category_archive:
   type: liquid
