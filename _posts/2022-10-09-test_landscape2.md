@@ -31,3 +31,5 @@ tags:
 ---
 
 Test text for landcape photography
+
+\frac{a}{b}
