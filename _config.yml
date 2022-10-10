@@ -69,7 +69,7 @@ liquid:
   error_mode: strict
 
 # Conversion
-markdown: kramdown
+# markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
