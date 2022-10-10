@@ -1,7 +1,8 @@
 ---
 title: "Engineering"
-permalink: /engineering/
-layout: categories
+permalink: /categories/engineering/
+layout: category
+taxonomy: engineering
 author_profile: false
 ---
 
