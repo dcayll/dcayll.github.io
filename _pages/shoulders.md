@@ -5,7 +5,7 @@ permalink: /fitness/shoulder-rehab/
 author_profile: false
 sidebar:
   nav: "fit"
-layout: collection
+layout: single
 collection: shoulder-rehab
 toc: true
 toc_sticky: true
