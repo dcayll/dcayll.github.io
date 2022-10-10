@@ -22,7 +22,8 @@ header:
 #    image_path: assets/images/unsplash-gallery-image-3-th.jpg
 #    alt: "placeholder image 3"
 categories:
-  - photography landscape-photography
+  - photography
+  - landscape
 tags:
   - Succulent
   - photography
