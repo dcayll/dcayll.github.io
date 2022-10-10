@@ -57,7 +57,7 @@ fit:
       - title: "Stretches"
         url: /fitness/back-rehab/stretches
 
-posts:
+post:
   - title: "Posts by Year"
     url: /posts
   - title: "Posts by Tags"
