@@ -45,8 +45,6 @@ fit:
   - title: "Shoulder Rehab"
     url: /fitness/shoulder-rehab
     children:
-      - title: "Anatomy"
-        url: /fitness/shoulder-rehab/anatomy
       - title: "Exercises"
         url: /fitness/shoulder-rehab/exercises
       - title: "Stretches"
@@ -54,8 +52,6 @@ fit:
   - title: "Back Rehab"
     url: /fitness/back-Rehab
     children:
-      - title: "Anatomy"
-        url: /fitness/back-rehab/anatomy
       - title: "Exercises"
         url: /fitness/back-rehab/exercises
       - title: "Stretches"
