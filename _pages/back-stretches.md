@@ -1,5 +1,5 @@
 ---
-title: Back Stretches"
+title: Back Stretches
 permalink: /fitness/back-rehab/stretches
 author_profile: false
 sidebar:
