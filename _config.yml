@@ -33,6 +33,7 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -85,6 +86,7 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+  math_engine: mathjax
 
 
 # Plugins (previously gems:)

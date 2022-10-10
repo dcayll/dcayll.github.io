@@ -8,4 +8,10 @@ tags:
   - physics
 ---
 
-test calculations about something. 
+test calculations about something.
+
+Here, have some $$\pi$$.
+
+The greatest equation known to man is:
+
+$$e^{ix} = \cos{x} + i\sin{x}$$
