@@ -56,3 +56,11 @@ fit:
         url: /fitness/back-rehab/exercises
       - title: "Stretches"
         url: /fitness/back-rehab/stretches
+
+posts:
+  - title: "Posts by Year"
+    url: /posts
+  - title: "Posts by Tags"
+    url: /tags
+  - title: "Posts by Category"
+    url: /categories

@@ -13,7 +13,7 @@ tags:
   - Shoulder
 ---
 
-text describing fitness goals. intro and 
+text describing fitness goals. intro etc
 
 
 <!-- ---
