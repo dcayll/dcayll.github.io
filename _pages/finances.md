@@ -1,7 +1,8 @@
 ---
 title: "Finances"
-permalink: /finances/
-layout: collection
+permalink: /categories/finances/
+layout: category
+taxonomy: finances
 collection: finances
 author_profile: false
 ---

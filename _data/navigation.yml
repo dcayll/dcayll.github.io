@@ -6,15 +6,13 @@ main:
   - title: "Fitness"
     url: /fitness/
   - title: "Photography"
-    url: /photography/
+    url: /categories/photography/
   - title: "Finances"
-    url: /finances/
+    url: /categories/finances/
   - title: "Engineering"
-    url: /engineering/
+    url: /categories/engineering/
   - title: "Recipes"
     url: /recipes/
-  - title: "Posts by tag"
-    url: /tags/
 
 #  - title: "Categories"
 #    url: /categories/
