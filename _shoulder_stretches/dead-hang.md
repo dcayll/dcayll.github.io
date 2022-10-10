@@ -1,6 +1,6 @@
 ---
-title: "Band External Roatation"
-excerpt: "External Rotators"
+title: "Dead Hang"
+excerpt: "Lats"
 author_profile: false
 sidebar:
   nav: "fit"
@@ -12,4 +12,4 @@ tags:
   - Shoulder
 ---
 
-text describing external band rotation
+text describing Dead hang cues

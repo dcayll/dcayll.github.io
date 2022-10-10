@@ -140,16 +140,16 @@ collections:
     permalink: /:collection/:path/
   shoulder-rehab:
     output: true
-    permalink: /:collection/:path/
+    permalink: /fitness/:collection/:path/
   shoulder-stretches:
     output: true
-    permalink: /:collection/:path/
+    permalink: /fitness/:collection/:path/
   back-rehab:
     output: true
-    permalink: /:collection/:path/
+    permalink: /fitness/:collection/:path/
   back-stretches:
     output: true
-    permalink: /:collection/:path/
+    permalink: /fitness/:collection/:path/
   photography:
     output: true
     permalink: /:collection/:path/
@@ -280,7 +280,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      
+
   # # _finances
   # - scope:
   #     path: "_finances"

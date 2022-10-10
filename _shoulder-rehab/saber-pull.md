@@ -1,7 +1,6 @@
 ---
 title: "Saber Pull"
 excerpt: "External Rotators"
-permalink: /:collection/:path
 author_profile: false
 sidebar:
   nav: "fit"
