@@ -50,7 +50,7 @@ fit:
       - title: "Stretches"
         url: /fitness/shoulder-rehab/stretches
   - title: "Back Rehab"
-    url: /fitness/back-Rehab
+    url: /fitness/back-rehab
     children:
       - title: "Exercises"
         url: /fitness/back-rehab/exercises
