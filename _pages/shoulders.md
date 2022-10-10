@@ -1,25 +1,18 @@
 ---
 title: "Shoulder Anatomy"
 excerpt: "Description of my understanding of my shoulder injury"
-permalink: /fitness/shoulder-rehab/anatomy
+permalink: /fitness/shoulder-rehab/
 author_profile: false
 sidebar:
   nav: "fit"
-collection: macrophotography
+layout: collection
+collection: shoulder-rehab
 toc: true
 toc_sticky: true
 toc_label: "Shoulder Anatomy"
 ---
 
----
-title: "Macrophotography"
-permalink: /macrophotography/
-layout: collection
-collection: macrophotography
-author_profile: false
-sidebar:
-  nav: "photos"
----
+
 
 
 text describing shoulder Anatomy and issues
