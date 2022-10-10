@@ -1,6 +1,6 @@
 ---
 title: "Landscape Photography"
-permalink: /landscape-photography/
+permalink: /categories/photography/landscape/
 layout: category
 taxonomy: landscape
 author_profile: false
