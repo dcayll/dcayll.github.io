@@ -1,6 +1,6 @@
 ---
-title: "Saber Pull"
-excerpt: "External Rotators"
+title: Internal Rotator stretch"
+excerpt: "Internal Rotators"
 author_profile: false
 sidebar:
   nav: "fit"
@@ -12,4 +12,4 @@ tags:
   - Shoulder
 ---
 
-text describing a saber pull
+text describing an internal rotator stretch
