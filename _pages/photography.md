@@ -3,7 +3,7 @@ title: "Photography"
 permalink: /categories/photography/
 layout: category
 taxonomy: photography
-author_profile: true
+author_profile: false
 sidebar:
   nav: "photos"
 ---

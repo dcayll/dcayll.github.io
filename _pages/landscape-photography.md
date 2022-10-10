@@ -1,8 +1,8 @@
 ---
 title: "Landscape Photography"
 permalink: /landscape-photography/
-layout: collection
-collection: landscape-photography
+layout: category
+taxonomy: landscape
 author_profile: false
 sidebar:
   nav: "photos"
