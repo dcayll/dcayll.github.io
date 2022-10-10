@@ -1,7 +1,6 @@
 ---
 title: "Shoulder Stretches"
 excerpt: "List of the stretches which help my shoulder pain"
-permalink: /fitness/shoulder-rehab/stretches
 author_profile: false
 sidebar:
   nav: "fit"
