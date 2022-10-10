@@ -9,8 +9,8 @@ categories:
 tags:
   - fitness
   - physical therapy
-  - Shoulder
-  - Stretch
+  - back
+  - stretch
 ---
 
 text describing Dead hang cues

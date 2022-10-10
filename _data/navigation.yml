@@ -42,14 +42,14 @@ fit:
 #    children:
 #      - title: "Goals"
 #        url: /fitness/goals
-  - title: "Shoulder Rehab"
+  - title: "Shoulder Rehab Overview"
     url: /fitness/shoulder-rehab
     children:
       - title: "Exercises"
         url: /fitness/shoulder-rehab/exercises
       - title: "Stretches"
         url: /fitness/shoulder-rehab/stretches
-  - title: "Back Rehab"
+  - title: "Back Rehab Overview"
     url: /fitness/back-rehab
     children:
       - title: "Exercises"

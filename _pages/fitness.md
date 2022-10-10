@@ -10,7 +10,6 @@ categories:
 tags:
   - fitness
   - physical therapy
-  - Shoulder
 ---
 
 text describing fitness goals. intro etc

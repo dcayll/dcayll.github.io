@@ -1,7 +1,6 @@
 ---
 title: "Back Stretches"
 excerpt: "List of the stretches which help my back pain"
-permalink: /fitness/back-rehab/stretches
 author_profile: false
 sidebar:
   nav: "fit"
