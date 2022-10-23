@@ -13,4 +13,4 @@ tags:
 
 ---
 
-General approach to lifting here
+General approach to lifting here. nothing about specific exercises because there is plenty out there on this. include links to good podcasts, youtube videos, etc.
