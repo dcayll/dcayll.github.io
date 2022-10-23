@@ -1,5 +1,5 @@
 ---
-title: "test of Jupyter notebook"
+title: "Test of Jupyter notebook"
 excerpt: "back of the envelope calculations"
 categories:
   - engineering
@@ -7,7 +7,6 @@ tags:
   - calculations
   - physics
   - jupyter
-
 ---
 
 ```python
