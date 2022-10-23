@@ -8,4 +8,4 @@ sidebar:
   nav: "photos"
 ---
 
-Collection of my any other photography things that may not fit nicely into the other collections kept on this site.
+Collection of all posts that all fall under the "Photography" category.
