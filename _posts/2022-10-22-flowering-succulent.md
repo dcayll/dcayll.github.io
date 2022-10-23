@@ -1,6 +1,6 @@
 ---
-title: "Puerto Rico Laser Cut"
-excerpt: "GIMP process for making a laser cut image from a png file."
+title: "Flowering succulent"
+excerpt: "the making of a time lapse of a flowering succulent"
 header:
   image: /assets/images/foo-bar-identity.jpg #put gif here
   teaser: /assets/images/foo-bar-identity-th.jpg
@@ -23,11 +23,11 @@ header:
 #    alt: "placeholder image 3"
 categories:
   - photography
+  - macro
 tags:
-  - GIMP
-  - Laser Cut
   - photography
+  - succulent
 
 ---
 
-Download image of what you want to cut out. I'm cutting out the shape of puerto rico and will be rastering the flag into the background as wall decoration for my girlfriend's apartment.
+time lapse of flowering Succulent

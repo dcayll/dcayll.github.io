@@ -1,8 +1,8 @@
 ---
 title: "Macrophotography"
-permalink: /macrophotography/
-layout: collection
-collection: macrophotography
+permalink: /photography/macro/
+layout: category
+taxonomy: macro
 author_profile: false
 sidebar:
   nav: "photos"

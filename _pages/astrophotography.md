@@ -1,6 +1,6 @@
 ---
 title: "Astrophotography"
-permalink: /categories/photography/astro/
+permalink: /photography/astro/
 layout: category
 taxonomy: astro
 author_profile: false

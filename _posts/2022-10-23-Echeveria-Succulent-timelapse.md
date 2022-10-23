@@ -1,6 +1,6 @@
 ---
-title: "Flowering succulent"
-excerpt: "the making of a time lapse of a flowering succulent"
+title: "Echeveria Succulent Timelapse"
+excerpt: "The making of a time lapse of the growth of an Echeveria Succulent from a single leaf."
 header:
   image: /assets/images/foo-bar-identity.jpg #put gif here
   teaser: /assets/images/foo-bar-identity-th.jpg
@@ -23,11 +23,21 @@ header:
 #    alt: "placeholder image 3"
 categories:
   - photography
-  - macrophotography
+  - macro
 tags:
+  - Succulent
   - photography
-  - succulent
 
 ---
 
-time lapse of flowering Succulent
+Text about how the photos were taken and how the post processing was performed to create the gif.
+
+photo of camera on tripod
+
+gallery of multiple stills as it grows
+
+summary of pocessing in GIMP
+
+description of software for making the gif and lining up all the images
+
+link to instagram of it

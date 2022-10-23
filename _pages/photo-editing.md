@@ -1,8 +1,8 @@
 ---
 title: "Photo editing"
-permalink: /photo-editing/
-layout: collection
-collection: photo-editing
+permalink: /photography/photo-editing/
+layout: category
+taxonomy: editing
 author_profile: false
 sidebar:
   nav: "photos"

@@ -25,13 +25,13 @@ photos:
     url: /photography/
     children:
       - title: "Macrophotography"
-        url: /macrophotography/
+        url: /photography/macro/
       - title: "Astrophotography"
-        url: /categories/photography/astro/
+        url: /photography/astro/
       - title: "Landscape Photography"
-        url: /categories/photography/landscape/
+        url: /photography/landscape/
       - title: "Photo Editing"
-        url: /photo-editing/
+        url: /photography/photo-editing/
       - title: "General Photography"
         url: /general-photography/
 
