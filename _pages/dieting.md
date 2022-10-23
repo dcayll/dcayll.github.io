@@ -1,7 +1,7 @@
 ---
 title: "Diet Fundamentals"
 excerpt: "Description of how approach my diet"
-<!-- permalink: /fitness/lifting/diet -->
+permalink: /fitness/lifting/diet
 author_profile: false
 sidebar:
   nav: "fit"
