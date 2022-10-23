@@ -15,7 +15,7 @@ plt.show()
 ```
 
 
-![png](/assets/images/20221023-test-jupyter_files/2022-10-23-test-jupyter_1_0.png)
+![png](/assets/images/2022-10-23-test-jupyter_files/2022-10-23-test-jupyter_1_0.png)
 
 
 ## title of this section
