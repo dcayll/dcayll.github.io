@@ -10,6 +10,8 @@ categories:
 tags:
   - fitness
   - physical therapy
+toc: true
+toc_sticky: true
 ---
 
 ## Fitness
@@ -28,4 +30,4 @@ My two major injuries are impingement in my left shoulder from weak rotator cuff
 
 ### Cardio
 
-I like to be as efficient as possible when doing cardio, so I mostly do HIIT training (zone 5 I think). And this is also only when I'm trying to cut down. I'd like to add in some zone 2 cardio in the near future if I can fit it into my schedule conveniently. 
+I like to be as efficient as possible when doing cardio, so I mostly do HIIT training (zone 5 I think). And this is also only when I'm trying to cut down. I'd like to add in some zone 2 cardio in the near future if I can fit it into my schedule conveniently.
