@@ -36,7 +36,7 @@ photos:
       #   url: /photography/grid
 
 fit:
-  - title: "Lifting"
+  - title: "Lifting Overview"
     url: /fitness/lifting
     children:
      - title: "Tracking"
