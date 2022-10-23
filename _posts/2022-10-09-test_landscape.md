@@ -1,5 +1,5 @@
 ---
-title: "Test"
+title: "Landscape Test1"
 excerpt: "Test landscape post"
 header:
   image: /assets/images/foo-bar-identity.jpg #put gif here

@@ -1,5 +1,5 @@
 ---
-title: "Test2"
+title: "Landscape Test2"
 excerpt: "Test landscape post2"
 header:
   image: /assets/images/foo-bar-identity.jpg #put gif here
@@ -22,8 +22,8 @@ header:
 #    image_path: assets/images/unsplash-gallery-image-3-th.jpg
 #    alt: "placeholder image 3"
 categories:
+  - photography
   - landscape
-
 tags:
   - Succulent
   - photography
