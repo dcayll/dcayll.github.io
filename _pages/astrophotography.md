@@ -1,8 +1,8 @@
 ---
 title: "Astrophotography"
-permalink: /astrophotography/
-layout: collection
-collection: astrophotography
+permalink: /categories/photography/astro/
+layout: category
+taxonomy: astro
 author_profile: false
 sidebar:
   nav: "photos"
