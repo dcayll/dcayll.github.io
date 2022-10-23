@@ -9,5 +9,3 @@ sidebar:
 ---
 
 Collection of my macrophotography and processing techniques.
-
-test here

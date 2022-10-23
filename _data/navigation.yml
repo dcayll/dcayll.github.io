@@ -32,8 +32,8 @@ photos:
         url: /photography/landscape/
       - title: "Photo Editing"
         url: /photography/photo-editing/
-      - title: "Tile View"
-        url: /general-photography/
+      # - title: "Tile View"
+      #   url: /photography/grid
 
 fit:
 #  - title: "Goals and Plans"

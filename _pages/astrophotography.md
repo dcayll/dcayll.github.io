@@ -9,5 +9,3 @@ sidebar:
 ---
 
 Collection of my astrophotography and processing techniques.
-
-test here
