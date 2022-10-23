@@ -24,7 +24,7 @@ header:
 categories:
   - photography
   - macrophotography
-  - astrophotography
+  - astro
 tags:
   - Succulent
   - photography
