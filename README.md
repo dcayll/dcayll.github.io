@@ -26,13 +26,14 @@
 
 ```
 ---
-title: "test Analysis"
-excerpt: "back of the envelope calculations"
+title: "Title"
+excerpt: "quick summary"
 categories:
   - engineering
 tags:
   - calculations
-  - physics
+  - simulation
+  - jupyter
 ---
 ```
 
