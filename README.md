@@ -20,9 +20,8 @@
     - open python terminal (through anaconda navigator)
     - type in: `cd C:\Users\dcayl\Documents\GitHub\dcayll.github.io\_jupyter` to navigate to the jupyter notebook folder
     - then `jupyter nbconvert --to markdown *filename*.ipynb` to convert the jupyter notebook into a markdown file.
-
-
-
+3. Now, the notebook should be converted into a .md file in the same `_jupyter` folder with all figures saved as .png files in a folder with the same name as the jupyter notebook file.
+4. Finally, the folder including all the images must be copied into the `assets` folder so the .md file can display it.
 
 
 # Minimal Mistakes clone for personal website
