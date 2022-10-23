@@ -23,7 +23,9 @@
 3. Now, the notebook should be converted into a .md file in the same `_jupyter` folder with all figures saved as .png files in a folder with the same name as the jupyter notebook file.
 4. Finally, the folder including all the images must be copied into the `assets` folder so the .md file can display it.
 5. Lastly, you can add the front matter to ensure the file is sorted correctly. for example:
-`---
+
+```
+---
 title: "test Analysis"
 excerpt: "back of the envelope calculations"
 categories:
@@ -31,7 +33,8 @@ categories:
 tags:
   - calculations
   - physics
----`
+---
+```
 
 
 
