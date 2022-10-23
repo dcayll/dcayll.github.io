@@ -39,8 +39,10 @@ fit:
   - title: "Lifting Overview"
     url: /fitness/lifting
     children:
-     - title: "Tracking"
-       url: /fitness/lifting/tracking
+      - title: "Tracking Progress"
+        url: /fitness/lifting/tracking
+      - title: "Diet Fundamentals"
+        url: /fitness/lifting/diet
   - title: "Shoulder Rehab Overview"
     url: /fitness/shoulder-rehab
     children:
