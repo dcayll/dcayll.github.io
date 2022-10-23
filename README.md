@@ -13,6 +13,18 @@
   - note that the port number may change based on which repository is opened in which port
   - any changes made and saved in the code will show up as changes in the website
 
+# To create and import Jupyter notebooks into the Jekyll website
+
+1. create jupyter notebook in `_jupyter` folder in website path.
+2. convert jupyter notebook to a .md file
+    - open python terminal (through anaconda navigator)
+    - type in: `cd C:\Users\dcayl\Documents\GitHub\dcayll.github.io\_jupyter` to navigate to the jupyter notebook folder
+    - then `jupyter nbconvert --to markdown *filename*.ipynb` to convert the jupyter notebook into a markdown file.
+
+
+
+
+
 # Minimal Mistakes clone for personal website
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
@@ -35,7 +47,7 @@ Replace sample content with your own and [configure as necessary](https://mmista
 
 ## Troubleshooting
 
-Sometimes, if a collection doesnt show up when you think it should be, restart git bash. When there are names of collections or defaults changed, jekyll needs to redo the whole configuration process by restarting git bash. 
+Sometimes, if a collection doesnt show up when you think it should be, restart git bash. When there are names of collections or defaults changed, jekyll needs to redo the whole configuration process by restarting git bash.
 
 If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
 
