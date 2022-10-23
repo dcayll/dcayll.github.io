@@ -42,3 +42,6 @@ This is pure text describing the plot above. things to note:
 ```python
 
 ```
+testing footnotes[^1]
+
+[^1]: this is the stuff im putting in the footnote
