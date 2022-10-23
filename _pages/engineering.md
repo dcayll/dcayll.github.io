@@ -1,6 +1,6 @@
 ---
 title: "Engineering"
-permalink: /categories/engineering/
+permalink: /engineering/
 layout: category
 taxonomy: engineering
 author_profile: true

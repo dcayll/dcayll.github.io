@@ -6,11 +6,11 @@ main:
   - title: "Fitness"
     url: /fitness/
   - title: "Photography"
-    url: /categories/photography/
+    url: /photography/
   - title: "Finances"
-    url: /categories/finances/
+    url: /finances/
   - title: "Engineering"
-    url: /categories/engineering/
+    url: /engineering/
   - title: "Recipes"
     url: /recipes/
 

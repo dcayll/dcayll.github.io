@@ -1,6 +1,6 @@
 ---
 title: "Photography"
-permalink: /categories/photography/
+permalink: /photography/
 layout: category
 taxonomy: photography
 author_profile: false

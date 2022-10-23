@@ -1,6 +1,6 @@
 ---
 title: "Finances"
-permalink: /categories/finances/
+permalink: /finances/
 layout: category
 taxonomy: finances
 collection: finances
