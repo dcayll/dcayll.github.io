@@ -36,10 +36,11 @@ photos:
       #   url: /photography/grid
 
 fit:
-#  - title: "Goals and Plans"
-#    children:
-#      - title: "Goals"
-#        url: /fitness/goals
+  - title: "Lifting"
+    url: /fitness/lifting
+    children:
+     - title: "Overview"
+       url: /fitness/goals
   - title: "Shoulder Rehab Overview"
     url: /fitness/shoulder-rehab
     children:
