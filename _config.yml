@@ -26,13 +26,13 @@ description: >- # this means to ignore newlines until "baseurl:"
 instagram_username: dcayll
 twitter_username: dcayll1
 github_username: dcayll
-minimal_mistakes_skin: dark
 search: true
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-
+minimal_mistakes_skin: dark
+minimal_mistakes_skin2: default
 
 # Outputting
 permalink: /:categories/:title/
