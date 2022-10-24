@@ -101,7 +101,7 @@ plugins:
 author:
   name   : "David Cayll"
   avatar : "/assets/images/DSC04797.JPG"
-  bio    : "Thinking, learning, and writing in real time. Mostly for me, but take what you will"
+  bio    : "Writing to organize my thoughts. Mostly for me, but take what you will"
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
@@ -152,29 +152,6 @@ collections:
   back-stretches:
     output: true
     permalink: /fitness/:collection/:path/
-  photography:
-    output: true
-    permalink: /:collection/:path/
-    photo: true
-  macrophotography:
-    output: true
-    permalink: /:collection/:path/
-    photo: true
-  astrophotography:
-    output: true
-    permalink: /:collection/:path/
-    photo: true
-  landscape-photography:
-    output: true
-    permalink: /:collection/:path/
-    photo: true
-  photo-editing:
-    output: true
-    permalink: /:collection/:path/
-    photo: true
-  # finances:
-  #   output: true
-  #   permalink: /:collection/:path/
 
 
 defaults:
