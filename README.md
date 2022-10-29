@@ -37,6 +37,12 @@ tags:
 ---
 ```
 
+# To include latex into Jekyll
+
+1. Just include an equation the same way you would in a latex file using either:
+`$$ /frac{a^y}{b^x} $$`
+or
+`\(/frac{a^y}{b^x}\) `
 
 
 # Minimal Mistakes clone for personal website
