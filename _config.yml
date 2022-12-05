@@ -104,8 +104,11 @@ author:
   avatar : "/assets/images/DSC04797.JPG"
   bio    : "Writing to organize my thoughts. Mostly for me, but take what you will"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:dcayll@utexas.edu"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/david-cayll/"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
