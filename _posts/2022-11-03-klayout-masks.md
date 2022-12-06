@@ -26,3 +26,7 @@ edit -> selection -> align and then center for x and y direction.
  - Next, select edit -> selction -> first into inside/ outside others
  - this will create an outline object and then also the individual hole
 7. Next, use the search and replace tool to find partial circles and remove them from the circle array. Find objects that have less area than what would be expected for a full circle.
+
+
+For alignment of things to arbitrary origin
+1. 
