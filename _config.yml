@@ -35,6 +35,14 @@ remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: dark
 minimal_mistakes_skin2: default
 
+# Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-X68RBS42F2"
+    anonymize_ip: false # default
+
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
