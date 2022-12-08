@@ -9,11 +9,11 @@ tags:
   - MEMS
 ---
 
+This post is to describe how to perform certain tasks in klayout to create photolithography masks for ultrasonic sensors for my PhD. 
 
-Notes:
-- Search and replace feature doesn't accept expressions. you must compute the area or perimeter you'd like to search for and type in the number.
 
-### To create a hexagonal array: 
+
+#### To create a hexagonal array: 
 ___
 1. Create a cell with a pcell array of 2 circles and space them out according to the geometry required to create a hexagonal array. Refer to excel sheet for dimensions.
 2. Create an array of the above pcell array to fill the backplate. refer to the excel doc for spacing of this array.
@@ -29,7 +29,11 @@ edit -> selection -> align and then center for x and y direction.
 7. Next, use the search and replace tool to find partial circles and remove them from the circle array. Find objects that have less area than what would be expected for a full circle.
 
 
-For alignment of things to arbitrary origin
+#### For alignment of things to arbitrary origin
 1. Start with cell centered around origin
 2. Place in the general location the final cell will be at
 3. Then 
+
+
+#### Random Notes:
+- Search and replace feature doesn't accept expressions. you must compute the area or perimeter you'd like to search for and type in the number.
