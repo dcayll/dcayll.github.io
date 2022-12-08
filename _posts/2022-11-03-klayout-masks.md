@@ -9,11 +9,12 @@ tags:
   - MEMS
 ---
 
+
 Notes:
 - Search and replace feature doesn't accept expressions. you must compute the area or perimeter you'd like to search for and type in the number.
--
 
-To create a hexagonal array:
+### To create a hexagonal array: 
+___
 1. Create a cell with a pcell array of 2 circles and space them out according to the geometry required to create a hexagonal array. Refer to excel sheet for dimensions.
 2. Create an array of the above pcell array to fill the backplate. refer to the excel doc for spacing of this array.
 4. center the array of holes with the backplate circle using align tool. Make sure you're on the level of the array of holes, then select both the array and the backplate circle.
@@ -29,4 +30,6 @@ edit -> selection -> align and then center for x and y direction.
 
 
 For alignment of things to arbitrary origin
-1. 
+1. Start with cell centered around origin
+2. Place in the general location the final cell will be at
+3. Then 
