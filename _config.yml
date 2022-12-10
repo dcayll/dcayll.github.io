@@ -222,6 +222,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      comments: true
 
   # _recipes
   - scope:
@@ -231,6 +232,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      comments: true
 
   # _shoulder-rehab
   - scope:
@@ -240,6 +242,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      comments: true
 
   # _shoulder-stretches
   - scope:
@@ -249,6 +252,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      comments: true
 
   # _back-rehab
   - scope:
@@ -258,6 +262,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      comments: true
 
   # _back-stretches
   - scope:
@@ -267,6 +272,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      comments: true
 
 
 category_archive:
