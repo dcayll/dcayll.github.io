@@ -1,6 +1,7 @@
 ---
 title: "Notes on creating masks for MEMS devices on klayout"
 excerpt: ""
+comments: true
 categories:
   - engineering
 tags:
