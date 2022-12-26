@@ -12,9 +12,6 @@ toc_sticky: true
 toc_label: "Shoulder Anatomy"
 ---
 
-
-
-
 text describing shoulder Anatomy and issues
 
 ## Shoulder Overview
