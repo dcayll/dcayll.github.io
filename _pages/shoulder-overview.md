@@ -18,7 +18,7 @@ text describing shoulder Anatomy and issues
 
 figure of shoulder joint with bones, rotator cuff, and tendons
 
-The shoulder is a complicated joint and is relatively unstable becuase it must allow for a large range of motion. this gives us a lot of arm freedom, but it makes us prone to injury.
+The shoulder is a complicated joint and is relatively unstable becuase it must allow for a large range of motion. This gives us a lot of arm freedom, but it makes the shoulder joint prone to injury. Shoulder injury is extremely common in weight lifters. There are many different root causes, but 
 
 ## Dysfunction Discription
 
