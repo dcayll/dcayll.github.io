@@ -31,5 +31,5 @@ If you are having pain, please seek out help from a professional for an official
 
 
 
-[^1]: E. Syrmou, T. Pp, D. Marinopoulos, C. Tsonidis, I. Anagnostopoulos, and T. Pd, “Spondylolysis : A review and reappraisal,” Hippokratia, pp. 17–21, 2010.
+[^1]: [E. Syrmou, T. Pp, D. Marinopoulos, C. Tsonidis, I. Anagnostopoulos, and T. Pd, “Spondylolysis : A review and reappraisal,” Hippokratia, pp. 17–21, 2010.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2843565/)
 [^2]: [https://orthoinfo.aaos.org/en/diseases--conditions/spondylolysis-and-spondylolisthesis](https://orthoinfo.aaos.org/en/diseases--conditions/spondylolysis-and-spondylolisthesis)
