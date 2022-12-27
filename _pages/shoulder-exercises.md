@@ -8,4 +8,4 @@ layout: collection
 collection: shoulder-rehab
 ---
 
-collection of rehab excersizes for my shoulder
+collection of rehab excersizes for shoulder stability

@@ -8,4 +8,4 @@ layout: collection
 collection: shoulder-stretches
 ---
 
-collection of rehab stretches for my shoulder
+collection of rehab stretches for shoulder mobility
