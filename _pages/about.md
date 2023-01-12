@@ -1,23 +1,18 @@
 ---
 permalink: /about/
 title: "About"
-date: 2022-07-10T15:34:30-04:00
-
 toc: true
 toc_sticky: true
 toc_label: "About this website"
 ---
-I'm currently a PhD student at the Univeristy of Texas at Austin in the
-Nanoscale Design and Manufacturing lab. I'm also working part time as an R&D
-Engineer at GraphAudio inc, a small start-up based in Austin. In my spare time
-I enjoy being outdoors, riding motorcycles, lifting weights, practicing macro
-and astro photography, and learning about macro economics and monetary policy.
-This website is for organizing my random thoughts and hobbies, and hopefully
-these things may be helpful to others.
 
 ## Overview
 
-This is my first post. I made this website mostly for myself so I can track things I'm interested in over time and be able to go back and check it out. Basically an online, public diary. Maybe I can help someone along the way as well. Maybe it’s my own hubris thinking that other people might want to hear my opinion on things, but I believe that I am relatively well informed on things I'm interested in, and I feel obligated to share relevant knowledge with people if they ever ask me. I like that this website is a public place and it will force me to create things with organization and structure, a beginning and an end. I'll try to include references wherever possible for anyone to check my work.
+I'm currently a PhD student at the Univeristy of Texas at Austin in the Nanoscale Design and Manufacturing lab. I'm also working part time as an R&D Engineer at GraphAudio inc, a small start-up based in Austin. In my spare time I enjoy being outdoors, riding motorcycles, lifting weights, practicing macro and astro photography, and learning about macro economics and monetary policy. This website is for organizing my random thoughts and hobbies, and hopefully these things may be helpful to others.
+
+I especially like and agree with Paul Graham's short essay on writing, [Writing, Briefly](http://www.paulgraham.com/writing44.html). He argues not enough of us write, and the mere process of writing generates new ideas, along with sharpening and sculpting existing ideas. 
+
+I like that this website is a public place and it will force me to create things with organization and structure, with a beginning and an end. I'll try to include references wherever possible for anyone to check my work.
 
 ## Fitness
 
@@ -25,19 +20,21 @@ I've been physically active for (mostly) my whole life, and fitness is one of my
 
 ### Bodybuilding
 
-My fitness journey really started for the wrong reasons, but very common reasons for an awkward shy 15 year old. I wanted to get muscles to get girls and get respect from guys. Size was the only thing I cared about. That ended up biting me in the end, but I will never regret getting started that early because it is what created this lasting habit of working out in me.
+My fitness journey really started for the wrong reasons, but very common reasons for an awkward, shy 15 year old. I wanted to get muscles to get girls and get respect from guys. Size was the only thing I cared about. That ended up biting me in the end, but I will never regret getting started that early because it is what created this lasting habit of working out in me.
 
 ### Mobility
 
-My two major injuries are impingement in my left shoulder from weak rotator cuffs and tight lat, pec, and suprispinatus muscles. Basically my left shoulder is rotated forward and looks higher than my right when at rest. This reduces space in the front part of the shoulder and causes ligaments to become "impinged" and rub against bone, muscle, and other ligaments and get inflamed. This is a very common issue in weight lifters
+My first major injuries are impingement in my left shoulder from weak rotator cuffs and tight lat, pec, and rotator cuff muscles. Basically my left shoulder is rotated forward and looks higher than my right when at rest. This reduces space in the front part of the shoulder and causes ligaments to become "impinged" and rub against bone, muscle, and other ligaments and get inflamed. This is a very common issue in weight lifters and takes constant posture correction and I will be dealing with this my entire life. 
+
+My second major injury was Spondylolysis which is a pars defect at the L5/S1 vertebrae. I fractured a small bone in my back while deadlifting, and I need to keep my core strong so the pain doesn't come back. 
 
 ### Cardio
 
-I like to be as efficient as possible when doing cardio, so I mostly do HIIT training (zone 5 I think). And this is also only when I'm trying to cut down. I'd like to add in some zone 2 cardio in the near future if I can fit it into my schedule conveniently.
+I like to be as efficient as possible when doing cardio, so usually I just try to keep my weight lifting as high intensity as possible so I can kill two birds with one stone. I sometimes do HIIT training on a stationary bike, but only when I'm trying to cut down. I'd like to add in some zone 2 (slow, ~60-70% Max HR) cardio in the near future if I can fit it into my schedule conveniently.
 
 ## Photography
 
-I got a Sony a6100, and it is a great entry level camera so far. I picked it becuase it is a relatively small form factor and lenses are common for the sony E-mount size. I enjoy taking photos of nature and staging photos well when people ask me to take one for them (also complain when people misframe a photo I want taken). Recently, I haven't been using my Sony as much becuase, honestly, my iPhone takes pretty good pictures in most common scenarios. Many times even better than what I can do on the Sony. So I've shifted my photography focus onto things that the iPhone cant do (yet).
+I got a Sony a6100 Fall of 2020, and it is a great entry level camera so far. I picked it becuase it is a relatively small form factor and lenses are common and affordable for the sony E-mount size. I enjoy taking photos of nature and staging photos well when people ask me to take one for them (also complain when people misframe a photo I want taken). Recently, I haven't been using my Sony as much becuase, honestly, my iPhone takes pretty good pictures in most common scenarios. Many times even better than what I can do on the Sony. So I've shifted my photography focus onto things that my iPhone cant do (yet).
 
 ### Macro
 
@@ -45,7 +42,7 @@ Macro photography is taking pictures of very small things. I especially enjoy se
 
 ### Astro
 
-Astrophotography means taking pictures of stars and other things in space. Last christmas I got a star tracker that follows the rotation of the earth when aligned correctly. This is necessary because the stars and nebulae are very dim and require very long exposures, sometimes from 5 min up to hours. This means the rotation of the earth makes the stars look like streaks in the image and limit your exposure time. It is a difficult and time consuming hobby because you need to be up late and keep your eyes on the weather forecast becuase clouds or humidity in the air can cause visibility issues. Also alignment of the camera is difficult and any misalignement can ruin the photos. But the size of the sensor and the apeture is directly proportional to the amount of light the camera can absorb, so the iPhone is very limited by a small sensor and small apeture so the Sony is necessary.
+Astrophotography means taking pictures of stars and other things in space. Christmas 2021 I got a star tracker that follows the rotation of the earth when aligned correctly. This is necessary because the stars and nebulae are very dim and require very long exposures, sometimes from 5 min up to hours. This means the rotation of the earth makes the stars look like streaks in the image and limit your exposure time. It is a difficult and time consuming hobby because you need to be up late and keep your eyes on the weather forecast becuase clouds or humidity in the air can cause visibility issues. Also alignment of the camera is difficult and any misalignement can ruin the photos. But the size of the sensor and the apeture is directly proportional to the amount of light the camera can absorb, so the iPhone is very limited by a small sensor and small apeture so the Sony is necessary.
 
 ### Landscape
 
@@ -53,7 +50,7 @@ Landscape photography is what made me want to get my mirrorless camera, and a ul
 
 ### Portraits
 
-I've only recently tried portraits, and they're hard. Lighting is important, and
+I've only recently tried portraits, and they're hard. Lighting is important, and the iPhone is usually better for this unless you have an expensive lighting setup as well. 
 
 ### Photo editing
 
@@ -69,12 +66,12 @@ I'm an engineer and a scientist, so I think about a lot of weird "what if's". I 
 
 ### Finances
 
-I'm very interested in macroeconomics and monetary policy. I enjoy learning about large scale consequences created by monetary decisions made by people in various positions of power. I'm also interested in personal finance, and how to maximize the value of every dollar.
+I'm very interested in macroeconomics and monetary policy. I enjoy learning about large scale consequences created by monetary decisions made by people in various positions of power. I'm also interested in personal finance, and how to maximize the value of every dollar. I plan to use this website to answer questions that are personally relevant to myself and to which there isn't a straightforward answer on google. 
 
-### Life
+### Thoughts
 
-I will likely not include many personal details on this site, but I may try to distill down some personal insights I've gained over time. I'll try to keep from being preachy and self-riteous.
+Sometimes I want to 
 
 ## Conclusion
 
-I guess I'm a blogger now. Sounds weird to say, and I didn't even know that this was blogging. This is mostly a personal blog, but if my friends/family/colleagues/friendly strangers want to browse, it is welcome!
+I guess I'm a blogger now. Sounds weird to say, and I didn't even know that this was what blogging was. This is mostly a personal blog, but if my friends/family/colleagues/friendly strangers want to browse, welcome!

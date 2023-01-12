@@ -1,0 +1,5 @@
+---
+permalink: /quotes/
+title: "Quotes"
+---
+
