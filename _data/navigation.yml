@@ -23,7 +23,7 @@ main:
 
 #photos sidebar:
 photos:
-  - title: "Photography Collections"
+  - title: "Photography by type"
     url: /photography/
     children:
       - title: "Macrophotography"
@@ -39,7 +39,7 @@ photos:
 
 
 #book-notes sidebar:
-photos:
+books:
   - title: "Book Notes Collections"
     url: /book-notes/
     children:

@@ -13,4 +13,15 @@ tags:
 
 ---
 
-General approach to lifting here. nothing about specific exercises because there is plenty out there on this. include links to good podcasts, youtube videos, etc.
+Links to good resources for getting started
+
+Lifting technique, rehab, prehab, etc
+Athleanx on youtube
+
+Science-based workout 
+Jeff Nippard
+
+Gym Comedy
+Broscience life
+
+Lifting 

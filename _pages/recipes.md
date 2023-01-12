@@ -9,4 +9,4 @@ toc_sticky: true
 toc_label: "Recipes"
 ---
 
-Collection of my recipes in the '_recipes' folder
+This section will be a running collection of recipes I've tried and will hope to cook again in the future. Many are from my mom or online, so don't give me too much credit. 

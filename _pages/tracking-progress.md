@@ -10,19 +10,6 @@ categories:
 tags:
   - fitness
   - physical therapy
-toc: true
-toc_sticky: true
-toc_label: "Progression"
 ---
 
-Text describing how I track progress in the gym.
-
-# big title
-
-## title1
-
-### subtitle 1
-
-#### subsubtitle 1
-
-##### subsubsubtitle 1
+Tracking progress is very important in all aspects of life, but especially in the gym. I use an app called "Strong" on my iPhone to track my workouts to see how I'm progressing. It helps my motivation a lot by seeing direct improvements from week to week and month to month. 
