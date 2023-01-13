@@ -181,6 +181,9 @@ collections:
   recipes:
     output: true
     permalink: /:collection/:path/
+  book-notes:
+    output: true
+    permalink: /:collection/:path/
   shoulder-rehab:
     output: true
     permalink: /fitness/:collection/:path/
@@ -228,6 +231,16 @@ defaults:
   - scope:
       path: "" # "_recipes"
       type: recipes
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+
+  # _book-notes
+  - scope:
+      path: "" # "_recipes"
+      type: book-notes
     values:
       layout: single
       author_profile: true

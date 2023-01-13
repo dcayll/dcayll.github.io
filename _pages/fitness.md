@@ -18,8 +18,8 @@ I've been physically active for (mostly) my whole life, and fitness is one of my
 
 ### Injuries
 
-My first major injuries are impingement in my left shoulder from weak rotator cuffs and tight lat, pec, and rotator cuff muscles. Basically my left shoulder is rotated forward and looks higher than my right when at rest. This reduces space in the front part of the shoulder and causes ligaments to become "impinged" and rub against bone, muscle, and other ligaments and get inflamed. This is a very common issue in weight lifters and takes constant posture correction and I will be dealing with this my entire life. 
+My first major injury was impingement in my left shoulder from weak rotator cuffs and tight lat, pec, and rotator cuff muscles. Basically my left shoulder is rotated forward and looks higher than my right when at rest. This reduces space in the front part of the shoulder and causes ligaments to become "impinged", or rub against bone, muscle, or other ligaments, and get inflamed. This is a very common issue in weight lifters and takes constant posture correction. 
 
-My second major injury was Spondylolysis which is a pars defect at the L5/S1 vertebrae. I fractured a small bone in my back while deadlifting, and I need to keep my core strong so the pain doesn't come back. 
+My second major injury was from deadlifting poorly. I was diagnosed with spondylolysis, which is the fracture of a small bone in the lumbar spine. The only cure is to strengthen the core. 
 
-Navigate the side bar to the left to see my archive of excersizes and stretches I use to continually recover from my injuries
+Navigate the side bar to the left to see an archive of excersizes and stretches I use to continually recover from my injuries.

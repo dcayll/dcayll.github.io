@@ -6,10 +6,10 @@ header:
   teaser: /assets/images/foo-bar-identity-th.jpg
 ---
 
-I'm currently a PhD student at the Univeristy of Texas at Austin in the Nanoscale Design and Manufacturing lab. I'm also working part time as an R&D Engineer at GraphAudio inc, a small start-up based in Austin. In my spare time I enjoy being outdoors, riding motorcycles, lifting weights, practicing macro and astro photography, and learning about macro economics and monetary policy. This website is for organizing my random thoughts and hobbies, and hopefully these things may be helpful to others.
+I'm currently a PhD student at the Univeristy of Texas at Austin in the Nanoscale Design and Manufacturing lab. I'm also working part time as an R&D Engineer at GraphAudio inc, a small start-up based in Austin. In my spare time I enjoy being outdoors, riding motorcycles, lifting weights, practicing macro and astro photography, and learning about macro economics and monetary policy. This website is for organizing my random thoughts and hobbies in hopes that these things may be helpful to others.
 
-I especially like and agree with Paul Graham's short essay on writing, [Writing, Briefly](http://www.paulgraham.com/writing44.html). He argues not enough of us write, and the mere process of writing generates new ideas, along with sharpening and sculpting existing ideas. I will use this website as a public place to write my ideas and it will force me to create things with organization and structure, with a beginning and an end. I'll try to include references to be as helpful as possible to potential readers.
+I especially like and agree with Paul Graham's short essay on writing, [Writing, Briefly](http://www.paulgraham.com/writing44.html). He argues not enough of us write, and the mere process of writing generates new ideas, along with sharpening and sculpting existing ideas. I will use this website as a public place to write my ideas which will force me to create things with organization and structure, with a beginning and an end. I'll try to include references to be as helpful as possible to potential readers.
 
-Afterall, if you have novel insights, but can never communicate them to someone else or even to your future self, then how great was that thought anyway? 
+Afterall, if you have great insights, but can never communicate them to someone else or even to your future self, then how great was that thought anyway? 
 
 Well, I guess I'm a blogger now. Thanks for reading! 

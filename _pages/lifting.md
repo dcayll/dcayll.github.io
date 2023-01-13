@@ -15,13 +15,11 @@ tags:
 
 Links to good resources for getting started
 
-Lifting technique, rehab, prehab, etc
-Athleanx on youtube
+#### Lifting technique, rehab, prehab, etc:
+[Athleanx on youtube](https://www.youtube.com/@athleanx)
 
-Science-based workout 
-Jeff Nippard
+#### Science-based workouts:
+[Jeff Nippard on youtube](https://www.youtube.com/@JeffNippard)
 
-Gym Comedy
-Broscience life
-
-Lifting 
+#### Gym Comedy:
+[Brosciencelife on youtube](https://www.youtube.com/@BroScienceLife)
