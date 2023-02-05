@@ -1,0 +1,11 @@
+---
+title: "The Price of Inequality"
+permalink: /book-notes/Stiglitz-The-Price-of-Inequality/
+author_profile: false
+header:
+  image: /assets/images/book-notes/Covers/Price of Inequality.jpg
+  teaser: /assets/images/book-notes/Covers/Price of Inequality.jpg
+sidebar:
+  nav: "book-notes"
+---
+
