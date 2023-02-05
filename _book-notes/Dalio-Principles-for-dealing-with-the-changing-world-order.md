@@ -65,7 +65,7 @@ sidebar:
 - International conflict possible if another power with big military 
 	- Requires leading power to spend more on military as internal conditions worsen
 - When debt and currency holders lose faith, they sell and cycle ends
-
+- test text from mobile
 	
 	
 	
