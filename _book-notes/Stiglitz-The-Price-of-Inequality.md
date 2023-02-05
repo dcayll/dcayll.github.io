@@ -1,5 +1,5 @@
 ---
-title: "The Price of Inequality"
+title: "The Price of Inequality - Joseph Stiglitz"
 permalink: /book-notes/Stiglitz-The-Price-of-Inequality/
 author_profile: false
 header:
