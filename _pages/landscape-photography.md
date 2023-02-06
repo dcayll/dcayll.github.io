@@ -2,6 +2,7 @@
 title: "Landscape Photography"
 permalink: /photography/landscape/
 layout: category
+entries_layout: grid
 taxonomy: landscape
 author_profile: false
 sidebar:
