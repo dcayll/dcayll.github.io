@@ -3,8 +3,7 @@ permalink: /quotes/
 title: "Quotes"
 ---
 
-> God will not have his work manifest by cowards  
-
+> God will not have his work manifest by cowards
 
 - Ralph Waldo Emerson
 
