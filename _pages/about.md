@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about
 title: "About"
 # header:
 #   image: /assets/images/foo-bar-identity.jpg
