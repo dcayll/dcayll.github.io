@@ -1,18 +1,20 @@
 main:
   - title: "Posts"
     url: /posts/
+  - title: "Engineering"
+    url: /engineering/  
+  - title: "Finances"
+    url: /finances/
   - title: "Fitness"
     url: /fitness/
   - title: "Photography"
     url: /photography/
-  - title: "Finances"
-    url: /finances/
-  - title: "Engineering"
-    url: /engineering/
   - title: "Recipes"
     url: /recipes/
   - title: "Book Notes"
     url: /book-notes/
+  - title: "Quotes"
+    url: /quotes
 
 #  - title: "Categories"
 #    url: /categories/
