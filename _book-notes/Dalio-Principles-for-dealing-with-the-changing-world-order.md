@@ -63,6 +63,7 @@ header:
 6. military strength
 7. financial center strength
 8. reserve currency status
+
 - ![jpg](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/1.003_archetypical%20rise%20and%20decline%20by%20determinant.png)
 
 ## The Archetypical Big cycle
