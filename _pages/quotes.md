@@ -12,10 +12,10 @@ title: "Quotes"
 > At the end of your days, your life will have been what you have paid attention to  
 — William James
 
-> Watch your thoughts, they become your words; 
-watch your words, they become your actions; 
-watch your actions, they become your habits; 
-watch your habits, they become your character; 
+> Watch your thoughts, they become your words;  
+watch your words, they become your actions;  
+watch your actions, they become your habits;  
+watch your habits, they become your character;  
 watch your character, it becomes your destiny.  
 — Lao Tzu
 
