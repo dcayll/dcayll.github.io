@@ -193,3 +193,4 @@ header:
 22. Military strength
 	- Bc no effective international judiciary exists. Sometimes we need to fight
 
+![jpg](/assets/images/headshot-thumbnail.jpg)
