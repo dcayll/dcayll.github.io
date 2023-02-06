@@ -12,6 +12,7 @@ header:
 #   nav: "book-notes"
 ---
 
+
 # Introduction
 
 - Everything goes around in a cycle. >100 year cycles with world powers, 100 year long term debt cycles, 8 year short term debt cycles, recessions etc. 
@@ -19,6 +20,7 @@ header:
 - People generally expect future to be slightly different from near term past
 
 # Ch 1: the big cycle in a tiny nutshell
+
 - Major empires of study:
   - Last 3 reserve currencies: Dutch, British, and American 
 	- The other 6 significant empires in the past 500 years: Germany, France, Russia, India, Japan, China 
@@ -47,9 +49,9 @@ header:
 
 ## Past big cycle shifts in wealth and power
 
-- 
-	
-- 
+![jpg](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/1.001_relative%20standing%20of%20great%20empires.png)
+
+![jpg](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/1.002_relative%20standing%20of%20great%20empires2.png)
 - Netherlands, Uk, and US are 3 most recent reserve currencies
 
 ## Eight determinants of wealth and power
