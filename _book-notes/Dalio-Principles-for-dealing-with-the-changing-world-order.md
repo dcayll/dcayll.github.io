@@ -146,7 +146,7 @@ header:
 7. Capital markets
 	- That they exist and are efficient
 8. Learning from experience
-9. Multigenerational psychological cycle
+9. Multi-generational psychological cycle
 	- 3 generations. Same as long term debt cycle
 		- Strong human capital can extend this
 	- Stage 1: people and country are poor and act accordingly. 
