@@ -55,14 +55,14 @@ header:
 
 ## Eight determinants of wealth and power
 
-1) education
-2) competitiveness
-3) innovation and technology
-4) economic output
-5) share of world trade
-6) military strength
-7) financial center strength
-8) reserve currency status
+1. education
+2. competitiveness
+3. innovation and technology
+4. economic output
+5. share of world trade
+6. military strength
+7. financial center strength
+8. reserve currency status
 - ![jpg](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/1.003_archetypical%20rise%20and%20decline%20by%20determinant.png)
 
 ## The Archetypical Big cycle
@@ -117,9 +117,9 @@ header:
 - Extra “soft” variables
 	- ![jpg](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/2.002_dynamics.png)
 
-## Exploring the Determinants and dynamics
+## Exploring the Determinants and Dynamics
 
-### Inhereted determinants
+### Inhereted Determinants
 
 1. Geography
 	- Terrain, natural boundaries. Can determine nature of countries that start
@@ -130,7 +130,7 @@ header:
 4. Genealogy 
 	- More nurture than nature
 
-### Human capital determinants
+### Human Capital Determinants
 
 - culture, human nature things. Best form of capital because it can’t be drawn down
 - All individuals earning more than they spend 
