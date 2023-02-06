@@ -1,5 +1,6 @@
 ---
 title: "An American Sickness: How Healthcare Became Big Business and How You Can Take It Back"
+excerpt: Elisabeth Rosenthal
 permalink: /book-notes/Rosenthal-an-american-sickness/
 author_profile: false
 header:

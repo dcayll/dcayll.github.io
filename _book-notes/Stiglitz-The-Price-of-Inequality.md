@@ -1,5 +1,6 @@
 ---
-title: "The Price of Inequality - Joseph Stiglitz"
+title: "The Price of Inequality: How Today's Divided Society Endangers our Future"
+excerpt: Joseph Stiglitz
 permalink: /book-notes/Stiglitz-The-Price-of-Inequality/
 author_profile: false
 header:
