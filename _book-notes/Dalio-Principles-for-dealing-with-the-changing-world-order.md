@@ -26,7 +26,7 @@ header:
 - Common thread in all empires- the struggle to make, take, and distribute wealth. 
 	- People with the wealth then own the means of wealth production. They work with those with power to set and entrench rules. 
 	- Then hard times hit them and they’re overextended and economic pain befalls everyone and a new world order takes shape
-## Understanding the big cycle
+## Understanding the Big Cycle
 - 3 major cycles making the big cycle:
 	- Long term debt and capital markets cycle, internal order/disorder, and external order/disorder
 ## Evolution, cycles, and the bumps along the way
