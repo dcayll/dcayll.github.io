@@ -2,7 +2,7 @@
 title: "Coding Example"
 date: 2019-04-18T15:34:30-04:00
 categories:
-  - Coding
+  - coding
 tags:
   - Finances
   - Money

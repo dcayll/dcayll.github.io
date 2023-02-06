@@ -2,7 +2,7 @@
 title: "Post: Commentary On Advice"
 date: 2022-08-15T15:34:30-04:00
 categories:
-  - Blog
+  - blog
 tags:
   - Post
   - Fitness
