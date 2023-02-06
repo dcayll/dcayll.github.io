@@ -1,5 +1,6 @@
 ---
 title: "Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail"
+excerpt: Ray Dalio
 permalink: /book-notes/Dalio-principles-for-dealing-with-the-changing-world-order/
 author_profile: false
 toc: true
