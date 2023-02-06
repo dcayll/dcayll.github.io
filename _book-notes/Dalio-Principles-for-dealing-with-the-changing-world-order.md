@@ -134,6 +134,7 @@ header:
 
 - culture, human nature things. Best form of capital because it can’t be drawn down
 - All individuals earning more than they spend 
+
 5. Self-interest
 	- Can be individual, family, city, state, country, world 
 	- Dominant level dictates internal orders
