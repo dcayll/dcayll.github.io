@@ -2,6 +2,7 @@
 title: "Photography"
 permalink: /photography/
 layout: category
+entries_layout: grid
 taxonomy: photography
 author_profile: false
 sidebar:
