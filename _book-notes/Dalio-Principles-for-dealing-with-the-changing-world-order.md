@@ -55,14 +55,14 @@ header:
 
 ## Eight determinants of Wealth and Power
 
-1. education
-2. competitiveness
-3. innovation and technology
-4. economic output
-5. share of world trade
-6. military strength
-7. financial center strength
-8. reserve currency status
+1. Education
+2. Competitiveness
+3. Innovation and technology
+4. Economic output
+5. Share of world trade
+6. Military strength
+7. Financial center strength
+8. Reserve currency status
 
 - ![jpg](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/1.003_archetypical%20rise%20and%20decline%20by%20determinant.png)
 
@@ -70,7 +70,7 @@ header:
 
 ### The Rise 
 
-- effective leadership, good education, low inequality, good work ethic, infrastructure investments, developing capital markets, world reserve currency development
+- Effective leadership, good education, low inequality, good work ethic, infrastructure investments, developing capital markets, world reserve currency development
 
 ### The Top
 
