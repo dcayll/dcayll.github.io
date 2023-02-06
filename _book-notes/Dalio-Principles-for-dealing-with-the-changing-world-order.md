@@ -194,3 +194,10 @@ header:
 	- Bc no effective international judiciary exists. Sometimes we need to fight
 
 ![jpg](/assets/images/headshot-thumbnail2.jpg)
+
+
+![jpg](/assets/images/DSC04797.jpg)
+
+![jpg](/assets/images/headshot-thumbnail.jpg)
+
+![jpg](/assets/images/bio-photo.jpg)
