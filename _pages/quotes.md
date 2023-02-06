@@ -5,11 +5,11 @@ title: "Quotes"
 
 > God will not have his work manifest by cowards
 
-     — Ralph Waldo Emerson
+— Ralph Waldo Emerson
 
 > The universe is full of magical things patiently waiting for our wits to grow sharper
 
-     — Eden Phillpotts
+— Eden Phillpotts
 
 <!-- > At the end of your days, your life will have been what you have paid attention to
 >
