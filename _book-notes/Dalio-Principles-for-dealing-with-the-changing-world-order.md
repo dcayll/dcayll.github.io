@@ -34,26 +34,26 @@ header:
 - 3 major cycles making the big cycle:
 	- Long term debt and capital markets cycle, internal order/disorder, and external order/disorder
 
-## Evolution, cycles, and the bumps along the way
+## Evolution, Cycles, and the Bumps Along the Way
 
 - Human productivity is the most important causal force for increasing world wealth and living standards over time. 
 - Evolution/cycles always trend upwards- like a corkscrew facing up and right
 - Industrial revolution took wealth creation away from landowners into hands of industrialists. Wealth and power now come from education, inventiveness, and capitalism. Gvt now works for them and not monarch’s anymore. 
 
-## The cycles around the uptrend
+## The Cycles Around the Uptrend
 
 - Over time, winning formula is educated people being funded by capital markets, owning the means of production, and making profits. Over long run, capitalism creates wealth and opportunity gaps tho
 - Wealth gaps lead to conflict and debt/economic collapse. 
 - Economic and market declines ~3 years +/-2 years. Depends on speed of printing money to fill debt holes. 
 - Periods of destruction set stage for future prosperity that eventually is overextended in debt bubbles with inequality which produce new stress tests for world order
 
-## Past big cycle shifts in wealth and power
+## Past Big Cycle Shifts in Wealth and Power
 
 - ![jpg](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/1.001_relative%20standing%20of%20great%20empires.png)
 - ![jpg](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/1.002_relative%20standing%20of%20great%20empires2.png)
 - Netherlands, Uk, and US are 3 most recent reserve currencies
 
-## Eight determinants of wealth and power
+## Eight determinants of Wealth and Power
 
 1. education
 2. competitiveness
@@ -68,11 +68,11 @@ header:
 
 ## The Archetypical Big cycle
 
-### The rise 
+### The Rise 
 
 - effective leadership, good education, low inequality, good work ethic, infrastructure investments, developing capital markets, world reserve currency development
 
-### The top
+### The Top
 
 - Richer=less competitive 
 	- compared to places with cheaper labor. 
@@ -103,7 +103,7 @@ header:
 
 # Ch 2: The Determinants
 
-## The 3, the 5, the 8, and the 18 determinants
+## The 3, the 5, the 8, and the 18 Determinants
 
 - 3 big cycles:
 	- Capital markets cycle 
