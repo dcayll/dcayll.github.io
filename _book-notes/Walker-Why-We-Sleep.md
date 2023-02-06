@@ -1,5 +1,5 @@
 ---
-title: "Why We Sleep"
+title: "Why We Sleep: Unlocking the Power of Sleep and Dreams"
 excerpt: Matthew Walker
 permalink: /book-notes/Walker-Why-We-Sleep/
 author_profile: false
