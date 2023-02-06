@@ -9,6 +9,7 @@ tags:
 ---
 
 To create a thumbnail in GIMP: 
+
 1. Find .jpg for the thumbnail
 2. Open the image in GIMP by dragging the file into the toolbox
 3. Use the scale tool to change the size of the image to the critical dimension
