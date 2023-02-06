@@ -5,14 +5,14 @@ main:
     url: /engineering/  
   - title: "Finances"
     url: /finances/
-  - title: "Fitness"
-    url: /fitness/
-  - title: "Photography"
-    url: /photography/
-  - title: "Recipes"
-    url: /recipes/
   - title: "Book Notes"
     url: /book-notes/
+  - title: "Photography"
+    url: /photography/
+  - title: "Fitness"
+    url: /fitness/
+  - title: "Recipes"
+    url: /recipes/
   - title: "Quotes"
     url: /quotes
 
