@@ -45,7 +45,7 @@ header:
 - Netherlands, Uk, and US are 3 most recent reserve currencies
 ## Eight determinants of wealth and power
 - 1) education, 2) competitiveness, 3) innovation and technology, 4) economic output, 5) share of world trade, 6) military strength, 7) financial center strength, and 8) reserve currency status.
-- 
+
 ## The Archetypical Big cycle
 ### The rise 
 - effective leadership, good education, low inequality, good work ethic, infrastructure investments, developing capital markets, world reserve currency development
@@ -58,7 +58,7 @@ header:
 - Wealth gap grows and regulatory capture by the rich and powerful
 - If living standards continue to grow, things don’t boil over yet
 - Large debts from foreign lenders, short term liquidity, but long term currency is weakened bc of domestic overconsumption and spending on military conflict
-### The Decline
+### The Decline:
 #### Internally
 - Comes from internal economic weakness together with internal fighting or costly external fighting, or all
 - Large debts incentivize money printing. Devalues currency and increase inflation
