@@ -19,7 +19,7 @@ header:
 - Prosperous times: depression/revolution times = 5:1
 - People generally expect future to be slightly different from near term past
 
-# Ch 1: the big cycle in a tiny nutshell
+# Ch 1: The Big Cycle in a Tiny Nutshell
 
 - Major empires of study:
   - Last 3 reserve currencies: Dutch, British, and American 
@@ -82,9 +82,9 @@ header:
 - If living standards continue to grow, things don’t boil over yet
 - Large debts from foreign lenders, short term liquidity, but long term currency is weakened bc of domestic overconsumption and spending on military conflict
 
-### The Decline:
+### The Decline
 
-#### Internally
+#### Internal Decline
 
 - Comes from internal economic weakness together with internal fighting or costly external fighting, or all
 - Large debts incentivize money printing. Devalues currency and increase inflation
@@ -92,12 +92,105 @@ header:
 - Flight of wealth to avoid overtaxing. Shrinks productivity, further lower tax revenue
 	- Democracy most challenged here bc strong populist leader promises order. Sometimes civil war
 
-#### Externally
+#### External Decline
 
 - International conflict possible if another power with big military 
 	- Requires leading power to spend more on military as internal conditions worsen
 - When debt and currency holders lose faith, they sell and cycle ends
-- test text from mobile
+- ![jpg](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/1.004_the%20cycle.png)
+- ![jpg](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/1.005_scoring%20of%20measures%20by%20stage%20in%20cycle.png)
+
+# Ch 2: The Determinants
+
+## The 3, the 5, the 8, and the 18 determinants
+
+- 3 big cycles:
+	- Capital markets cycle 
+	- Cycle of internal order and disorder. I.e. fighting over wealth and value gaps
+	- Cycle of external order and disorder. 
+- + 2 more 
+	- Pace of innovation
+	- Acts of nature
+- 18 major determinants:
+	- ![jpg](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/2.001_determinants.png)
+		- These determinants aren’t all independent. Much interaction and blending
+- Extra “soft” variables
+	- ![jpg](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/2.002_dynamics.png)
+
+## Exploring the Determinants and dynamics
+
+### Inhereted determinants
+
+1. Geography
+	- Terrain, natural boundaries. Can determine nature of countries that start
+2. Geology
+	- Natural resources. Reliance on one is bad
+3. Acts of nature
+	- Stress test to systems. Larger effects than human led events
+4. Genealogy 
+	- More nurture than nature
+
+### Human capital determinants
+
+- culture, human nature things. Best form of capital because it can’t be drawn down
+- All individuals earning more than they spend 
+5. Self-interest
+	- Can be individual, family, city, state, country, world 
+	- Dominant level dictates internal orders
+6. Drive for wealth & power
+	- All consuming for top. 
+	- Wealth = buying power
+	- Making wealth = productivity. Investment instead of consumption
+7. Capital markets
+	- That they exist and are efficient
+8. Learning from experience
+9. Multigenerational psychological cycle
+	- 3 generations. Same as long term debt cycle
+		- Strong human capital can extend this
+	- Stage 1: people and country are poor and act accordingly. 
+		- Can’t borrow, don’t waste money. Hard work&savings to get out
+	- Stage 2: people and country are rich, but still act poor
+		-  Work hard, save, invest in real assets, invest in infrastructure & edu
+		- Low inflation, low debt to GDP
+	- Stage 3: people and country rich and act rich
+		- Reduced work hours. More enjoyment. 
+		- Still productivity gains
+		- USA from 1950-65, China now
+			- Disagree?
+	- Stage 4: people and country poorer, still act rich
+		- More debt, less saving, military spending 
+		- Twin deficits 
+			- Balance of payments and gvt deficits?
+	- Stage 5: people and country poor, act poor
+		- Bubble popped. Deleveraging. 
+		- Inflation, money printing. Decline
+10. Favoring long term over short term
+	- Hard with politics
+11. Inventiveness
+	- Important
+12. Culture
+	- Worldview
+13. Openness to global thinking
+	- Isolation leads to less tech
+14. Leadership
+	- Adds some randomness
+15. Wealth gaps
+	- Conflict
+16. Values gaps
+	- Also conflict
+17. Class struggles
+	- race, religion, gender, location, lifestyle, politics, etc. 
+18. Political L/R
+	- Swings with booms & busts. Economic crises start revolutions
+19. Prisoners dilemma
+	- Avoid war by intermingling 
+		- Didn’t work with Russia
+20. Win win and lose lose relationships
+	- Cooperation within the existential red lines of the other. Sometimes impossible
+21. Power balance governing peace/war
+22. Military strength
+	- Bc no effective international judiciary exists. Sometimes we need to fight
+
 	
 	
 	
