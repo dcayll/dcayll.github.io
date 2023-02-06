@@ -49,14 +49,21 @@ header:
 
 ## Past big cycle shifts in wealth and power
 
-![jpg](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/1.001_relative%20standing%20of%20great%20empires.png)
-
-![jpg](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/1.002_relative%20standing%20of%20great%20empires2.png)
+- ![jpg](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/1.001_relative%20standing%20of%20great%20empires.png)
+- ![jpg](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/1.002_relative%20standing%20of%20great%20empires2.png)
 - Netherlands, Uk, and US are 3 most recent reserve currencies
 
 ## Eight determinants of wealth and power
 
-- 1) education, 2) competitiveness, 3) innovation and technology, 4) economic output, 5) share of world trade, 6) military strength, 7) financial center strength, and 8) reserve currency status.
+1) education
+2) competitiveness
+3) innovation and technology
+4) economic output
+5) share of world trade
+6) military strength
+7) financial center strength
+8) reserve currency status
+- ![jpg](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/1.003_archetypical%20rise%20and%20decline%20by%20determinant.png)
 
 ## The Archetypical Big cycle
 
