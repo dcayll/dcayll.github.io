@@ -4,8 +4,11 @@ permalink: /book-notes/Dalio-principles-for-dealing-with-the-changing-world-orde
 author_profile: false
 toc: true
 toc_sticky: true
-sidebar:
-  nav: "book-notes"
+header:
+  image: /assets/images/book-notes/Covers/Principles of the changing world order.jpg
+  teaser: /assets/images/book-notes/Covers/Principles of the changing world order teaser.png
+# sidebar:
+#   nav: "book-notes"
 ---
 
 # Introduction
