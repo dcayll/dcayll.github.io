@@ -25,8 +25,8 @@ watch your character, it becomes your destiny
 > If you cannot explain something in simple terms, you don't understand it  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Richard Feynman
 
-> Nothing that is worth doing can be achieved in our lifetime; therefore we must be saved by hope.  
-&nbsp;Nothing which is true or beautiful or good makes complete sense in any immediate context of history; therefore we must be saved by faith.  
-&nbsp;Nothing we do, however virtuous, can be accomplished alone; therefore we must be saved by love.  
-&nbsp;No virtuous act is quite as virtuous from the standpoint of our friend or foe as it is from our standpoint. Therefore we must be saved by the final form of love which is forgiveness.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Reinhold Niebuhr
+| Nothing that is worth doing can be achieved in our lifetime; therefore we must be saved by hope.  
+| Nothing which is true or beautiful or good makes complete sense in any immediate context of history; therefore we must be saved by faith.  
+| Nothing we do, however virtuous, can be accomplished alone; therefore we must be saved by love.  
+| No virtuous act is quite as virtuous from the standpoint of our friend or foe as it is from our standpoint. Therefore we must be saved by the final form of love which is forgiveness.  
+|     — Reinhold Niebuhr
