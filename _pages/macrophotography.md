@@ -2,6 +2,7 @@
 title: "Macrophotography"
 permalink: /photography/macro/
 layout: category
+entries_layout: grid
 taxonomy: macro
 author_profile: false
 sidebar:

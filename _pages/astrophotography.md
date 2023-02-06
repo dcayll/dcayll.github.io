@@ -2,6 +2,7 @@
 title: "Astrophotography"
 permalink: /photography/astro/
 layout: category
+entries_layout: grid
 taxonomy: astro
 author_profile: false
 sidebar:

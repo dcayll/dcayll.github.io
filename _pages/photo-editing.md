@@ -2,6 +2,7 @@
 title: "Photo editing"
 permalink: /photography/photo-editing/
 layout: category
+entries_layout: grid
 taxonomy: editing
 author_profile: false
 sidebar:
