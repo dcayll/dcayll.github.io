@@ -12,7 +12,11 @@ title: "Quotes"
 > At the end of your days, your life will have been what you have paid attention to  
 — William James
 
-> Watch your thoughts, they become your words; watch your words, they become your actions; watch your actions, they become your habits; watch your habits, they become your character; watch your character, it becomes your destiny.  
+> Watch your thoughts, they become your words; 
+watch your words, they become your actions; 
+watch your actions, they become your habits; 
+watch your habits, they become your character; 
+watch your character, it becomes your destiny.  
 — Lao Tzu
 
 > The definition of hell is: Your last day on Earth, the person you became meets the person you could have become.  
