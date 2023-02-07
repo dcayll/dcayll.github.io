@@ -6,12 +6,13 @@ author_profile: false
 toc: true
 toc_sticky: true
 header:
-  image: /assets/images/book-notes/Covers/Principles of the changing world order.jpg
+#   image: /assets/images/book-notes/Covers/Principles of the changing world order.jpg
   teaser: /assets/images/book-notes/Covers/Principles of the changing world order teaser.png
 # sidebar:
 #   nav: "book-notes"
 ---
 
+![jpg](/assets/images/book-notes/Covers/Principles of the changing world order.jpg)
 
 # Introduction
 
@@ -192,5 +193,3 @@ header:
 21. Power balance governing peace/war
 22. Military strength
 	- Bc no effective international judiciary exists. Sometimes we need to fight
-
-![jpg](/assets/images/headshot-thumbnail2.jpg)
