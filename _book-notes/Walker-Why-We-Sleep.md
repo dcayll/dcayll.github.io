@@ -57,7 +57,7 @@ header:
       - half life = 5-7 hrs. may produce insomnia
       - Enzyme that breaks down caffeine varies genetically
       - crash happens bc adenosine finally binds after caffeine is digested. Bonds harder after caffeine is digested
-      - sleep pressure & circadian rhythm independent but correlated. 
+      - sleep pressure & circadian rhythm independent but correlated
 
 - Pulling an all nighter increases adenosine continually, but circadian rhythm continues
   - urge to sleep can decrease next day bc of circadian rhythm
