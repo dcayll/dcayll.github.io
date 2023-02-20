@@ -12,14 +12,13 @@ header:
 
 ![jpg](/assets/images/book-notes/Covers/why we sleep.jpg)
 
-
-# Ch 1: To sleep...
+## Ch 1: To sleep...
 
 - As sleep deficits increase, so do risk for: Altzheimers, heart disease, and weight gain hormones
 
-# Ch 2: Caffiene, Jet Lag, and Melatonin
+## Ch 2: Caffeine, Jet Lag, and Melatonin
 
-- 2 things lead to sleepiness: 
+- 2 things lead to sleepiness:
   1. Circadian rhythm
   2. Sleep pressure from a chemical adenosine
 - Circadian rhythm controls:
@@ -30,22 +29,22 @@ header:
 - Experiment determined that even in full darkness, we have normal sleep/wake cycles. Internal clock =/= 24 hrs. Usually longer. Depends on age
 - Sun is not the only clock for circadian rhythm
   - food, exercise, temperature are also clocks
-- Body temperature fluctuates over time. 
+- Body temperature fluctuates over time
   - peak at 4pm, trough at 2am
   - fluctuates whether asleep or not
 
-- Chronotype 
+- Chronotype
   - is genetic (sleep time preferences)
-  - night owls are forced to wake early against their internal clocks. 
+  - night owls are forced to wake early against their internal clocks
     - therefore, less sleep, more health problems, perform worse @ work
   - Variability of chronotype helped in evolution. People in clan to keep watch
 
-- Melatonin 
+- Melatonin
   - regulates timing of sleep, not generation of sleep
   - unregulated. pill dosage unreliable
   - is released through the night. Reduction in body signals wakefulness
 
-- Jet lag 
+- Jet lag
   - body can only correct internal clock ~1 hr/day
   - traveling east, jet lag is harder to correct
     - easier to stay up late vs. sleep earlier
@@ -60,9 +59,7 @@ header:
       - crash happens bc adenosine finally binds after caffeine is digested. Bonds harder after caffeine is digested
       - sleep pressure & circadian rhythm independent but correlated. 
 
-- Pulling an all nighter increases adensoine continually, but circadian rhythm continues
+- Pulling an all nighter increases adenosine continually, but circadian rhythm continues
   - urge to sleep can decrease next day bc of circadian rhythm
 
-# Ch: 3 Defining and Generating Sleep
-
-- 
+## Ch: 3 Defining and Generating Sleep
