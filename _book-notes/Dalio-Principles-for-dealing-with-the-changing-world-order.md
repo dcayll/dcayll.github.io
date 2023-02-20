@@ -146,97 +146,97 @@ header:
 
 5. Self-interest
 
-- Can be individual, family, city, state, country, world
-- Dominant level dictates internal order
+    - Can be individual, family, city, state, country, world
+    - Dominant level dictates internal order
 
 6. Drive for wealth & power
 
-- All consuming for top
-- Wealth = buying power
-- Making wealth = productivity. Investment instead of consumption
+    - All consuming for top
+    - Wealth = buying power
+    - Making wealth = productivity. Investment instead of consumption
 
 7. Capital markets
 
-- That they exist and are efficient
+    - That they exist and are efficient
 
 8. Learning from experience
 
 9. Multi-generational psychological cycle
 
-- 3 generations. Same as long term debt cycle
-  - Strong human capital can extend this
-- Stage 1: people and country are poor and act accordingly
-- Can’t borrow, don’t waste money. Hard work&savings to get out
-- Stage 2: people and country are rich, but still act poor
-  - Work hard, save, invest in real assets, invest in infrastructure & edu
-  - Low inflation, low debt to GDP
-- Stage 3: people and country rich and act rich
-  - Reduced work hours. More enjoyment
-  - Still productivity gains
-  - USA from 1950-65, China now
-    - Disagree?
-- Stage 4: people and country poorer, still act rich
-  - More debt, less saving, military spending
-  - Twin deficits
-    - Balance of payments and gvt deficits?
-- Stage 5: people and country poor, act poor
-  - Bubble popped. Deleveraging
-  - Inflation, money printing. Decline
+    - 3 generations. Same as long term debt cycle
+      - Strong human capital can extend this
+    - Stage 1: people and country are poor and act accordingly
+    - Can’t borrow, don’t waste money. Hard work&savings to get out
+    - Stage 2: people and country are rich, but still act poor
+      - Work hard, save, invest in real assets, invest in infrastructure & edu
+      - Low inflation, low debt to GDP
+    - Stage 3: people and country rich and act rich
+      - Reduced work hours. More enjoyment
+      - Still productivity gains
+      - USA from 1950-65, China now
+        - Disagree?
+    - Stage 4: people and country poorer, still act rich
+      - More debt, less saving, military spending
+      - Twin deficits
+        - Balance of payments and gvt deficits?
+    - Stage 5: people and country poor, act poor
+      - Bubble popped. Deleveraging
+      - Inflation, money printing. Decline
 
 10. Favoring long term over short term
 
-- Hard with politics
+    - Hard with politics
 
 11. Inventiveness
 
-- Important
+    - Important
 
 12. Culture
 
-- Worldview
+    - Worldview
 
 13. Openness to global thinking
 
-- Isolation leads to less tech
+    - Isolation leads to less tech
 
 14. Leadership
 
-- Adds some randomness
+    - Adds some randomness
 
 15. Wealth gaps
 
-- Conflict
+    - Conflict
 
 16. Values gaps
 
-- Also conflict
+    - Also conflict
 
 17. Class struggles
 
-- race, religion, gender, location, lifestyle, politics, etc.
-- not big divisions when times are good, but it gets worse in times of bad economy. Revolution and unrest can ensue
+    - race, religion, gender, location, lifestyle, politics, etc.
+    - not big divisions when times are good, but it gets worse in times of bad economy. Revolution and unrest can ensue
 
 18. Political L/R
 
-- Swings with booms & busts. Economic crises start revolutions
+    - Swings with booms & busts. Economic crises start revolutions
 
 19. Prisoners dilemma
 
-- Avoid war by intermingling
-  - Didn’t work with Russia
+    - Avoid war by intermingling
+      - Didn’t work with Russia
 
 20. Win win and lose lose relationships
 
-  - Cooperation within the existential red lines of the other. Sometimes impossible
+    - Cooperation within the existential red lines of the other. Sometimes impossible
 
 21. Power balance governing peace/war
 
-- usually two powers. One in power and the minority power makes alliances with the other minority powers to try and take on the big power
-- After a big conflict, the winners then fight amongst themselves for power. Mostly internal
+    - usually two powers. One in power and the minority power makes alliances with the other minority powers to try and take on the big power
+    - After a big conflict, the winners then fight amongst themselves for power. Mostly internal
 
 22. Military strength
 
-- Bc no effective international judiciary exists. Sometimes we need to fight
+    - Bc no effective international judiciary exists. Sometimes we need to fight
 
 ## Ch 3: The Big Cycle of Money, Credit, Debt, and Economic Activity
 
