@@ -183,13 +183,41 @@ header:
 	- Also conflict
 17. Class struggles
 	- race, religion, gender, location, lifestyle, politics, etc. 
+	- not big divisions when times are good, but it gets worse in times of bad economy. Revolution and unrest can ensue
 18. Political L/R
 	- Swings with booms & busts. Economic crises start revolutions
+	- 
 19. Prisoners dilemma
 	- Avoid war by intermingling 
 		- Didn’t work with Russia
 20. Win win and lose lose relationships
 	- Cooperation within the existential red lines of the other. Sometimes impossible
 21. Power balance governing peace/war
+	- usually two powers. One in power and the minority power makes alliances with the other minority powers to try and take on the big power. 
+	- After a big conflict, the winners then fight amongst themselves for power. Mostly internal. 
 22. Military strength
 	- Bc no effective international judiciary exists. Sometimes we need to fight
+
+# Ch 3: The Big Cycle of Money, Credit, Debt, and Economic Activity
+
+## The Timeless and Universal Fundamentals of Money and Credit
+
+- All entities (individuals, companies, countries, non-profits etc.) have common basic financial reality: income, expenses, profit, savings, debt, net worth, assets, liabilities etc. 
+- Debt cycle is inherently cyclical.
+	- One entities spending is another's income; one's debts are another's asset. 
+	- Self reinforcing downward debt and economic contraction results from one side failing. 
+- Debt eats equity
+	- Debt must be paid before equity owners. Assets will be sold to pay back debtors. 
+	- Money supply not fixed. Central banks can create money and credit. Only ones that can. 
+		- By printing money, central banks can feed debt to avoid crisis
+- Becoming a reserve currency country sows the seeds of ceasing to be a reserve currency country. Makes borrowing very easy and money printing is inevitable bc politics
+
+## What Is Money?
+
+- Medium of exchange and store of wealth
+- Debt is a promise to deliver money
+	- An asset for lender (a bond)
+	- A liability to borrower
+	- when $ paid back, assets and liabilities are cancelled out and both have "shared profits" of productive lending
+- 
+
