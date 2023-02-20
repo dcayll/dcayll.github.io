@@ -125,19 +125,19 @@ header:
 
 1. Geography
 
-  - Terrain, natural boundaries. Can determine nature of countries that start
+    - Terrain, natural boundaries. Can determine nature of countries that start
 
 2. Geology
 
-  - Natural resources. Reliance on one is bad
+    - Natural resources. Reliance on one is bad
 
 3. Acts of nature
 
-  - Stress test to systems. Larger effects than human led events
+    - Stress test to systems. Larger effects than human led events
 
 4. Genealogy
 
-  - More nurture than nature
+    - More nurture than nature
 
 #### Human Capital Determinants
 
