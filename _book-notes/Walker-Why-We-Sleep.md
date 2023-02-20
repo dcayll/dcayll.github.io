@@ -6,9 +6,12 @@ author_profile: false
 toc: true
 toc_sticky: true
 header:
-  image: /assets/images/book-notes/Covers/why we sleep.jpg
+  # image: /assets/images/book-notes/Covers/why we sleep.jpg
   teaser: /assets/images/book-notes/Covers/why we sleep teaser.png
 ---
+
+![jpg](/assets/images/book-notes/Covers/why we sleep.jpg)
+
 
 # Ch 1: To sleep...
 
