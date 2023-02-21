@@ -141,27 +141,27 @@ header:
 
 #### Human Capital Determinants
 
-- culture, human nature things. Best form of capital because it can’t be drawn down
+- Culture, human nature things. Best form of capital because it can’t be drawn down
 - All individuals earning more than they spend
 
-5. Self-interest
+1. Self-interest
 
     - Can be individual, family, city, state, country, world
     - Dominant level dictates internal order
 
-6. Drive for wealth & power
+2. Drive for wealth & power
 
     - All consuming for top
     - Wealth = buying power
     - Making wealth = productivity. Investment instead of consumption
 
-7. Capital markets
+3. Capital markets
 
     - That they exist and are efficient
 
-8. Learning from experience
+4. Learning from experience
 
-9. Multi-generational psychological cycle
+5. Multi-generational psychological cycle
 
     - 3 generations. Same as long term debt cycle
       - Strong human capital can extend this
@@ -183,58 +183,58 @@ header:
       - Bubble popped. Deleveraging
       - Inflation, money printing. Decline
 
-10. Favoring long term over short term
+6. Favoring long term over short term
 
     - Hard with politics
 
-11. Inventiveness
+7. Inventiveness
 
     - Important
 
-12. Culture
+8. Culture
 
     - Worldview
 
-13. Openness to global thinking
+9. Openness to global thinking
 
     - Isolation leads to less tech
 
-14. Leadership
+10. Leadership
 
     - Adds some randomness
 
-15. Wealth gaps
+11. Wealth gaps
 
     - Conflict
 
-16. Values gaps
+12. Values gaps
 
     - Also conflict
 
-17. Class struggles
+13. Class struggles
 
     - race, religion, gender, location, lifestyle, politics, etc.
     - not big divisions when times are good, but it gets worse in times of bad economy. Revolution and unrest can ensue
 
-18. Political L/R
+14. Political L/R
 
     - Swings with booms & busts. Economic crises start revolutions
 
-19. Prisoners dilemma
+15. Prisoners dilemma
 
     - Avoid war by intermingling
       - Didn’t work with Russia
 
-20. Win win and lose lose relationships
+16. Win win and lose lose relationships
 
     - Cooperation within the existential red lines of the other. Sometimes impossible
 
-21. Power balance governing peace/war
+17. Power balance governing peace/war
 
     - usually two powers. One in power and the minority power makes alliances with the other minority powers to try and take on the big power
     - After a big conflict, the winners then fight amongst themselves for power. Mostly internal
 
-22. Military strength
+18. Military strength
 
     - Bc no effective international judiciary exists. Sometimes we need to fight
 
@@ -242,13 +242,13 @@ header:
 
 ### The Timeless and Universal Fundamentals of Money and Credit
 
-- All entities (individuals, companies, countries, non-profits etc.) have common basic financial reality: income, expenses, profit, savings, debt, net worth, assets, liabilities etc. 
+- All entities (individuals, companies, countries, non-profits etc.) have common basic financial reality: income, expenses, profit, savings, debt, net worth, assets, liabilities etc.
 - Debt cycle is inherently cyclical.
   - One entities spending is another's income; one's debts are another's asset. 
-  - Self reinforcing downward debt and economic contraction results from one side failing. 
+  - Self reinforcing downward debt and economic contraction results from one side failing.
 - Debt eats equity
-  - Debt must be paid before equity owners. Assets will be sold to pay back debtors. 
-  - Money supply not fixed. Central banks can create money and credit. Only ones that can. 
+  - Debt must be paid before equity owners. Assets will be sold to pay back debtors.
+  - Money supply not fixed. Central banks can create money and credit. Only ones that can.
     - By printing money, central banks can feed debt to avoid crisis
 - Becoming a reserve currency country sows the seeds of ceasing to be a reserve currency country. Makes borrowing very easy and money printing is inevitable bc politics
 
