@@ -16,7 +16,7 @@ header:
 
 ## Introduction
 
-- Everything goes around in a cycle. >100 year cycles with world powers, 100 year long term debt cycles, 8 year short term debt cycles, recessions etc. 
+- Everything goes around in a cycle. >100 year cycles with world powers, 100 year long term debt cycles, 8 year short term debt cycles, recessions etc.
 - Prosperous times: depression/revolution times = 5:1
 - People generally expect future to be slightly different from near term past
 
@@ -37,7 +37,7 @@ header:
 
 ### Evolution, Cycles, and the Bumps Along the Way
 
-- Human productivity is the most important causal force for increasing world wealth and living standards over time. 
+- Human productivity is the most important causal force for increasing world wealth and living standards over time.
 - Evolution/cycles always trend upwards- like a corkscrew facing up and right
 - Industrial revolution took wealth creation away from landowners into hands of industrialists. Wealth and power now come from education, inventiveness, and capitalism. Gvt now works for them and not monarch’s anymore.
 
@@ -45,7 +45,7 @@ header:
 
 - Over time, winning formula is educated people being funded by capital markets, owning the means of production, and making profits. Over long run, capitalism creates wealth and opportunity gaps tho
 - Wealth gaps lead to conflict and debt/economic collapse.
-- Economic and market declines ~3 years +/-2 years. Depends on speed of printing money to fill debt holes. 
+- Economic and market declines ~3 years +/-2 years. Depends on speed of printing money to fill debt holes.
 - Periods of destruction set stage for future prosperity that eventually is overextended in debt bubbles with inequality which produce new stress tests for world order
 
 ### Past Big Cycle Shifts in Wealth and Power
@@ -244,7 +244,7 @@ header:
 
 - All entities (individuals, companies, countries, non-profits etc.) have common basic financial reality: income, expenses, profit, savings, debt, net worth, assets, liabilities etc.
 - Debt cycle is inherently cyclical.
-  - One entities spending is another's income; one's debts are another's asset. 
+  - One entities spending is another's income; one's debts are another's asset.
   - Self reinforcing downward debt and economic contraction results from one side failing.
 - Debt eats equity
   - Debt must be paid before equity owners. Assets will be sold to pay back debtors.
@@ -259,3 +259,42 @@ header:
   - An asset for lender (a bond)
   - A liability to borrower
   - when $ paid back, assets and liabilities are cancelled out and both have "shared profits" of productive lending
+
+### Money, Credit, and Wealth
+
+- Money and credit can buy wealth, but wealth can't be created with just money and credit. Productivity must increase.
+  - Because real and financial economies are different with different supply/demand curves
+    - Real: determined by demand of goods and services
+      - if demand increases faster than supply, prices inflate
+    - Financial: determined by demand for money and credit
+      - central banks can raise and lower supply of money to lower/raise real demand for goods and services
+      - "monetary inflation" happens when supply of money and credit increases relative to demand for it.
+        - Different than real inflation since this is pure currency demand/supply
+- Typically, when central banks stimulate, the market decides where to allocate the capital.
+  - but in times of crisis, gvt can decide where to put capital (i.e. COVID)
+- Price vs. value
+  - Value of a good constant, even though price of it increases from inflation
+    - what if it's value raises relatively more than other goods?
+    - When money and credit are given out its stimulating, but when debt comes due, it is depressing. inherently cyclical.
+- Short-term debt cycles ~8 +/-3 yrs-ish
+- Long-term debt cycle ~50-75 yrs. Current one started in 1944 @breton woods
+  - ends when central bank looses the ability to use money and credit creation to produce real economic growth.
+  - creating money and credit weakens currency, and when debt is too high and interest rates can't be lowered monetary inflation happens
+    - The creation of money and credit here increases financial asset prices more and real economic activity.
+      - Incentivizes holders of debt to buy other stores of wealth
+        - because you expect them to default?
+        - Is this a flee from treasury bonds?
+
+### The Long-Term Debt Cycle
+
+- 
+
+### Ch 3 discussion questions
+
+- We saw real inflation and monetary inflation in the past 2 years. Supply chain is real, and FED printing is monetary (M1 money).
+- ![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/3.001_fred_m1_graph.png)
+  - [Source](https://fred.stlouisfed.org/series/M1SL#)
+- Price vs. value:
+  - What if prices of something increase more W/R/T other goods. Does this mean value increases? Its all relative, right? increasing home value in austin did give you more buying power if you sold it after 40% inflation in price.
+- End of long term debt cycle:
+  - holders of debt flee to other stores of wealth -> does this mean avoiding treasuries?

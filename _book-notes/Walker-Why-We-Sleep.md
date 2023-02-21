@@ -12,7 +12,7 @@ header:
 
 ![jpg](/assets/images/book-notes/Covers/why we sleep.jpg)
 
-## Ch 1: To sleep...
+## Ch 1: To sleep
 
 - As sleep deficits increase, so do risk for: Altzheimers, heart disease, and weight gain hormones
 
@@ -62,4 +62,40 @@ header:
 - Pulling an all nighter increases adenosine continually, but circadian rhythm continues
   - urge to sleep can decrease next day bc of circadian rhythm
 
-## Ch: 3 Defining and Generating Sleep
+## Ch 3: Defining and Generating Sleep
+
+- Senses still work while asleep, but thalamus in brain blocks them
+- We can determine time while asleep unconsciously
+  - but time in dreams feel longer than actual time
+    - in rat experiment, brain signals recorded in maze
+      - in sleep, same waves present, but @ slower speed
+      - evidence time moves slower in dreams
+
+- 2 types of sleep: REM & Non-REM. cycles and repeats overnight
+  - NREM has 4 stages, each harder to wake from than the last
+  - Cycle takes ~90 mins in humans
+    - other animals typically have shorter cycles
+      - best correlation is to width of brainstem
+    - cycle more NREM heavy at first, then more REM at end of night
+      - could have to do with consolidating memory
+        - NREM takes out unnecessary connections, REM strengthens connections
+  - Sleeping late & waking normal makes you loose NREM @ beginning of night
+  - Sleeping normal & waking earlier makes you loose REM @ end of night
+
+- Brain signals when awake are asynchronous ~30-40 Hz
+  - bc brain is working fast to keep up with sensory input
+- Brain signals in deep NREM sleep slow down 10x & are more repeatable
+  - hidden in slow activity are "sleep spindles" which are occasional fast cycles
+    - helps to reduce external noise that could wake us
+  - these signals come from center of frontal lobes and radiate front to back
+    - neurons all fire in sync
+  - thalamus cut off senses in NREM - explains no dreams, unconsciousness, and loss of time
+  - slow waves can travel farther in the brain and link different parts in NREM
+
+- REM is very similar to wakefulness brain signals
+  - **Wakefulness = reception; REM = integration; NREM = reflection**
+    - dreams in REM are thoughts/memories being broadcast into senses for building more accurate models of the world
+  - body completely limp in REM - good indicator of REM
+    - so we can act out dreams in head and not in real life
+
+## Ch 4: Ape Beds, Dinosaurs, and Napping with Half a Brain
