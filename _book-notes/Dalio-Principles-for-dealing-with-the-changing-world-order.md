@@ -289,7 +289,7 @@ header:
 
 - 
 
-### Ch 3 discussion questions
+## Ch 3 discussion questions
 
 - We saw real inflation and monetary inflation in the past 2 years. Supply chain is real, and FED printing is monetary (M1 money).
 - ![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/3.001_fred_m1_graph.png)
