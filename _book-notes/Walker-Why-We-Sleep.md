@@ -14,7 +14,7 @@ header:
 
 ## Ch 1: To sleep
 
-- As sleep deficits increase, so do risk for: Altzheimers, heart disease, and weight gain hormones
+- As sleep deficits increase, so do risk for: Alzheimer's, heart disease, and weight gain hormones
 
 ## Ch 2: Caffeine, Jet Lag, and Melatonin
 
@@ -75,7 +75,7 @@ header:
   - NREM has 4 stages, each harder to wake from than the last
   - Cycle takes ~90 mins in humans
     - other animals typically have shorter cycles
-      - best correlation is to width of brainstem
+      - best correlation is to width of brain stem
     - cycle more NREM heavy at first, then more REM at end of night
       - could have to do with consolidating memory
         - NREM takes out unnecessary connections, REM strengthens connections

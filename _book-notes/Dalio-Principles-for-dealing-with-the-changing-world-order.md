@@ -82,7 +82,7 @@ header:
 - Bet on good times continuing -> borrowings more
 - Wealth gap grows and regulatory capture by the rich and powerful
 - If living standards continue to grow, things don’t boil over yet
-- Large debts from foreign lenders, short term liquidity, but long term currency is weakened bc of domestic overconsumption and spending on military conflict
+- Large debts from foreign lenders, short term liquidity, but long term currency is weakened bc of domestic over-consumption and spending on military conflict
 
 #### The Decline
 
@@ -121,7 +121,7 @@ header:
 
 ### Exploring the Determinants and Dynamics
 
-#### Inhereted Determinants
+#### Inherited Determinants
 
 1. Geography
 
@@ -281,11 +281,45 @@ header:
   - ends when central bank looses the ability to use money and credit creation to produce real economic growth.
   - creating money and credit weakens currency, and when debt is too high and interest rates can't be lowered monetary inflation happens
     - The creation of money and credit here increases financial asset prices more and real economic activity.
-      - Incentivizes holders of debt to buy other stores of wealth
+      - Incentivize holders of debt to buy other stores of wealth
         - because you expect them to default?
         - Is this a flee from treasury bonds?
 
 ### The Long-Term Debt Cycle
+
+#### Stage 1: Hard Money
+
+- Debt burdens wiped out previously by restructuring or inflated away
+- No trust or credit required to trade. Can use hard asset like Gold to exchange bc it doesn't require trust
+
+#### Stage 2: Claims on Hard Money
+
+- Creating credit is good for lenders and borrowers. "Banks" or similar institutions arise to hold money and create claims on it.
+- Creation of a "linked currency system". A separate currency exchangeable for hard money (gold/silver)
+
+#### Stage 3: Increased Debt
+
+- All benefit from increasing debt. Borrowers get buying power, lenders get interest. All borrow more.
+- Quantity of claims increases relative to actual goods and services there are to buy. i.e. debt assets > real assets
+- Two problems:
+  - income can't service the debt
+  - Claims raise much faster than the available goods/services and conversion becomes impossible
+    - How does conversion become impossible?
+
+#### Stage 4: Breaking Hard Money Link
+
+- Investors in debt may realize they aren't going to get adequate returns relative to other stores of wealth or goods/services.
+  - When many realize this, there is a run to sell.
+    - This raises interest rates, lowers yields
+- If central bank, the decision is to print money or allow $ to flow out of the debt asset (which raises interest rates and economic problems)
+  - eventually, central bank prints money and debases currency.
+    - alternative is deflationary depression.
+    - balancing act between deflation/inflation for how much $ to print
+- if ratio of claims on money(debt assets) >> hard assets & goods/services, then hard money can't meet claims
+  - **paper money = claims on hard money; debt = claims on paper money**
+    - as paper money grows relative to hard money (other hard assets included in hard money, right?), debt assets are riskier because the link between the hard money and paper money is more tenuous.
+
+#### Stage 5: Fiat Money & Debasement of Money
 
 - 
 
@@ -298,3 +332,6 @@ header:
   - What if prices of something increase more W/R/T other goods. Does this mean value increases? Its all relative, right? increasing home value in austin did give you more buying power if you sold it after 40% inflation in price.
 - End of long term debt cycle:
   - holders of debt flee to other stores of wealth -> does this mean avoiding treasuries?
+- Hard money:
+  - hard money also includes hard assets, correct? A good that can be directly exchanged for gold. i.e. a machine or real estate?
+    - this means that productivity increases constantly increase the amount of hard money?
