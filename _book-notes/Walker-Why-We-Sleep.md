@@ -99,3 +99,44 @@ header:
     - so we can act out dreams in head and not in real life
 
 ## Ch 4: Ape Beds, Dinosaurs, and Napping with Half a Brain
+
+- Every animal sleeps - insects, reptiles, mammals, invertebrates. sleep >500M years old
+  - even bacteria have active and passive phases corresponding to day/night
+    - maybe sleep evolved first, then wakefulness?
+- big differences between animal sleep times
+  - relationship between brain/nervous system size vs. total body mass is an ok predictor
+  - also depends on diet, social networks, predator/prey balance, metabolic rate
+
+- REM is a recent evolution of sleep - only birds & mammals
+  - dolphins & whales don't have REM; also seals when in ocean, but when they sleep on land, they have REM
+    - REM = paralysis -> might kill them in water, or REM different & not as detectable
+  - bird & mammal REM evolved separately - also some proto-REM in lizards
+  - After all-nighter, NREM rebounds first, then REM in following nights
+    - both important. sleep lost is never fully recovered.
+
+- Methods of sleep b/t animals very different
+  - dolphins & whales have 1/2 of brain sleep at a time. to keep moving & talking
+  - birds sleep in groups. inner ones = full brain sleep; outer ones = half brain sleep to keep watch
+    - REM sleep can't be split b/t sides of brain. whole brain required
+
+- Differences in resilience to loosing sleep
+  - famine reduces need for sleep in exchange for foraging for food.
+  - migratory birds sleep in-flight for seconds in power naps
+    - if deprived during migration season, they're fine, but deprivation out of season very bad for them
+
+- We evolved to sleep at night and nap in afternoon after lunch ~30-40 mins
+  - hunter-gathers still do this & siesta culture from this.
+    - 37% increased risk of heart disease for people who stopped afternoon naps in greece, compared to those who kept it.
+      - confounding variables?
+
+- Human sleep different than apes & other primates. more REM & shorter total duration
+  - sleeping in trees was to avoid predators, but REM paralysis bad for balance
+    - once homo erectus invented fire & slept on ground, more efficient sleep started.
+  - REM helps process complex emotions - emotional IQ of an individual increases with more REM
+    - over time, as everyone has increased emotional IQ, complex societies could develop
+  - REM also links parts of the brain to create overarching insights. i.e. general intelligence & creativity
+    - NREM only puts memories into long term storage
+
+## Ch 5: Changes in Sleep over Lifespan
+
+- Fetuses sleep
