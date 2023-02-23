@@ -4,9 +4,10 @@ excerpt: Elisabeth Rosenthal
 permalink: /book-notes/Rosenthal-an-american-sickness/
 author_profile: false
 header:
-  image: /assets/images/book-notes/Covers/an american sickness.jpg
+  # image: /assets/images/book-notes/Covers/an american sickness.jpg
   teaser: /assets/images/book-notes/Covers/an american sickness teaser.png
 sidebar:
   nav: "book-notes"
 ---
 
+![jpg](/assets/images/book-notes/Covers/an american sickness.jpg)

@@ -6,6 +6,8 @@ author_profile: false
 toc: true
 toc_sticky: true
 header:
-  image: /assets/images/book-notes/Covers/give and take.jpg
+  # image: /assets/images/book-notes/Covers/give and take.jpg
   teaser: /assets/images/book-notes/Covers/give and take teaser.png
 ---
+
+![jpg](/assets/images/book-notes/Covers/give and take.jpg)

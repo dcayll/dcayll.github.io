@@ -6,6 +6,8 @@ author_profile: false
 toc: true
 toc_sticky: true
 header:
-  image: /assets/images/book-notes/Covers/the intelligent investor.jpg
+  # image: /assets/images/book-notes/Covers/the intelligent investor.jpg
   teaser: /assets/images/book-notes/Covers/the intelligent investor teaser.png
 ---
+
+![jpg](/assets/images/book-notes/Covers/the intelligent investor.jpg)

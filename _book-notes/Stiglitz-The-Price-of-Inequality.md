@@ -10,3 +10,4 @@ sidebar:
   nav: "book-notes"
 ---
 
+![jpg](/assets/images/book-notes/Covers/Price of Inequality.jpg)
