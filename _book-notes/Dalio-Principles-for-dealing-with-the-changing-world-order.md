@@ -1,4 +1,4 @@
-           ---
+---
 title: "Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail"
 excerpt: Ray Dalio
 permalink: /book-notes/Dalio-principles-for-dealing-with-the-changing-world-order/
@@ -6,10 +6,7 @@ author_profile: false
 toc: true
 toc_sticky: true
 header:
-#   image: /assets/images/book-notes/Covers/Principles of the changing world order.jpg
   teaser: /assets/images/book-notes/Covers/Principles of the changing world order teaser.png
-# sidebar:
-#   nav: "book-notes"
 ---
 
 ![jpg](/assets/images/book-notes/Covers/Principles of the changing world order.jpg)
@@ -330,7 +327,7 @@ header:
 - >  "There is nothing wrong with having an increase in money growth instead of an increase in credit/debt growth, if the money is put to productive use. The risk is that it will not be. If money is printed too aggressively, and not used productively, people will stop using it as a store hold of wealth and shift their wealth into other things. (real estate?)"
 - Printing money and buying bonds holds down interest rates, which stimulate borrowing and buying.
   - raises financial asset prices, but inefficient at allocating capital
-  - when printing doesn't allocate capital correctly, central gvt can borrow from central bank (who prints it) and spend where they see fit. 
+  - when printing doesn't allocate capital correctly, central gvt can borrow from central bank (who prints it) and spend where they see fit.
     - "debt monetization" - more politically palatable than raising taxes, because it affects everyone, not just the taxed.
       - Is bad for owners of the debts. makes money and debt cheaper, lower returns.
       - these owners of debt then take out cheap loans to put into better stores of wealth (gold, certain stocks etc.)
@@ -345,7 +342,7 @@ header:
   2. Debt defaults and restructuring
      - deflationary, painful to both borrower who looses asset and to creditor who loses wealth as debt is written down
   3. Transfers of money/credit to those who need it more (Taxing)
-     - part of the solution normally, politically challenging. 
+     - part of the solution normally, politically challenging
   4. printing money and devaluing it
      - politically expedient, make people feel richer (on paper)
 
@@ -364,7 +361,7 @@ header:
 
 ### Long-Term Debt Cycle Summary
 
-- 
+- a
 
 ## Ch 3 discussion questions
 
@@ -381,5 +378,5 @@ header:
 - Debt monetization:
   - > At such times central banks have typically continued to print money and buy debt directly or indirectly while outlawing the flow of money into inflation-hedge assets
     - How to outlaw flow of money somewhere?
-  - flee from fiat currency/debt pushes people to alt. assets. Is this the reason for real estate valuations? 
+  - flee from fiat currency/debt pushes people to alt. assets. Is this the reason for real estate valuations?
     - [Mckinsey - The rise and rise of the global balance sheet: How productively are we using our wealth](https://www.mckinsey.com/industries/financial-services/our-insights/the-rise-and-rise-of-the-global-balance-sheet-how-productively-are-we-using-our-wealth)
