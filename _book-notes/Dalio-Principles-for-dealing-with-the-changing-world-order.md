@@ -1,4 +1,4 @@
----
+           ---
 title: "Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail"
 excerpt: Ray Dalio
 permalink: /book-notes/Dalio-principles-for-dealing-with-the-changing-world-order/
@@ -321,6 +321,49 @@ header:
 
 #### Stage 5: Fiat Money & Debasement of Money
 
+- Getting off the gold standard - Like Nixon in 1971
+  - in '71, lots of debt from spending on military and social programs. Claims on gold became larger than gold reserves.
+- Incentives point towards creating more money and debt assets relative to amount of goods and services being produced. 2 outcomes:
+  1. biggest holders of debt want to be paid back and cause a "run" on the gvt banks
+  2. devaluation of money by printing more to get out of the mess
+- Printing money is done after rates hit ~0%. 2008, COVID, great depression
+- >  "There is nothing wrong with having an increase in money growth instead of an increase in credit/debt growth, if the money is put to productive use. The risk is that it will not be. If money is printed too aggressively, and not used productively, people will stop using it as a store hold of wealth and shift their wealth into other things. (real estate?)"
+- Printing money and buying bonds holds down interest rates, which stimulate borrowing and buying.
+  - raises financial asset prices, but inefficient at allocating capital
+  - when printing doesn't allocate capital correctly, central gvt can borrow from central bank (who prints it) and spend where they see fit. 
+    - "debt monetization" - more politically palatable than raising taxes, because it affects everyone, not just the taxed.
+      - Is bad for owners of the debts. makes money and debt cheaper, lower returns.
+      - these owners of debt then take out cheap loans to put into better stores of wealth (gold, certain stocks etc.)
+- "Reflation"
+  - can stimulate new credit/money expansion - good for stocks
+  - or devalues money to produce monetary inflation - good for gold, commodities, I bonds
+  - Early on in long-term debt cycle when debt is low, there's room to stimulate by lowering interest rates/buying assets or printing money. Will ensure economic growth
+    - later on, when debt is high, inflation more likely than economic growth
+- 4 levers for policy makers to bring down debt
+  1. Austerity
+     - Deflationary
+  2. Debt defaults and restructuring
+     - deflationary, painful to both borrower who looses asset and to creditor who loses wealth as debt is written down
+  3. Transfers of money/credit to those who need it more (Taxing)
+     - part of the solution normally, politically challenging. 
+  4. printing money and devaluing it
+     - politically expedient, make people feel richer (on paper)
+
+#### Stage 6: Flight back into hard money
+
+- overprinting of money makes people sell debt assets. (lowing price of bonds bc of lower chance of them getting paid)
+- Makes people flee the currency and also debt denominated in the currency.
+  - What kinds of debt in the currency? gvt bonds? company bonds?
+  - They flee into gold, silver, stocks with real value, and other currencies/assets.
+    - alternative reserve currency not required for this capital flight. $$ can find other assets.
+      - reason for real estate blow?
+- Holding debt early in debt cycle is rewarding (when less debt outstanding)
+  - Later on, when more debt is outstanding, it is riskier and closer to default (esp. when taking ~low interest rate into account)
+  - people feel safer the closer to the end of this blow up. BC so far removed from last debt cycle
+- 50-70 year debt cycles.
+
+### Long-Term Debt Cycle Summary
+
 - 
 
 ## Ch 3 discussion questions
@@ -335,3 +378,8 @@ header:
 - Hard money:
   - hard money also includes hard assets, correct? A good that can be directly exchanged for gold. i.e. a machine or real estate?
     - this means that productivity increases constantly increase the amount of hard money?
+- Debt monetization:
+  - > At such times central banks have typically continued to print money and buy debt directly or indirectly while outlawing the flow of money into inflation-hedge assets
+    - How to outlaw flow of money somewhere?
+  - flee from fiat currency/debt pushes people to alt. assets. Is this the reason for real estate valuations? 
+    - [Mckinsey - The rise and rise of the global balance sheet: How productively are we using our wealth](https://www.mckinsey.com/industries/financial-services/our-insights/the-rise-and-rise-of-the-global-balance-sheet-how-productively-are-we-using-our-wealth)
