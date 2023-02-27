@@ -6,7 +6,6 @@ author_profile: false
 toc: true
 toc_sticky: true
 header:
-  image: /assets/images/book-notes/Covers/house of debt.jpg
   teaser: /assets/images/book-notes/Covers/house of debt teaser.png
 ---
 
