@@ -138,4 +138,50 @@ header:
 
 ## Ch 5: Changes in Sleep over Lifespan
 
-- Fetuses sleep
+- Fetuses sleep a lot. by 23rd week, REM & NREM present
+  - no paralyzing in REM for fetuses though
+  - REM increases to 12 hrs/day before birth. most ever in lifetime
+    - important for maturation of brain - synaptogenesis
+    - if REM is interrupted in-utero or in newborn, development is stunted
+      - when sleep resumes, lost ground can't be regained
+    - autism linked to weaker circadian rhythm & less sleep than regular
+      - esp. 30-50% less REM. causality unclear. 
+  - babies of alcoholic mothers have less REM & lower quality REM
+    - alcohol is best REM-blocker
+    - this linked to higher incidence of autism
+  - after nursing, babies usu go into REM; if mom's milk has alcohol, REM is disturbed
+    - 20-3-% reduction. some is regained after alcohol out of system, but not all
+
+- babies & young kids have polyphasic sleep: many short bouts with loud wakefulness between
+  - older the baby gets, the longer and more stable sleep becomes
+  - **tip:** put kid to sleep when they're drowsy, not when already asleep.
+    - helps build ability to self soothe
+- circadian rhythm part of brain not developed until ~1yr
+- by 4 yrs - bi-phasic sleep (night with a nap)
+- infants 50/50 REM/NREM with 14 hrs total. 5 year old: 70/30 NREM/REM with 11 hrs; adults 80/20 is adult average
+
+- NREM spikes late childhood & adolescence - correlates with decreasing REM
+  - trimming connections & strengthens others in NREM for efficiency
+  - NREM ramps back down after early adulthood
+  - brain maturation happens back to front. visual & spacial perception & critical thinking and decision making last
+  - NREM is causal in the development of critical thinking and decision making
+    - NREM disturbed in rats using caffeine and development stunted
+      - similar disturbances are linked with schizophrenia
+        - abnormal synaptic pruning in frontal lobe
+  - also, teens circadian rhythm shifted later; kids earlier w/r/t/ adults
+    - may be to give teens practice being independent @ night away from parents
+
+- older adults still need as much sleep as younger ones; its just harder to obtain
+  - rem stays steady, but NREM decreases with aging. by 70 y.o., 80-90% reduction
+    - some bad health can be attributed to bad sleep with age
+  - insufficient sleep correlated with higher mortality risk, depression, and forgetfulness
+  - circadian rhythm shifts earlier in old people. causes late afternoon sleepiness, which reduces sleep pressure and night sleep quality; then wake early b/c circadian rhythm
+  - the parts of brain that ignite deep NREM sleep are the first to deteriorate with old age
+  - people given a memory task at night, then slept and re-tested in morning
+    - older people and those with greatest loss of deep sleep remembered the least
+  - old people need more sleep because if more sleep artificially generated, their mental performance is better
+    - they just can't create that sleep on their own.
+
+## Ch 6: Your Mother and Shakespeare Knew the Benefits of Sleep
+
+- a
