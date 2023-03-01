@@ -361,6 +361,20 @@ header:
 
 ### Long-Term Debt Cycle Summary
 
+- 3 types of money:
+  1. Hard money (e.g. metal coins)
+     - restrictive. money can't be created
+  2. Paper money (e.g. claims on hard money)
+     - money can be created, but when ratio of claims on hard money to hard money increases too much, bank runs occur
+  3. Fiat money (e.g. debased paper money)
+     - money and credit run freely until confidence in the currency fails
+     - when currency fails, gvt needs to build confidence again, so they switch back to hard money
+
+- Big cycle lasts ~50-75 years, and between 2-4 cycles are possible with a reserve currency regime.
+  - big cycles don't necessarily break the currency system. write downs of debt can save them.
+
+## Ch 4: The Changing Value of Money
+
 - a
 
 ## Ch 3 discussion questions
