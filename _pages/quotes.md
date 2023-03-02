@@ -1,6 +1,7 @@
 ---
 permalink: /quotes/
 title: "Quotes"
+classes: wide
 ---
 
 > God will not have his work manifest by cowards  
