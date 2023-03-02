@@ -145,7 +145,7 @@ header:
     - if REM is interrupted in-utero or in newborn, development is stunted
       - when sleep resumes, lost ground can't be regained
     - autism linked to weaker circadian rhythm & less sleep than regular
-      - esp. 30-50% less REM. causality unclear. 
+      - esp. 30-50% less REM. causality unclear.
   - babies of alcoholic mothers have less REM & lower quality REM
     - alcohol is best REM-blocker
     - this linked to higher incidence of autism
@@ -185,4 +185,3 @@ header:
 ## Ch 6: Your Mother and Shakespeare Knew the Benefits of Sleep
 
 - a
- 
