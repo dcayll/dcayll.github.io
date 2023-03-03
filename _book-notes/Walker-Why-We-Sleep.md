@@ -184,4 +184,41 @@ header:
 
 ## Ch 6: Your Mother and Shakespeare Knew the Benefits of Sleep
 
+- Sleep is important in memory- like a file storage/exchange system
+  - sleep helps to empty the queue of info going from short to long term memory
+    - limited amount of short term memory
+    - stage 2 NREM sleep spindle intensity predicts learning restoration
+  - short term storage in hippocampus; long term in cortex
+  - old people have less sleep spindles therefore worse file transfer and memory
+  - spindles usually occur in late morning hours - miss if not sleeping enough
+
+- Sleep after learning helps to cement it into long-term memory
+  - fact-based learning helps to cement it into long-term memory
+    - fact-based recall improvements come from NREM - abundant in first part of the night.
+  - link between NREM and memory recall very strong & predictive
+    - naps as short as 20 mins with NREM even work
+    - forgotten facts can be recalled after too.
+  - using transcranial direct current brain stimulation (tDCS) during NREM, people can remember 2x more (if in sync with waves already present)
+    - same stimulation in REM or awake does nothing
+    - sound can do the same to enhance waves
+    - swaying in sleep also produces 2x spindles in NREM
+  - Playing sound related to things you want to remember during NREM will help them be remembered better (doesn't work in REM)
+
+- Selectively forgetting also important in sleep. - makes space for new stuff
+  - by curing what should be remembered/forgotten while awake, sleep listens and acts appropriately.
+  - quick sleep spindles in NREM help to forget. frontal lobe is gatekeeper
+
+- Different types of memory. skill memory, different than fact recall (subject of all memory talk until this point)
+  - "muscle memory" is improved by practice. further improved by practice and sleep
+  - unlike textbook memory that goes from short to long-term storage, skill memory goes to a place where unconscious skills go. instincts.
+    - comes from stage 2 NREM - usually lasts 2 hrs of 8 hr sleep; many spindles present.
+      - spindles concentrate in areas where they're needed.
+        - i.e. if today many motor skills were learned, that part of brain gets spindles
+
+- Under-sleeping related to many decreases in physical performance - time to exhaustion, vertical jump, increased lactic acid buildup, decrease in lung efficiency, increased injury risk.
+
+- Stage 2 NREM spikes in babies learning ot walk. Likely because they're learning new motor control skills.
+
+## Ch 7: Too Extreme for Records - Sleep Deprivation and the Brain
+
 - a
