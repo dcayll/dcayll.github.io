@@ -81,7 +81,7 @@ search_full_content      : true # true, false (default)
 search_provider          : "lunr"
 lunr:
   search_within_pages    : true
-# algolia:
+# algolia:                 # will need to change numbers if I use this
 #   application_id         : "QB6HVGBSBA"
 #   index_name             : "dev_minimal-mistakes"
 #   search_only_api_key    : "9d5014e5bbc77372547bce778dfa5663"
