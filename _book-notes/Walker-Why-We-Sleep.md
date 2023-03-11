@@ -221,4 +221,127 @@ header:
 
 ## Ch 7: Too Extreme for Records - Sleep Deprivation and the Brain
 
+- Sleep deprivation affects concentration - primarily through "micro-sleeps"
+  - micro-sleep is a quick, few-second "sleep" where you're shut off from the world for a second or two. easily ID'd in concentration tests
+  - over 2 week period, 4 hrs/night * 14 nights = performance after 48 hrs without sleep
+  - over 2 week period, 6 hrs/night * 14 nights = performance after 24 hrs without sleep
+
+- Sleep Deprivation is very often underestimated. Effects present in concentration, mood, etc. even though they aren't "felt"
+  - Can't "catch up" after a couple days of normal sleep either
+  - being awake 19 hrs = 0.08 BAC in concentration experiments
+    - similar findings for driving impairment, but being tired and drunk is > sum of both
+    - Drowsy driving more deadly than drunk driving -> no reaction vs slow reaction
+
+- Napping is most helpful when done before a long period of deprivation vs. in the middle or late part of the night
+  - reduces micro-sleeps, but more complex learning and memory or reasoning and decision making is still impaired vs. fully slept person
+
+- We're more emotionally irrational after sleep deprivation - 60% amplified reactions vs. rested
+  - amygdala = emotional gas and prefrontal cortex = brake pedal. Low sleep pushes gas and removes brake. Means wider swings too
+    - more impulsive and less controlled by prefrontal cortex
+    - low sleep linked to suicide, aggression, bullying  & behavior problems in kids
+    - hypersensitivity to pleasure can lead to addiction
+      - low sleep correlated to relapses
+  - psychiatric disorder patterns can be reproduced with low sleep
+    - i.e. sleep loss is partially causal, partly a result of mental illness
+  - bipolar episodes can be forced with sleep deprivation
+  - improving sleep with CBT-I improves psychiatric disorder symptoms too
+    - sometimes depression is reduced after 1 night of sleep deprivation
+      - maybe due to amplified reward circuits reducing ahedonia
+
+- sleep & learning - 40% less retention when learning while sleep deprived
+  - hippocampus inactive - brain in a box. Memories made also easily forgotten
+  - sleeping after learning solidifies the info. If deprived 1st night after learning, no improvement tho
+
+- Altzheimers disease patients also have trouble getting NREM - more beta-amaloyd in frontal lobe = worse NREM. Bigger decline in sleep than with normal aging.
+  - loss of deep NREM = worse memory consolidation. Correlated with beta-amaloyd levels
+  - Glial cells clean out waste from brain in NREM. They shrink and allow cerebrospinal fluid to flush it out
+  - lifetime sleep deprivation raises chance of developing dementia
+
+## Ch 8: Cancer, Heart Attacks, and a shorter life - Sleep Deprivation and Body
+
+- Sleep loss associated with increase in heart disease - even after controlling for other risk factors
+  - in mid-life, loss of sleep hurts us even more
+  - in sleep deprived person, sympathetic nervous system (fight or flight) is overactive
+    - faster heartbeat, higher cortisol (& constrained vessels) both increase blood pressure
+    - reduced growth hormone after deprivation doesn't allow brain blood vessels to heal like they should
+
+- Sleep loss associated with diabetes and insulin resistance / chronic high blood sugar
+  - Cells less able to absorb glucose. One week of 4 hrs sleep makes people pre-diabetic
+
+- Sleep loss increases ghrelin (hunger feeling hormone) and reduces leptin (satiety feeling hormone)
+  - makes people eat more - can be up to 10-15 lbs/year
+  - sleep loss also increases endocannibanoids - naturally occurring and causes "munchies"
+  - sleep still burns ~as many calories as wakefulness
+  - craving for sugary foods increases when sleep deprived
+    - because prefrontal cortex silenced after lack of sleep
+  - decreased sleep, increased stress, and increase in bad bacteria. Worse nutrient absorption
+  - weight loss while not sleeping is more muscle vs fat compared to good sleep
+
+- Sleep loss = decrease in testosterone and sperm count
+  - also reduction in an important hormone for women to conceive
+  - tired people also rated less attractive and healthy looking
+
+- Immune system and sleep linked. more sleep = better immunity
+  - tested by actually injecting cold virus into noses. 50% vs. 18% infection for 5 hr vs. 7 hr sleep
+  - being vaxxed while low sleep = lower immune response, even after catching up sleep
+  - after 1 night low sleep, natural killer cells reduced 70%
+    - related to increase in cancer risk for people on night shift
+  - high stress levels from low sleep also increase inflammation which helps cancer grow
+    - increases metastasis of cancer
+      - because M1 tumor associated macrophages reduce and M2 (promote cancer growth) increases
+
+- sleep and DNA
+  - low sleep changes expression of 711 genes
+    - 1/2 up-regulated - those linked to inflammation , cellular stress, and links to heart disease
+    - 1/2 down-regulated - those linked to stable metabolism and optimal immune response
+  - low sleep damages protective telomeres
+    - similar damage to natural aging
+      - i.e. biological age of someone who sleeps less = older person who sleeps well
+
+## Ch 9: Routinely Psychotic - REM Sleep Dreaming
+
+- "Dreaming" occurs in all phases of sleep - any thought during sleep
+  - true dreaming is during REM only
+
+- in REM - 4 parts of brain spike in activity
+  1. Visuospatial regions - visual perception
+  2. motor cortex - instigates movement
+  3. hippocampus - autobiographical memory
+  4. Amygdala & cingulate cortex - emotion
+  - Prefrontal cortex sides are deactivated during REM
+    - reduced rational thought and logical decision making
+
+- Brain scans can show how a person is dreaming
+  - active visual regions mean a highly visual dream etc.
+  - also, using machine learning and pattern recognition of daytime thoughts, topic of dreams can coarsely be determined i.e. dog, car, man woman, etc.
+
+Freud's "latent content" theory of dreams isn't true. no similarity between different psychoanalysts
+
+- Dreams also not a replay of daily events. only 1-2% of this
+  - emotions from the day are replayed in 35-55% of dreams
+
+## Ch 10: Dreaming as Overnight Therapy
+
+- Dreaming not only a by-product of REM sleep - full benefits of REM require dreams
+  - Mental & emotional health, problem solving and creativity
+    - norepinephrine (adrenaline for brain) turned off in REM
+      - could be to help reprocess distressing memories/experiences
+    - Dreaming & REM helps to decouple emotional response from important memories
+      - or else we'd be crippled by anxiety about past
+      - specifically dreaming of emotional things helps resolve traumas & reduces depression in cartwright study after hard divorce etc.
+
+- PTSD sufferers have 100% emotion of traumatic event relived often
+  - chronically high norepinephrine
+  - REM is disrupted too
+    - can't get into dreaming to reduce emotion from the tragic event
+    - instead, they get emotional nightmares bc of noradrenaline
+      - if noradrenaline is reduced (with a drug), nightmares reduces & REM quality increases and clinical symptoms of PTSD can decrease
+
+- REM & Dreaming also helps with reading facial expressions and emotions of others
+  - REM deprivation reduces sensitivity of emotional evaluation from faces
+    - also shifts bias to more negative emotions
+  - REM sleep resets this change
+
+## Ch 11: Dream Creativity and Dream Control
+
 - a
