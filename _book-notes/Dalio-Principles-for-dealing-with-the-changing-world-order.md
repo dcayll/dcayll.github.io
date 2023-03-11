@@ -373,10 +373,6 @@ header:
 - Big cycle lasts ~50-75 years, and between 2-4 cycles are possible with a reserve currency regime.
   - big cycles don't necessarily break the currency system. write downs of debt can save them.
 
-## Ch 4: The Changing Value of Money
-
-- a
-
 ## Ch 3 discussion questions
 
 - We saw real inflation and monetary inflation in the past 2 years. Supply chain is real, and FED printing is monetary (M1 money).
@@ -394,3 +390,31 @@ header:
     - How to outlaw flow of money somewhere?
   - flee from fiat currency/debt pushes people to alt. assets. Is this the reason for real estate valuations?
     - [Mckinsey - The rise and rise of the global balance sheet: How productively are we using our wealth](https://www.mckinsey.com/industries/financial-services/our-insights/the-rise-and-rise-of-the-global-balance-sheet-how-productively-are-we-using-our-wealth)
+
+## Ch 4: The Changing Value of Money
+
+- Currencies are wiped out usually by hyperinflation and/or lost wars with large war debts and replaced with new currencies
+
+### What do they devalue against?
+
+- Their debt. Reduces debt burden for debtors because their debts are based on purchasing power of previous value of debt. 
+- when the creation of money sufficiently hurts the actual and prospective returns of productive cash and debt assets, money flows out of them and into inflation hedge assets like gold or commodities
+  - leads to a self reinforcing decline in value of money (inflation)
+  - central bank has a decision: 
+  1. raise real interest rates which will hurt economy or
+  2. keep real interest rates low by printing and buying cash and debt assets to prop up economy
+  - most choose #2 and reinforce bad returns
+    - currency breaknown can happen when:
+1. amount of debt and money are too large to be turned into real value (I.e. goods and services) they are claims on
+2. onterest rate level to keep debtors from bankruptcy is lower than the rate required for creditors to put money into that debt
+3. central bank interest rate changes (MP1) and QE (MP2) don't work
+
+### In Relation To Gold
+
+- 
+
+## Ch 4 discussion
+
+1. FED was designed to keep the central bank from printing money Willy nilly. does it's existence help prevent end of long term debt cycle since they're (theoretically) politically isolated from the people incurring debt for the gvt (congress)?
+
+
