@@ -344,4 +344,24 @@ Freud's "latent content" theory of dreams isn't true. no similarity between diff
 
 ## Ch 11: Dream Creativity and Dream Control
 
+- REM sleep is a synthesizer of knowledge - extracts the gist of waking knowledge
+  - also reorders things and creates new insights unavailable during wakefulness
+
+- Sleep inertia = carryover of sleep state into wakefulness. There are still neurotransmitters from sleep floating in brain a few mins after waking
+  - when woken up during REM vs. NREM, people better at problem solving anagram puzzles 
+    - REM = more "open-minded" processing
+  - REM makes us more likely to associate less obviously similar things
+
+- REM gives us "meta-associations" connects things not connected before
+
+- Content of dreams is important for learning through them
+  - dreaming about content of a maze helps with maze while awake, but dreams not about it don't
+
+- Lucid dreaming - controlling your actions in a dream
+  - body paralyzed, but thinking of moving arms = same brain activity as actually moving arms
+  - can communicate with eye movements to outside world while lucid dreaming
+
+## Ch 12: Sleep Disorders and Death Caused by No Sleep
+
 - a
+  
