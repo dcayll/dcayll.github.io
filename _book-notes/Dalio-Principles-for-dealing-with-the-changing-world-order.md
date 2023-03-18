@@ -411,17 +411,24 @@ header:
 
 ### In Relation To Gold
 
-![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.001_reserve currencies vs. gold.png)
+![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.001_reserve_currencies_vs_gold.png)
 
-- Currencies begin close to value of gold, then fall away as they are devalued. 
+- Currencies begin close to value of gold, then fall away as they are devalued.
 
-![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.002_spot fx vs. gold_1850-now.png)
+![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.002_spot fx_vs_gold_1850-now.png)
 
 - devaluations are typically abrupt
 
-![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.003_returns of fx vs. gold.png)
+![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.003_returns_of_fx_vs_gold.png)
 
 - Price change + interest
+
+- Wars force deficit spending and forces printing $ to devalue currency and monetize debts.
+- Breton woods after WWII pegged USD to gold and other currencies to USD until 1971. Losing WWII countries had currencies destroyed.
+  - excessive spending and debt creation in US forced breaking link to gold
+    - fueled inflation of 1970s and debt crisis of 80's
+- Currency gradually devaluing vs. gold since 2000's because interest rates low vs. inflation. Interest rates have not provided sufficient compensation for the increasing amount of money and credit.
+- 
 
 
 ## Ch 4 discussion
