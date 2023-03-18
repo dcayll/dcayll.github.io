@@ -420,6 +420,7 @@ header:
 - devaluations are typically abrupt
 
 ![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.003_returns_of_fx_vs_gold.png)
+{: .full}
 
 - Price change + interest
 
