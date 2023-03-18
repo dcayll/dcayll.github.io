@@ -397,24 +397,29 @@ header:
 
 ### What do they devalue against?
 
-- Their debt. Reduces debt burden for debtors because their debts are based on purchasing power of previous value of debt. 
+- Their debt. Reduces debt burden for debtors because their debts are based on purchasing power of previous value of debt.
 - when the creation of money sufficiently hurts the actual and prospective returns of productive cash and debt assets, money flows out of them and into inflation hedge assets like gold or commodities
   - leads to a self reinforcing decline in value of money (inflation)
-  - central bank has a decision: 
-  1. raise real interest rates which will hurt economy or
-  2. keep real interest rates low by printing and buying cash and debt assets to prop up economy
+  - central bank has a decision:
+     1. raise real interest rates which will hurt economy or
+     2. keep real interest rates low by printing and buying cash and debt assets to prop up economy
   - most choose #2 and reinforce bad returns
-    - currency breaknown can happen when:
-1. amount of debt and money are too large to be turned into real value (I.e. goods and services) they are claims on
-2. onterest rate level to keep debtors from bankruptcy is lower than the rate required for creditors to put money into that debt
-3. central bank interest rate changes (MP1) and QE (MP2) don't work
+  - currency breakdown can happen when:
+    1. amount of debt and money are too large to be turned into real value (I.e. goods and services) they are claims on
+    2. interest rate level to keep debtors from bankruptcy is lower than the rate required for creditors to put money into that debt
+    3. central bank interest rate changes (MP1) and QE (MP2) don't work
 
 ### In Relation To Gold
 
-- 
+![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.001_reserve currencies vs. gold.png)
 
 ## Ch 4 discussion
 
-1. FED was designed to keep the central bank from printing money Willy nilly. does it's existence help prevent end of long term debt cycle since they're (theoretically) politically isolated from the people incurring debt for the gvt (congress)?
+1. FED was designed to keep the central bank from printing money Willy nilly. Does it's existence help prevent end of long term debt cycle since they're (theoretically) politically isolated from the people incurring debt for the gvt (congress)? How political is the FED these days?
 
+2. Seems like US is close to the currency breakdown criteria below. Low interest rate environment pushed us there?
+
+>    1. amount of debt and money are too large to be turned into real value (I.e. goods and services) they are claims on
+>    2. interest rate level to keep debtors from bankruptcy is lower than the rate required for creditors to put money into that debt
+>    3. central bank interest rate changes (MP1) and QE (MP2) don't work
 
