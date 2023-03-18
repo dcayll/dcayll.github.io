@@ -413,6 +413,17 @@ header:
 
 ![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.001_reserve currencies vs. gold.png)
 
+- Currencies begin close to value of gold, then fall away as they are devalued. 
+
+![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.002_spot fx vs. gold_1850-now.png)
+
+- devaluations are typically abrupt
+
+![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.003_returns of fx vs. gold.png)
+
+- Price change + interest
+
+
 ## Ch 4 discussion
 
 1. FED was designed to keep the central bank from printing money Willy nilly. Does it's existence help prevent end of long term debt cycle since they're (theoretically) politically isolated from the people incurring debt for the gvt (congress)? How political is the FED these days?
