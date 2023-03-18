@@ -415,7 +415,7 @@ header:
 
 - Currencies begin close to value of gold, then fall away as they are devalued.
 
-![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.002_spot fx_vs_gold_1850-now.png)
+![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.002_spot_fx_vs_gold_1850-now.png)
 
 - devaluations are typically abrupt
 
