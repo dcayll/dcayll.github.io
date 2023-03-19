@@ -479,7 +479,20 @@ header:
 ![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.009_real_return_of_gold_vs_CPI.png)
 ![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.010_real_return_of_bills_vs_CPI.png)
 
-- Above figure is return of currencies when compared to CPI, not gold. 
+- Above figure is return of gold vs. CPI and Currency vs. CPI.
+  - Gold vs. CPI
+    - Why does Germany have such a steep increase in gold vs. CPI? after WWI they had high inflation. Price of basket of goods goes way up w/r/t while value of gold stays the same. So gold becomes more valuable there?
+    - US and Swiss stay near 100. This means they're the most stable w/r/t gold, right?
+  - Currency vs. CPI
+    - US first, then Swiss. All major currencies currently devaluing vs. CPI. since 2008 when interest rates were near 0. 
+
+#### Commonalities in devaluations
+
+- "run" dyanamics on central banks. More claims than cash available to satisfy them. Usually gold. 
+- Central bank reserves decline years ahead of devaluation. To try and keep party going
+- Run on currency/devaluations occur alongside debt problems
+  - Central banks increase rates to reduce devaluation, but eventually stop because of economic pain, then print again. 
+- Economic and Military power at time of devaluation determine how much other countries have faith in the devaluing country, so helps those countries keep reserve status and keep devaluations more gradual.
 
 ## Ch 4 discussion
 
@@ -494,3 +507,9 @@ header:
 3. In table, how does the gold value change in each country? Isn't it supposed to be a global market with the same price everywhere?
 
 4. Referring to table again, Gold return vs. CPI is because its gotten cheaper to make the things that make up the CPI, right? Productivity measurement.
+
+5. When referring to "interest earning currencies", that means the interest rate of countries that issue the currency, right? Not private debt that is issued by people/banks? 
+
+6. Gold vs. CPI
+
+> - Why does Germany have such a steep increase in gold vs. CPI? after WWI they had high inflation. Price of basket of goods goes way up w/r/t while value of gold stays the same. So gold becomes more valuable there? compared to bills?
