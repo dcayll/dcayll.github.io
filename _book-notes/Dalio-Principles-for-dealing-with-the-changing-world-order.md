@@ -476,8 +476,8 @@ header:
 - Modern era (since 1912) there was a higher return to hold gold vs. holding gvt issued cash. -0.1% vs. 1.6% when compared to CPI
   - Amount of goods purchasable went down, but fluctuation in currency makes that vary from country to country
 
-![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.009_real_return_of_gold_vs_CPI.png)
-![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.010_real_return_of_bills_vs_CPI.png)
+![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.009_real_return_of_gold_vs_CPI.png) return of gold vs. CPI
+![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.010_real_return_of_bills_vs_CPI.png) Currency vs. CPI
 
 - Above figure is return of gold vs. CPI and Currency vs. CPI.
   - Gold vs. CPI
