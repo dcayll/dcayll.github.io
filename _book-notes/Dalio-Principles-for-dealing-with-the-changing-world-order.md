@@ -486,6 +486,7 @@ header:
     - US and Swiss stay near 100. This means they're the most stable w/r/t gold, right?
   - Currency vs. CPI
     - US first, then Swiss. All major currencies currently devaluing vs. CPI. since 2008 when interest rates were near 0.
+    - Real interest rate. Higher it is, the better prospect of future economic returns. 
 
 #### Commonalities in devaluations
 
