@@ -417,8 +417,6 @@ header:
 
 ![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.002_spot_fx_vs_gold_1850-now.png)
 
-- devaluations are typically abrupt
-
 ![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.003_returns_of_fx_vs_gold.png)
 {: .full}
 
@@ -429,16 +427,70 @@ header:
   - excessive spending and debt creation in US forced breaking link to gold
     - fueled inflation of 1970s and debt crisis of 80's
 - Currency gradually devaluing vs. gold since 2000's because interest rates low vs. inflation. Interest rates have not provided sufficient compensation for the increasing amount of money and credit.
-- 
 
+#### 1850 - 1910
+
+- ![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.004_spot_fx_vs_gold_1800s.png)
+
+- devaluations are typically abrupt
+- price of gold vs. currencies relatively stable from 1850-1910. High interest rates, but fast innovation in second industrial revolution produced high returns. Popping bubbles caused end of this era. 
+  - Gold standard in this period. ($ exchangable for gold)
+
+#### 1910 - 1930
+
+![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.005_spot_fx_vs_gold_early1900s.png)
+
+- After WWI, allied europe owes US lots of war debt.
+  - They inflated & devalued, we didn't.
+  - Axis devalued much more. Esp. Germany and Italy
+- Led to roaring 20's and then big debt & asset bubbles and wage gaps.
+
+#### 1930 - 1950
+
+![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.006_spot_fx_vs_gold_early_mid1900s.png)
+
+- Since 1950s, downward pressure on currencies vs. gold. Because rate of innovation couldn't keep up with interest rates like in industrial revolution? requires some inflation vs. gold. 
+
+#### 1956 - 1977
+
+![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.007_spot_fx_vs_gold_mid_late1900s.png)
+
+- End of breton woods allow us to deflate from gold more easily
+
+#### 1977 - 1998
+
+- What happens here? He skipped over it. Large inflation in USA, and globally? So more significant devaluing vs. gold since there is significant upward pressure. 
+
+#### 1998 - Present
+
+![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.008_spot_fx_vs_gold_2000s.png)
+
+- Broad drop in currencies vs. gold.
+  - Correlated to lowering interest rates.
+
+#### Summary
+
+![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.011_table_fx-vs-gold.png)
+
+- USA was best place to put money from 1850 - Present. Most innovation and productivity growth. Especially 1850 - 1912.
+- Modern era (since 1912) there was a higher return to hold gold vs. holding gvt issued cash. -0.1% vs. 1.6% when compared to CPI
+  - Amount of goods purchasable went down, but fluctuation in currency makes that vary from country to country
+
+![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.009_real_return_of_gold_vs_CPI.png)
+![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.010_real_return_of_bills_vs_CPI.png)
+
+- Above figure is return of currencies when compared to CPI, not gold. 
 
 ## Ch 4 discussion
 
 1. FED was designed to keep the central bank from printing money Willy nilly. Does it's existence help prevent end of long term debt cycle since they're (theoretically) politically isolated from the people incurring debt for the gvt (congress)? How political is the FED these days?
 
-2. Seems like US is close to the currency breakdown criteria below. Low interest rate environment pushed us there?
+2. Seems like US right now is close to the currency breakdown criteria below. Low interest rate environment pushed us there?
 
 >    1. amount of debt and money are too large to be turned into real value (I.e. goods and services) they are claims on
 >    2. interest rate level to keep debtors from bankruptcy is lower than the rate required for creditors to put money into that debt
 >    3. central bank interest rate changes (MP1) and QE (MP2) don't work
 
+3. In table, how does the gold value change in each country? Isn't it supposed to be a global market with the same price everywhere?
+
+4. Referring to table again, Gold return vs. CPI is because its gotten cheaper to make the things that make up the CPI, right? Productivity measurement.
