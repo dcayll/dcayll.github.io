@@ -433,7 +433,7 @@ header:
 - ![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.004_spot_fx_vs_gold_1800s.png)
 
 - devaluations are typically abrupt
-- price of gold vs. currencies relatively stable from 1850-1910. High interest rates, but fast innovation in second industrial revolution produced high returns. Popping bubbles caused end of this era. 
+- price of gold vs. currencies relatively stable from 1850-1910. High interest rates, but fast innovation in second industrial revolution produced high returns. Popping bubbles caused end of this era.
   - Gold standard in this period. ($ exchangable for gold)
 
 #### 1910 - 1930
@@ -449,7 +449,7 @@ header:
 
 ![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.006_spot_fx_vs_gold_early_mid1900s.png)
 
-- Since 1950s, downward pressure on currencies vs. gold. Because rate of innovation couldn't keep up with interest rates like in industrial revolution? requires some inflation vs. gold. 
+- Since 1950s, downward pressure on currencies vs. gold. Because rate of innovation couldn't keep up with interest rates like in industrial revolution? requires some inflation vs. gold.
 
 #### 1956 - 1977
 
@@ -459,7 +459,7 @@ header:
 
 #### 1977 - 1998
 
-- What happens here? He skipped over it. Large inflation in USA, and globally? So more significant devaluing vs. gold since there is significant upward pressure. 
+- What happens here? He skipped over it. Large inflation in USA, and globally? So more significant devaluing vs. gold since there is significant upward pressure.
 
 #### 1998 - Present
 
@@ -484,14 +484,14 @@ header:
     - Why does Germany have such a steep increase in gold vs. CPI? after WWI they had high inflation. Price of basket of goods goes way up w/r/t while value of gold stays the same. So gold becomes more valuable there?
     - US and Swiss stay near 100. This means they're the most stable w/r/t gold, right?
   - Currency vs. CPI
-    - US first, then Swiss. All major currencies currently devaluing vs. CPI. since 2008 when interest rates were near 0. 
+    - US first, then Swiss. All major currencies currently devaluing vs. CPI. since 2008 when interest rates were near 0.
 
 #### Commonalities in devaluations
 
-- "run" dyanamics on central banks. More claims than cash available to satisfy them. Usually gold. 
+- "run" dyanamics on central banks. More claims than cash available to satisfy them. Usually gold.
 - Central bank reserves decline years ahead of devaluation. To try and keep party going
 - Run on currency/devaluations occur alongside debt problems
-  - Central banks increase rates to reduce devaluation, but eventually stop because of economic pain, then print again. 
+  - Central banks increase rates to reduce devaluation, but eventually stop because of economic pain, then print again.
 - Economic and Military power at time of devaluation determine how much other countries have faith in the devaluing country, so helps those countries keep reserve status and keep devaluations more gradual.
 
 ## Ch 4 discussion
