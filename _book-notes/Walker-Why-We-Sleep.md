@@ -348,7 +348,7 @@ Freud's "latent content" theory of dreams isn't true. no similarity between diff
   - also reorders things and creates new insights unavailable during wakefulness
 
 - Sleep inertia = carryover of sleep state into wakefulness. There are still neurotransmitters from sleep floating in brain a few mins after waking
-  - When woken up during REM vs. NREM, people better at problem solving anagram puzzles 
+  - When woken up during REM vs. NREM, people better at problem solving anagram puzzles
     - REM = more "open-minded" processing
   - REM makes us more likely to associate less obviously similar things
 
@@ -368,7 +368,7 @@ Freud's "latent content" theory of dreams isn't true. no similarity between diff
   - May happen more in kids becuase they have more NREM
 
 - Insomnia - not being able to sleep when given ample opprotunity to sleep
-  - Can be onset insomnia (can't fall asleep) or maintenance insomnia (can't stay asleep) or both. 
+  - Can be onset insomnia (can't fall asleep) or maintenance insomnia (can't stay asleep) or both
   - Must persist for ~3 nights/week for >3 months to be diagnosed
     - 1/9 americans count
     - 2/3 say they have it
@@ -395,10 +395,9 @@ Freud's "latent content" theory of dreams isn't true. no similarity between diff
 
 - Sleep deprivation - kills rats as fast as food deprivation (2 weeks)
   - Selectively depriving REM also ~2 weeks, but depriving NREM ~45 days
-  - Deprived rats ate more, had lower core body temperature, increased metabolic rate (to heat up) and immune system worse, coritsol high tool 
+  - Deprived rats ate more, had lower core body temperature, increased metabolic rate (to heat up) and immune system worse, coritsol high tool
     - Cctual death came from a systemic bacterial infection normally not lethal
 
 - Studies of hunter gatherer tribes only sleeping 6.75 hours doesnt mean thats our ideal
   - Their sleep opportunity much higher than modern people
   - They die earlier because of bacterial infections (because lower immunity from less sleep)
-
