@@ -396,8 +396,35 @@ Freud's "latent content" theory of dreams isn't true. no similarity between diff
 - Sleep deprivation - kills rats as fast as food deprivation (2 weeks)
   - Selectively depriving REM also ~2 weeks, but depriving NREM ~45 days
   - Deprived rats ate more, had lower core body temperature, increased metabolic rate (to heat up) and immune system worse, coritsol high tool
-    - Cctual death came from a systemic bacterial infection normally not lethal
+    - Actual death came from a systemic bacterial infection normally not lethal
 
 - Studies of hunter gatherer tribes only sleeping 6.75 hours doesnt mean thats our ideal
   - Their sleep opportunity much higher than modern people
   - They die earlier because of bacterial infections (because lower immunity from less sleep)
+
+## Ch 13: What's Stopping You From Sleeping?
+
+- Artificial light can shift internal clock and stop natural melatonin production
+  - Even 1-2% of daylight intensity can drop it by 50%
+  - Suprachiasmatic nucleus senses the light
+  - Blue light from iPad screens at night
+    - Change melatonin release to later
+    - Reduces total REM sleep
+    - Feel sleepier and less rested the next day
+    - Lag in melatonin release for days afterwards
+
+- Alcohol is a sedative - alcohol sleep not equal to normal sleep barinwaves, more like anasthesia
+  - Alcohol fragments sleep, usually unnoticed, but accounts for next day tiredness
+  - Supresses REM sleep. Alcoholics can be REM sleep deprived and dream while awake (hallucinate)
+    - This disturbs learning. especially early after learning, but even for many nights after
+
+- Body temperature sends a separate signal to brain to release melatonin
+  - core temperature drops by 2-3F overnight
+  - reducing body temperature experimentally helps people fall asleep and stay asleep
+
+- Alarm clock turns on fight or flight response and increases blood pressure and heart rate
+  - Snooze button does this repeatedly - avoid it!
+
+## Ch 14: Hurting and Helping your Sleep. Pills vs. Therapy
+
+- a
