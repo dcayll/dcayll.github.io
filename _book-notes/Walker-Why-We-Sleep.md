@@ -456,7 +456,7 @@ Freud's "latent content" theory of dreams isn't true. no similarity between diff
 
 ## Ch 15: Sleep & Society
 
-- >65% of us adults dont get >=7-9 hrs of sleep. Common in developed world. 
+- >65% of us adults dont get >=7-9 hrs of sleep. Common in developed world
 
 - Sleep in the workplace
   - Lack of sleep reduces productivity of US economy by 2.3% of GDP
@@ -472,7 +472,7 @@ Freud's "latent content" theory of dreams isn't true. no similarity between diff
   - Similar long term mortality to starvation
 
 - Sleep and education
-  - Depriving kids of early morning REM to go to school could tip a kid into psychiatric illness: depression, anxiety, etc. 
+  - Depriving kids of early morning REM to go to school could tip a kid into psychiatric illness: depression, anxiety, etc.
   - In population & twin studies, more sleep in kids = higher IQ
   - Start time should be around 9:00 AM for kids school
     - pushing start time reduces traffic accidents in teens too
