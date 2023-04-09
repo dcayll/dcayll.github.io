@@ -427,4 +427,75 @@ Freud's "latent content" theory of dreams isn't true. no similarity between diff
 
 ## Ch 14: Hurting and Helping your Sleep. Pills vs. Therapy
 
-- a
+- Sleeping pills sedate, but don't produce natural sleep
+  - People feel like they slept faster, but effect not statistically significant
+  - Using sleeping pills can make you more tired during the day and is positive feedback loop
+  - Can cause a 50% decrease in brain wiring related to learning
+  - Risk of death also increase by 3.5-5.5% based on frequency of sleeping pill use
+    - Big increases in infections, especailly in old people because they take the most sleeping pills
+    - Also cancer increases in a sleeping pill dose-dependent way
+      - May be because worst sleepers need the most pills
+
+- Cognitive Behavioral Therapy for Insomnia (CBT-I)
+  - Normal things to sleep better:
+    - less caffiene and alcohol
+    - regular bedtime
+    - no screens
+    - avoid napping
+    - avoid anxiety
+    - remove clocks
+  - Recommended first line treatment to insomnia now
+
+- To improve sleep in non-insomniacs:
+  - Wake and sleep at same times every day
+  - Exercise
+    - helps on average, but day after long exercise doesn't help sleep
+    - bad sleep = bad exercise the next day
+  - Don't be too full or hungry at bedtime
+  - Avoid >70% of calories from carbs, especially sugar
+
+## Ch 15: Sleep & Society
+
+- >65% of us adults dont get >=7-9 hrs of sleep. Common in developed world. 
+
+- Sleep in the workplace
+  - Lack of sleep reduces productivity of US economy by 2.3% of GDP
+  - Sleep deprived people pick the easy way out usually
+  - They say they have too much work and can't sleep, but in reality, they don't finish their work because they're underslept
+    - not perceivable by the individual
+  - Tired people also less ethical
+  - Bad sleep = bad leadership and it rubs off on employees
+  - Extra hour of sleep = 4-5% higher income based on time zone study
+
+- Sleep and torture
+  - Used as interrogation tactic, but sleep deprivation reduces mental capabilities, therefore not a good tactic
+  - Similar long term mortality to starvation
+
+- Sleep and education
+  - Depriving kids of early morning REM to go to school could tip a kid into psychiatric illness: depression, anxiety, etc. 
+  - In population & twin studies, more sleep in kids = higher IQ
+  - Start time should be around 9:00 AM for kids school
+    - pushing start time reduces traffic accidents in teens too
+  - Sleep deprivation in kids can present as ADHD & Adderall is the worst solution for the real problem (low sleep)
+    - up to ~50% of ADHD diagnosis may be from low sleep
+
+- Sleep and Health Care
+  - Long hours in residency because founder of John's Hopkins residency was a coke addict
+  - More medical errors when underslept
+  - 1/20 of residents will kill a patient due to lack of sleep
+  - After 36 hr shift:
+    - 460% more diagnostic mistakes
+    - 36% more serious medical errors
+
+## Ch 16: A New Vision for Sleep in the 21st Century
+
+- Individual Change
+  - Seeing your own data & correlating it with outcomes can create behavior change
+  - Reduce blue light at night, do lots of light in morning
+
+- Organizational Change
+  - Some companies incentivize sleep - makes financial sense
+
+- When well slept, people feel less pain than when deprived
+  - Important for inpatients because their sleep isn't great
+    - More sleep = less painkillers
