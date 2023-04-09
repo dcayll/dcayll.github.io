@@ -14,10 +14,10 @@ classes: wide
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— William James
 
 > Watch your thoughts, they become your words;  
-watch your words, they become your actions;  
-watch your actions, they become your habits;  
-watch your habits, they become your character;  
-watch your character, it becomes your destiny  
+Watch your words, they become your actions;  
+Watch your actions, they become your habits;  
+Watch your habits, they become your character;  
+Watch your character, it becomes your destiny  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Lao Tzu
 
 > The definition of hell is: Your last day on Earth, the person you became meets the person you could have become  
