@@ -506,12 +506,12 @@ header:
 > - Interest rate level to keep debtors from bankruptcy is lower than the rate required for creditors to put money into that debt
 > - Central bank interest rate changes (MP1) and QE (MP2) don't work
 
-1. In table, how does the gold value change in each country? Isn't it supposed to be a global market with the same price everywhere?
+3. In table, how does the gold value change in each country? Isn't it supposed to be a global market with the same price everywhere?
 
-2. Referring to table again, Gold return vs. CPI is because its gotten cheaper to make the things that make up the CPI, right? Productivity measurement.
+4. Referring to table again, Gold return vs. CPI is because its gotten cheaper to make the things that make up the CPI, right? Productivity measurement.
 
-3. When referring to "interest earning currencies", that means the interest rate of countries that issue the currency, right? Not private debt that is issued by people/banks?
+5. When referring to "interest earning currencies", that means the interest rate of countries that issue the currency, right? Not private debt that is issued by people/banks?
 
-4. Gold vs. CPI
+6. Gold vs. CPI
 
 > - Why does Germany have such a steep increase in gold vs. CPI? after WWI they had high inflation. Price of basket of goods goes way up w/r/t while value of gold stays the same. So gold becomes more valuable there? compared to bills?
