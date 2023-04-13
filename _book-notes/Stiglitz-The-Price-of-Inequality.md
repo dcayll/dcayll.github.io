@@ -44,4 +44,24 @@ sidebar:
 
 ## Ch 3: Markets and Inequality
 
+- Changes in economy. i.e. US manufacturing was a large middle-class workforce, and now its moved to China and jobs that replace them aren't as well paying.
+- Also tech reduces demand for low skill labor
+- Not a given that innovation will be skill based. Can be resource based?
+
+### Globalization
+
+- Argues that the free flow of labor is more important than free flow of capital
+  - low wage workers have very low bargaining power. Corporations can go elsewhere and get cheap labor
+
+### Unions
+
+- Union membership down 10% from 1980 to 2010.
+  - Says labor flexibility isn't as important as strong worker protection.
+- Historically, compensation and productivity moved up together. Not anymore. Wages stagnant.
+- Capital gains tax 15%. Benefits top most
+- to 1% overall tax rate gone from 37% to 30% from 1979 to now
+  - average from 22.2% - 20.4%
+
+## Ch 4: Why it Matters
+
 - a
