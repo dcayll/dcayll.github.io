@@ -16,7 +16,7 @@ sidebar:
 - Top 1% own >1/3 of the nation's wealth; 1/5 of the nation's income
 - Get outsized gains in income (65% of total gain from '02-'07)
 - Bottom-middle grew faster in the past, not so since ~2000
-  - Past 30 years: 
+  - Past 30 years:
     - bottom 90%: wages increased by 15%
     - top 1% wages increased by 150%
     - top 0.1% wages increased by 300%
@@ -44,4 +44,4 @@ sidebar:
 
 ## Ch 3: Markets and Inequality
 
-- 
+- a
