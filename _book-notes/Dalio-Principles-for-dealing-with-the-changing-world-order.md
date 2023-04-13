@@ -486,11 +486,11 @@ header:
     - US and Swiss stay near 100. This means they're the most stable w/r/t gold, right?
   - Currency vs. CPI
     - US first, then Swiss. All major currencies currently devaluing vs. CPI. since 2008 when interest rates were near 0.
-    - Real interest rate. Higher it is, the better prospect of future economic returns. 
+    - Real interest rate. Higher it is, the better prospect of future economic returns.
 
 #### Commonalities in devaluations
 
-- "run" dyanamics on central banks. More claims than cash available to satisfy them. Usually gold.
+- "run" dynamics on central banks. More claims than cash available to satisfy them. Usually gold.
 - Central bank reserves decline years ahead of devaluation. To try and keep party going
 - Run on currency/devaluations occur alongside debt problems
   - Central banks increase rates to reduce devaluation, but eventually stop because of economic pain, then print again.
@@ -498,20 +498,20 @@ header:
 
 ## Ch 4 discussion
 
-1. FED was designed to keep the central bank from printing money Willy nilly. Does it's existence help prevent end of long term debt cycle since they're (theoretically) politically isolated from the people incurring debt for the gvt (congress)? How political is the FED these days?
+1. FED was designed to keep the central bank from printing money Willy Nilly. Does it's existence help prevent end of long term debt cycle since they're (theoretically) politically isolated from the people incurring debt for the gvt (congress)? How political is the FED these days?
 
 2. Seems like US right now is close to the currency breakdown criteria below. Low interest rate environment pushed us there?
 
->    1. amount of debt and money are too large to be turned into real value (I.e. goods and services) they are claims on
->    2. interest rate level to keep debtors from bankruptcy is lower than the rate required for creditors to put money into that debt
->    3. central bank interest rate changes (MP1) and QE (MP2) don't work
+> - Amount of debt and money are too large to be turned into real value (I.e. goods and services) they are claims on
+> - Interest rate level to keep debtors from bankruptcy is lower than the rate required for creditors to put money into that debt
+> - Central bank interest rate changes (MP1) and QE (MP2) don't work
 
-3. In table, how does the gold value change in each country? Isn't it supposed to be a global market with the same price everywhere?
+1. In table, how does the gold value change in each country? Isn't it supposed to be a global market with the same price everywhere?
 
-4. Referring to table again, Gold return vs. CPI is because its gotten cheaper to make the things that make up the CPI, right? Productivity measurement.
+2. Referring to table again, Gold return vs. CPI is because its gotten cheaper to make the things that make up the CPI, right? Productivity measurement.
 
-5. When referring to "interest earning currencies", that means the interest rate of countries that issue the currency, right? Not private debt that is issued by people/banks? 
+3. When referring to "interest earning currencies", that means the interest rate of countries that issue the currency, right? Not private debt that is issued by people/banks?
 
-6. Gold vs. CPI
+4. Gold vs. CPI
 
 > - Why does Germany have such a steep increase in gold vs. CPI? after WWI they had high inflation. Price of basket of goods goes way up w/r/t while value of gold stays the same. So gold becomes more valuable there? compared to bills?
