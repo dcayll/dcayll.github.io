@@ -7,7 +7,6 @@ categories:
   - faith
 tags:
   - faith
-  - free will
 ---
 
 Imagine I’m a knight in a chess game. I don’t know the rules of chess or even the whole board in the beginning. It’s like the life sized game in Harry Potter. In life I’m trying to figure out how I’m supposed to move. I try different things but it’s hard to find the way im supposed to move. I try moving straight and diagonally but I keep hitting a wall and im not allowed to move like that. Just like in life, when we’re young we’re trying to find our gifts and our callings. We move but we end up getting pushed back to where we started because our knight isn’t built to move like a rook or a bishop. We also don’t have full view of the whole chess board (no single game piece does). Only the grandmaster playing the chess game does (God). Our job early in life is to figure out the move best suited for us (an “L” as a knight in this chess analogy). In reality this is us finding and refining our God given gifts. How can I impact the world in a way that only I can? How can I move in my local chess board based on the pieces that are around me that I have virtually no control over? How can I move while maximizing the satisfaction of my moves?

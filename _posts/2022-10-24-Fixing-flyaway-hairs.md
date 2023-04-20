@@ -2,7 +2,7 @@
 title: "Fixing flyaway hairs"
 excerpt: "Removing pesky flyaway hairs using GIMP"
 header:
-  image: /assets/images/foo-bar-identity.jpg #put gif here
+  image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/foo-bar-identity-th.jpg
 categories:
   - photography
