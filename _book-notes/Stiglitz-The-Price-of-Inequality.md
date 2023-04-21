@@ -64,4 +64,33 @@ sidebar:
 
 ## Ch 4: Why it Matters
 
+- Top 1% saves 20% of income; if 5% of that 20% is taken and given to middle income and the poor (1% of their total income), it would turn into 1.2-2% of their income being spread into the economy because of recirculation of money
+- Low capital and dividend taxes in Bush era. Companies paid out high dividends because they thought it wouldn't last
+  - Means smaller cash reserves and less investment in general (outside of real estate)
+- Deregulation serves short term self interest and profits over long term social and economic consequences
+- IMF states longer growth spells are correlated with more equal income distribution. Inequality reduces efficiency and productivity.
+  - Less public investment because of wealthy not wanting to sponsor it via taxes.
+  - Basic research is funded by gvt too.
+  - $3.2B spent on lobbying in 2011
+- **Rent seeking:**  waste resources for more monopoly power and preferential tax/political treatment
+  - scarcity of oil not priced. Oil not sustainable and therefore prices should reflect that, but they don't.
+- inequality arises because private rewards differ from social returns
+- Hunger impairs productivity because you're forced to spend limited cognitive resources on saving money and feeding your family, not on stuff to get them out of the situation.
+- Happy workers are the most productive
+  - In experiment: Individuals in same job, 1/2 see increase wage and 1/2 see decrease wage:
+    - Decreases overall productivity because lower wage condition decreases productivity more than higher wage increases productivity
+- **Consumerism:** long term relationship between GDP and wellbeing?
+  - maybe not. Relative income (i.e. keeping up with the Joneses) has people overextending financially.
+- Higher social protections may increase willingness for high-risk, high-reward ventures
+- Incentive pay imperfect. Rewards quantity over quality
+  - better would be to compare performance to people in similar positions or performance over time
+  - i.e. bankers making short sighted, risky investments in '08
+- Most are motivated by intrinsic rewards (achievement) over extrinsic rewards (wealth)
+  - Also motivated to make the team proud
+    - Companies with shared profits did better in downturns than those without.
+- Progressive taxation:
+  - fairness and perception of fairness increases productivity
+
+## Ch 5: A Democracy in Peril
+
 - a
