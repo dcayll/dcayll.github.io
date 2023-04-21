@@ -38,16 +38,6 @@ photos:
       #   url: /photography/grid
 
 
-# # book-notes sidebar:
-# books:
-#   - title: "Book Notes Collections"
-#     url: /book-notes/
-#     children:
-#       - title: "Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail"
-#         url: /book-notes/Dalio-principles-for-dealing-with-the-changing-world-order/
-#       - title: "An American Sickness: How Healthcare Became Big Business and How You Can Take It Back"
-#         url: /book-notes/Rosenthal-an-american-sickness/
-
 
 fit:
   - title: "Lifting Overview"
