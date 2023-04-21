@@ -1,5 +1,5 @@
 ---
-title: "Chess"
+title: "Life as a Game of Chess"
 excerpt: "Meditations on free will and predestination"
 comments: true
 output: true
