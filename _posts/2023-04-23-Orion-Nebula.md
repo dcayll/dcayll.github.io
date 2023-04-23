@@ -1,9 +1,9 @@
 ---
-title: "Test"
-excerpt: "Test astro post"
+title: "Orion Nebula"
+excerpt: "Shooting Orion Nebula and editing image"
 header:
-  image: /assets/images/foo-bar-identity.jpg #put gif here
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  image: /assets/images/2023-04-23-Orion-Nebula/DSC05139_blackpoint-adjust.jpg
+  teaser: /assets/images/2023-04-23-Orion-Nebula/DSC05139_blackpoint-adjust.jpg
 #sidebar:
 #  - title: "Role"
 #    image: http://placehold.it/350x250
@@ -25,9 +25,25 @@ categories:
   - photography
   - astro
 tags:
-  - Succulent
-  - photography
+  - Astro
+  - Photography
 
 ---
 
-Test text for astro post
+Original image:
+
+Camera Settings:
+
+- Info: 30.00s f/6.3 ISO800
+- Model: ILCE-6100
+- Date taken: 1/15/2023 - 1:14:28 AM
+- Lens model: E 55-210mm F4.5-6.3 OSS
+- Focal length (mm): 210
+
+![jpg](/assets/images/2023-04-23-Orion-Nebula/DSC05139.JPG)
+
+Image with Black Point adjusted up to help with washed out look:
+
+![jpg](/assets/images/2023-04-23-Orion-Nebula/DSC05139_blackpoint-adjust.jpg)
+
+Image of images stacked in DeepSkyStacker:
