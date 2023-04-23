@@ -93,4 +93,41 @@ sidebar:
 
 ## Ch 5: A Democracy in Peril
 
+- "Civic Virtue" is what makes people vote. If everyone who thinks like me didn't vote, things would be determined by people I disagree with.
+  - If political system seems "stacked against me", this erodes trust.
+  - Conversely, wealthy who see politics working for them vote more
+- Social contracts and social capital hold societies together. Honesty and integrity
+  - Soviet Union after fall lacked this. everybody stole because "if I don't steal this, someone else will"
+    - Reduced economic output
+- Majority of people abstain from individually beneficial, socially harmful thing if they think others do too. (and vice versa)
+- "Ultimatum game" - two people. One given $100 and asked to distribute
+  - 2nd person can veto and everyone looses the money.
+  - Typically 2nd person vetoes anything less than $20 because its unfair and neither get anything
+  - At $30-40, 2nd person accepts because they understand the power differential
+  - **Perceptions of unfairness affect behavior**
+- 61% believe economic system benefits the wealthy
+  - They also believe favoring the wealthy is worse than overregulation of them
+- Disillusionment leads to lack of participation in politics, but also can lead to populists and extremists who attack system
+- Media diversity is important to reduce disillusionment
+  - must be able to trust information
+- Disenfranchisement - making voting harder
+  - Republicans think people voting who shouldn't is a bigger problem (require IDs)
+  - Democrats believe the bigger problem is people who can vote, not voting
+    - time and $ is required to get ID for example
+      - Effect is poop people not voting and increasing their disillusionment so less are likely to vote again later
+- Citizen's united vs. FEC in 2010 said money was free speech in campaign finance
+  - Makes people's power lower. More power to corporations who get lawmakers elected who appoint judges who make rulings like this
+- Disillusionment and disenfranchisement both effective in keeping the poor and middle class from voting
+  - Reverse efforts include free campaign financing, reducing citizen's united ruling's impact
+- One person, one vote not so accurate now. Median voter has higher income than median citizen. i.e. people who vote are typically richer.
+- Globalization
+  - Financial markets (especially in poor countries) exercise outsize control over countries' debtors (people who they're borrowing from/ in business with)
+    - Financial markets provide "discipline" but can be wrong and fickle
+      - markets are short-sighted and seek advancement of financiers
+- WTO forces financial market liberalization. Reduces ability of countries to regulate foreign banks operating there.
+- Uruguay Round Trade Agreement - has gripes with IP terms that give rent seekers more money, and doesn't allow developing countries a say in regulating IP
+- There's more globalization and as countries develop, we were a model, lecturing about balanced budgets, free markets, rent seeking, but now we're hypocrites
+
+## Ch 6: 1984 is upon us
+
 - a
