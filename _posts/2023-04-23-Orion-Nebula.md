@@ -30,15 +30,16 @@ tags:
 
 ---
 
-Original image:
-
 Camera Settings:
 
+- Star Tracker: Star Adventurer 2i
 - Info: 30.00s f/6.3 ISO800
 - Model: ILCE-6100
 - Date taken: 1/15/2023 - 1:14:28 AM
 - Lens model: E 55-210mm F4.5-6.3 OSS
 - Focal length (mm): 210
+
+Original image:
 
 ![jpg](/assets/images/2023-04-23-Orion-Nebula/DSC05139.JPG)
 
