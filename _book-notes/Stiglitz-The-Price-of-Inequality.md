@@ -130,4 +130,46 @@ sidebar:
 
 ## Ch 6: 1984 is upon us
 
+- Perceptions of inequality decreasing as it is actually increasing. Less interaction between low and high class?
+  - Beliefs and perceptions are **more** important in shaping collective behavior over individual behavior
+  - "discriminatory equilibrium" - pay some lower wages discriminatorally, their productivity goes down, which means they deserve lower wages
+- Milton Freidman blames Great Depression on government failures
+- Social constructs - ideas and perceptions. They don't change fast because your opinions depend of everybody else
+- Politicians use same tactics as advertisers to change public opinions/ideas/perceptions
+- Battle of ideas is all framing and persuasion, not facts
+  - "Efficient markets" not true because of information asymmetry. People incentivized to do research and short companies as an example
+  - Algorithmic traders can effectively "steal" info from researchers who make a discovery because they can see people making large orders and do the same in a nanosecond
+- Mortgage restructuring: instead of foreclosing, banks could have "written down" the principle and had a debt-equity conversion to give bank capital gain when the house is sold
+  - Would have forced banks to realize losses and required capital, which they didn't have
+- Regulation: incomes grow more in times of regulation
+- Corporate welfare: tax breaks and government subsidies. Good place to start spending cuts
+  - no downside risk distorts markets (if taxpayers can always bail out companies)
+- IMF in developing countries - financial sector has lots of influence
+  - "contractionary spending" - cut spending to pay back debts. May not be best
+  - Author emphasizing more capital controls because liberalization of markets lead to instability
+- GDP per capita = output/number of people. Not a good measure of success of individuals
+  - Health and public sector jobs distort GDP. Their inefficiencies inflate GDP
+- GNP: gross national product. Used to be used until the 1990's when GDP took over because of globalization
+  - GNP: gross income of citizens
+  - GDP: value of goods and services produced in a country
+  - when no trade between countries occurs GDP = GNP
+  - GDP over GNP incentives foreign companies to set up and extract resources and their output contributes to countries GDP, but decreases GNP because profits go overseas
+- New push for better metric than GDP these days
+
+## Ch 7: Justice for all? How Inequality is Eroding Rule of Law
+
+- Laws incentivize people to take into account externalities (usually with stick, not carrot)
+- Transaction costs: inherent cost to collect money from one group to another.
+  - Smoker vs. non-smoker. one has "air rights" and sells to other
+  - one way may be much more efficient than the other. Grave consequences
+- Predatory lending: banks and insurance agencies used their political muscle to get "subsidies" (i.e. avoid regulation) of bad loans from government
+- Bankruptcy laws: 2005 congress made it harder for debtors to discharge debts in bankruptcy. 25W% lifetime wage garnishment. This incentivized banks to give out worse loans because its less risk for them
+  - Banks pushed for this hard, but if things go opposite, they demand compensation
+  - Student loans not dischargeable in bankruptcy. Incentivizes quantity over quality because people who don't finish or don't get a good job still are required to pay back
+  - Gvt tried to put completion rate and student satisfaction into gvt backed loan requirements, schools fought back and largely won.
+- Foreclosure: banks wrote bad loans and didn't keep good records, so when people couldn't pay, they couldn't prove who. Their defense was "most do ow" without burden of proof
+- Banks and those with capital can offer small deals before litigation and promise a long and hard legal battle if the victims don't take it. This slap on the wrist is almost always worth the major profits they make with the fraud.
+
+## Ch 8: The Battle of the Budget
+
 - a
