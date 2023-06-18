@@ -6,7 +6,7 @@ title: "About"
 #   teaser: /assets/images/foo-bar-identity-th.jpg
 ---
 
-I'm currently a PhD student at the Univeristy of Texas at Austin in the Nanoscale Design and Manufacturing lab, and will be graduating by Summer 2023. I'm also working part time as an R&D Engineer at GraphAudio inc, a small start-up based in Austin. My expertise are in microelectromechanical system (MEMS) design, modeling, manufacturing, and testing. I'm especially interested in high volume semiconductor manufacturing and advanced packaging methods for my future career. 
+I'm currently a PhD student at the Univeristy of Texas at Austin in the Nanoscale Design and Manufacturing lab, and will be graduating by Summer 2023. I recently started working as a thin process development engineer at Qorvo in Richardson, TX where I support manufacturing and improve process automation. My expertise are in microelectromechanical system (MEMS) design, modeling, manufacturing, and testing. 
 
 In my spare time I enjoy being outdoors, riding motorcycles, lifting weights, practicing macro and astro photography, and learning about macro economics and monetary policy. This website is for organizing my interests and hobbies in hopes that they may be helpful to others.
 
