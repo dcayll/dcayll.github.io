@@ -172,4 +172,42 @@ sidebar:
 
 ## Ch 8: The Battle of the Budget
 
+- After recession, house republicans didn't want to increase debt ceiling without deficit reduction
+- Early 2000's, USA ran 2% of GDP surplus. Worried FED chair and encouraged tax cut and this started deficit growth
+  - War in Afghanistan and Iraq increased deficits by Trillions and will continue because of disability payed out to soldiers.
+  - Medicare drug benefit increased deficits too. Gvt couldn't negotiate prices
+- To reduce Deficits:
+  - increase capital gains taxes. The rich get dividends when taxes are low instead of company investing in for future growth.
+  - close loopholes in tax code. Municipal bond interest exemption. Municipalities borrow at a lower rate to get people to invest and don't pay taxes on it. Gvt effectively subsidizing the rich. direct subsidy would be more efficient for municipalities.
+- Tax on rent doesn't cause distortion because land can't go away. Same with natural resources and monopoly power.
+- Summary:
+  - reduce deficits, tax top, eliminate tax loopholes the top uses, eliminate tax subsidies to corporations, increase rent tax, tax pollution, tax financial sector, charge market prices for resources.
+- **Balanced budget multiplier**
+  - Keep deficit the same but increase spending and taxes, the increase in spending stimulates GDP and increases taxes.
+  - National debt decreases in medium term because taxes and in long term because more GDP growth and increased tax revenue
+- Poor are more likely to spend 100% of their income. Unemployment for them is stimulative for GDP. Rich save a lot so unemployment for them is not.
+- US can't be compared to Greek debt crisis because the treasury can print money and buy US gvt bonds. The EU doesn't for Greece. Not a correct comparison for welfare programs and overspending because of this.
+- Corporate loan interest is tax deductible and depreciating capital assets (machines, etc.) can reduce income
+  - Tax code incentivizes investment
+- If mortgage interest deduction and deduction for healthcare benefits were reduces, it would be an effective in crease in tax on middle class.
+  - mortgage interest deduction incentivizes excessive indebtedness. Government subsidizing debt, helps banks.
+    - raises housing prices in urban and low-income areas because supply is limited and not much incentive between owning and renting.
+  - can't remove mortgage interest deduction when market is bad and people are underwater because it will further in crease expense of owning while reducing prices
+- supply side Reganomics is a myth, what was profitable before tax cut is still profitable. maybe not as much though.
+- Social security - reduced poverty by 17% -> all elderly people
+  - currently in deficit. already those at the top get less than those at bottom.
+    - to be sustainable, increase taxable income from $100k cap and reduce benefits and increase tax %
+- Medicare - obamacare reduced medical costs?
+  - Paul ryan medicare voucher program?
+- Austerity- reduced spending. contradictory. gct not like a household; gvt can expand spending and create jobs unlike household budget analogy
+  - He compares budget cutters to bloodletters in medieval times.
+- Stimulus was too small and short-lived due to bad economic analysis. Thought recovery would be quicker because firms should have not laid everybody off, but they did and unemployment hit 10%
+- Gvt spending when at full employment is moot. since it'd have to crowd out other spending (from private entities)
+  - But when unemployment is high, (GDP increase/gvt spending) i.e. multiplier is >1
+- European structural reforms after recession increased competition, more privatization, gvt assistance not encouraging movement into new sectors of the economy
+  - improves supply side, but issue is demand in recession recovery.
+
+## Ch 9: A Macroeconomic Policy and A Central Bank by and for the 1%
+
 - a
+- 
