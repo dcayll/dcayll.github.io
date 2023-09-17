@@ -1,6 +1,6 @@
 ---
-title: Life as a Game of Chess
-excerpt: Meditations on free will and predestination
+title: Linking Obsidian Sync to Github Pages Website
+excerpt: Discussion and review of Obsidian- Jekyll website workflow
 comments: true
 output: true
 categories:
