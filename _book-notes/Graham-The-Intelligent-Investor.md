@@ -25,3 +25,5 @@ to try and reach the 1 min timer
 
 
 adding extra changes now to commit
+
+Adding changes through my phone. Do these show up on GitHub?
