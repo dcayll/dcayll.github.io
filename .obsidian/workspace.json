@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_book-notes/Graham-The-Intelligent-Investor.md",
+                "file": "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_book-notes/Graham-The-Intelligent-Investor.md",
+                "file": "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_book-notes/Graham-The-Intelligent-Investor.md",
+                "file": "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_book-notes/Graham-The-Intelligent-Investor.md"
+                "file": "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md"
               }
             }
           }
@@ -148,18 +148,23 @@
   },
   "active": "0db6086c0fb77ddb",
   "lastOpenFiles": [
+    "_site/Pasted image 20230917140127.png",
+    "Pasted image 20230917140127.png",
+    "_site/engineering/coding/Linking-Obsidian-Sync-to-github-pages-Website/index.html",
+    "_site/engineering/coding/Linking-Obsidian-Sync-to-github-pages-Website",
+    "_site/engineering/coding",
+    "_site/engineering/Linking-Obsidian-Sync-to-github-pages-Website/index.html",
+    "_site/engineering/Linking-Obsidian-Sync-to-github-pages-Website",
+    "_posts/2023-04-19-Life-as-a-Game-of-Chess.md",
+    "_posts/2023-04-23-Orion-Nebula.md",
+    "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
+    "_book-notes/Graham-The-Intelligent-Investor.md",
     "_site/photography/astro/Orion-Nebula/index.html",
     "_site/photography/astro/Orion-Nebula",
     "_site/faith/Life-as-a-Game-of-Chess/index.html",
     "_site/faith/Life-as-a-Game-of-Chess",
     "_site/faith",
     "_site/assets/images/2023-03-24-jewlery-insurance/deductible comparison.png",
-    "_site/assets/images/2023-03-24-jewlery-insurance",
-    "_site/assets/data/Gym scanning data/UTRS Facility Visits (David Richard Cayll).xlsx",
-    "_site/assets/data/Gym scanning data",
-    "_site/assets/data",
-    "_site/assets/images/recipes/entirerecipe.zip",
-    "_site/assets/images/recipes",
     "_site/assets/images/2023-04-23-Orion-Nebula/DSC05139_blackpoint-adjust.jpg",
     "_site/assets/images/2023-04-23-Orion-Nebula/DSC05139.JPG",
     "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md"
