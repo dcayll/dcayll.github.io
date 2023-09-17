@@ -11,3 +11,10 @@ header:
 ---
 
 ![jpg](/assets/images/book-notes/Covers/the intelligent investor.jpg)
+
+adding some changes through obsidian 
+
+I'm adding things now
+to try and reach the 1 min timer
+- This is a list
+	- and i hope 
