@@ -16,5 +16,10 @@ adding some changes through obsidian
 
 I'm adding things now
 to try and reach the 1 min timer
+- and i hope 
 - This is a list
-	- and i hope 
+	- I'm making this list longer now
+		- moving around
+	- *now italics*
+		- **now bold**
+		- 
