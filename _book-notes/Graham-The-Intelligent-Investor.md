@@ -27,3 +27,8 @@ to try and reach the 1 min timer
 adding extra changes now to commit
 
 Adding changes through my phone. Do these show up on GitHub?
+
+Added through obsidian on iPhone. Not pushing through fit to see what happens
+
+It shows up in real time?
+Wow
