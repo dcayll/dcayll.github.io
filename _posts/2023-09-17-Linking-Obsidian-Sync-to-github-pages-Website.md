@@ -35,4 +35,5 @@ Details to set up below:
 	1. This option allows your obsidian notebook to sync between multiple devices. It happens nearly instantaneously and then the changes show up on your initial file system. 
 3. Install the Obsidian git plugin to automatically push changes in the obsidian file system to github without having to open up github and push it yourself. 
 	1. This can be configured any way you want. I chose no automatic sync and to only sync using a hotkey whenever I choose. 
-4.  
+
+*Note: this note was written in obsidian on my computer and then pushed to my github repo for my website. *
