@@ -29,7 +29,7 @@ Benefits:
 
 Details to set up below: 
 
-1. Set up an obsidian vault using the "from a folder" option ![[Pasted image 20230917140127.png]]
+1. Set up an obsidian vault using the "from a folder" option ![[assets/images/2023-09-17-Obsidian/Pasted image 20230917140127.png]]
 	1. Now your obsidian vault is the same as the file system used to update your Jekyll website 
 2. Purchase and set up obsidian sync
 	1. This option allows your obsidian notebook to sync between multiple devices. It happens nearly instantaneously and then the changes show up on your initial file system. 
