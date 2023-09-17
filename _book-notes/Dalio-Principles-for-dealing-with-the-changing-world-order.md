@@ -352,7 +352,7 @@ header:
 - Makes people flee the currency and also debt denominated in the currency.
   - What kinds of debt in the currency? gvt bonds? company bonds?
   - They flee into gold, silver, stocks with real value, and other currencies/assets.
-    - alternative reserve currency not required for this capital flight. $$ can find other assets.
+    - alternative reserve currency not required for this capital flight. $ can find other assets.
       - reason for real estate blow?
 - Holding debt early in debt cycle is rewarding (when less debt outstanding)
   - Later on, when more debt is outstanding, it is riskier and closer to default (esp. when taking ~low interest rate into account)
