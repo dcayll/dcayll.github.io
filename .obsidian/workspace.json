@@ -92,7 +92,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,13 +142,25 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "0db6086c0fb77ddb",
   "lastOpenFiles": [
-    "_posts/2023-04-23-Orion-Nebula.md",
+    "_posts/assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website/image-20230917172259882.png",
     "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
+    "_posts/assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website",
+    "_posts/assets/images/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website/image-20230917172027447.png",
+    "_posts/assets/images/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website",
+    "_posts/assets/images",
+    "_posts/assets",
+    "_site/assets/images/2023-09-17-Obsidian/Pasted-image-20230917170810.png",
+    "assets/images/2023-09-17-Obsidian/Pasted-image-20230917170810.png",
+    "_site/assets/images/2023-09-17-Obsidian/Pasted image 20230917170810.png",
+    "Pasted image 20230917163612.png",
+    "_site/Pasted image 20230917163612.png",
+    "_posts/2023-04-23-Orion-Nebula.md",
     "_site/assets/images/2023-09-17-Obsidian/Pasted/index.html",
     "_site/assets/images/2023-09-17-Obsidian/Pasted",
     "_site/assets/images/2023-09-17-Obsidian/Pasted.md",
@@ -159,18 +170,10 @@
     "_site/assets/images/2023-09-17-Obsidian/Pasted image 20230917140127.png",
     "_site/assets/images/2023-09-17-Obsidian",
     "assets/images/2023-09-17-Obsidian",
-    "_site/Pasted image 20230917140127.png",
     "_site/engineering/coding/Linking-Obsidian-Sync-to-github-pages-Website/index.html",
     "_site/engineering/coding/Linking-Obsidian-Sync-to-github-pages-Website",
-    "_site/engineering/coding",
-    "_site/engineering/Linking-Obsidian-Sync-to-github-pages-Website/index.html",
-    "_site/engineering/Linking-Obsidian-Sync-to-github-pages-Website",
     "_posts/2023-04-19-Life-as-a-Game-of-Chess.md",
     "_book-notes/Graham-The-Intelligent-Investor.md",
-    "_site/photography/astro/Orion-Nebula/index.html",
-    "_site/assets/images/2023-03-24-jewlery-insurance/deductible comparison.png",
-    "_site/assets/images/2023-04-23-Orion-Nebula/DSC05139_blackpoint-adjust.jpg",
-    "_site/assets/images/2023-04-23-Orion-Nebula/DSC05139.JPG",
     "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md"
   ]
 }
