@@ -36,4 +36,4 @@ Details to set up below:
 3. Install the Obsidian git plugin to automatically push changes in the obsidian file system to github without having to open up github and push it yourself. 
 	1. This can be configured any way you want. I chose no automatic sync and to only sync using a hotkey whenever I choose. 
 
-*Note: this note was written in obsidian on my computer and then pushed to my github repo for my website.*
+*Note: this note was written in obsidian on my computer and then pushed to my GitHub repo for my website.*
