@@ -420,7 +420,7 @@ header:
 ![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.003_returns_of_fx_vs_gold.png)
 {: .full}
 
-- Price change + interest
+-FX Total return = Price change + interest 
 
 - Wars force deficit spending and forces printing $ to devalue currency and monetize debts.
 - Breton woods after WWII pegged USD to gold and other currencies to USD until 1971. Losing WWII countries had currencies destroyed.
@@ -482,11 +482,12 @@ header:
 
 - Above figure is return of gold vs. CPI and Currency vs. CPI.
   - Gold vs. CPI
-    - Why does Germany have such a steep increase in gold vs. CPI? after WWI they had high inflation. Price of basket of goods goes way up w/r/t while value of gold stays the same. So gold becomes more valuable there?
-    - US and Swiss stay near 100. This means they're the most stable w/r/t gold, right?
+    - Why does Germany have such a steep increase in gold vs. CPI? after WWI they had high inflation. Price of basket of goods goes way up w/r/t while value of gold stays the same. So gold becomes more valuable there. 
+    - US and Swiss stay near 100. This means they're the most stable w/r/t gold. No currency devaluations since 1850. Currency devaluation increases gold returns w/r/t CPI. 
   - Currency vs. CPI
     - US first, then Swiss. All major currencies currently devaluing vs. CPI. since 2008 when interest rates were near 0.
     - Real interest rate. Higher it is, the better prospect of future economic returns.
+    - Risky to hold interest-earning cash currency late in debt cycles. Because inflation will outpace it and reduce your buying power. 
 
 #### Commonalities in devaluations
 
@@ -495,6 +496,56 @@ header:
 - Run on currency/devaluations occur alongside debt problems
   - Central banks increase rates to reduce devaluation, but eventually stop because of economic pain, then print again.
 - Economic and Military power at time of devaluation determine how much other countries have faith in the devaluing country, so helps those countries keep reserve status and keep devaluations more gradual.
+
+
+![[Pasted image 20230922070423.png]]
+Pasted image from mobile
+
+## Ch 5: The Big Cycle of Internal Order and Disorder
+
+### 6 stages of the internal cycle
+
+![[Pasted image 20230930112743.jpg]]
+
+- Cycle repeats over time and winners/losers adjust how other countries align themselves moving forward. 
+
+#### Stage 1: New Order Begins, Power Consolidated
+
+- Revolution/war/conflict comes in 2 parts, the actual fight and then the purge from power of those loyal to the losers of the conflict
+- The purge can be quick or drawn out. Peaceful or bloody. 
+	- If respect for the system is maintained, it can be peaceful like in US civil war and Roosevelt revolution
+- This period ends when new authorities are clear and people are tired of fighting and rather focus on rebuilding
+#### Stage 2: Systems are Built and Refined
+
+- Even losers of war need to go through this
+- Beginning of peaceful and prosperous period. 
+- Must align people to common goals with respect of rules and laws. 
+	- ESP. Middle class. Leads to more cohesion
+- Revolutionary leaders not necessarily good system-building leaders. 
+
+#### Stage 3: Peace and Prosperity
+
+- Abundance of opportunity to be productive, produce a lot, get rich, admired for success. 
+- Wide access to education and meritocracy
+- Debt growth increases productivity, increases incomes, excess savings=more investment. 
+- Entrepreneurship, innovation, strengthening military 
+- Avoiding external conflicts is important. 
+
+#### Stage 4: Period of Excess
+
+- Debt financing outpaces future cash flows. 
+- Asset bubbles emerge. People assume trends continue so valuations increase, borrow more to buy more to increase asset prices +more leverage = bubbles. 
+- More spending on luxury and military, less on R&D
+
+#### Stage 5: Bad Financial Conditions + Conflict
+
+- Inequality, bad balance sheets, class conflict. How this is handled determines if stage 6 is peaceful or viol
+
+
+
+
+
+
 
 ## Ch 4 discussion
 
