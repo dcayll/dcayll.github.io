@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
+                "file": "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
+                "file": "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
+                "file": "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md"
+                "file": "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md"
               }
             }
           }
@@ -148,32 +148,38 @@
   },
   "active": "0db6086c0fb77ddb",
   "lastOpenFiles": [
+    "_posts/assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website/assets",
+    "_posts/assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website/assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website-image-1.png",
     "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
-    "Pasted image 20230930112743.jpg",
-    "Pasted image 20230922070423.png",
-    "_posts/2023-04-23-Orion-Nebula.md",
     "_posts/assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website/image-20230917172259882.png",
-    "_posts/assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website",
+    "assets/images/2023-09-17-Obsidian/Pasted-image-20230917140127.png",
+    "assets/images/2023-09-17-Obsidian/Pasted.md",
+    "assets/images/2023-09-17-Obsidian/Pasted-image-20230917170810.png",
     "_posts/assets/images/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website/image-20230917172027447.png",
+    "index.md",
     "_posts/assets/images/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website",
     "_posts/assets/images",
+    "_posts/assets/images/2023-09-17-Obsidian/Pasted-image-20230917140127.png.md",
+    "_posts/assets/images/2023-09-17-Obsidian",
+    "Pasted image 20230917163612.png",
+    "README.md",
+    "Pasted image 20230930112743.jpg",
+    "Pasted image 20230922070423.png",
+    "_posts/assets/2023-04-23-Orion-Nebula/image-20231001140455425.png",
+    "_posts/2023-04-23-Orion-Nebula.md",
+    "_posts/assets/2023-04-23-Orion-Nebula",
+    "_posts/assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website/Pasted-image-20230917140127.png.md",
+    "_posts/assets/2023-09-17-Obsidian/2023-09-17-Obsidian/Pasted-image-20230917140127.png.md",
+    "_posts/assets/2023-09-17-Obsidian/2023-09-17-Obsidian",
+    "_posts/assets/2023-09-17-Obsidian",
+    "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
+    "_posts/assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website",
     "_posts/assets",
     "_site/assets/images/2023-09-17-Obsidian/Pasted-image-20230917170810.png",
-    "assets/images/2023-09-17-Obsidian/Pasted-image-20230917170810.png",
-    "_site/assets/images/2023-09-17-Obsidian/Pasted image 20230917170810.png",
-    "Pasted image 20230917163612.png",
-    "_site/Pasted image 20230917163612.png",
     "_site/assets/images/2023-09-17-Obsidian/Pasted/index.html",
     "_site/assets/images/2023-09-17-Obsidian/Pasted",
     "_site/assets/images/2023-09-17-Obsidian/Pasted.md",
-    "_site/assets/images/2023-09-17-Obsidian/Pasted-image-20230917140127.png",
-    "assets/images/2023-09-17-Obsidian/Pasted.md",
-    "_site/assets/images/2023-09-17-Obsidian",
-    "assets/images/2023-09-17-Obsidian",
-    "_site/engineering/coding/Linking-Obsidian-Sync-to-github-pages-Website/index.html",
-    "_site/engineering/coding/Linking-Obsidian-Sync-to-github-pages-Website",
     "_posts/2023-04-19-Life-as-a-Game-of-Chess.md",
-    "_book-notes/Graham-The-Intelligent-Investor.md",
-    "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md"
+    "_book-notes/Graham-The-Intelligent-Investor.md"
   ]
 }
