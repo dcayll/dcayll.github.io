@@ -539,9 +539,166 @@ Pasted image from mobile
 
 #### Stage 5: Bad Financial Conditions + Conflict
 
-- Inequality, bad balance sheets, class conflict. How this is handled determines if stage 6 is peaceful or viol
+- Inequality, bad balance sheets, class conflict. How this is handled determines if stage 6 is peaceful or violent
+- Best predictor of civil war/revolution =bankrupt gvt + wealth inequality
+	- If gvt has good finances, it can save private entities to keep system running (TARP)
+- police become political weapons. Many protests and they’re progressively more violent
+- 2 types of leaders to get us out of stage 5: peacemaker who joins factions. And strong fighter to start civil war
+
+#### Stage 6: Civil Wars
+
+- Most civil wars shift power from right to left, but some do the opposite, like axis powers in WW2
+- gvt usually has a shortage of money in civil war so they impose capital controls to keep money in the country and keep the currency strong
 
 
+## Ch 6: The Big Cycle of External Order and Disorder
+
+- 5 types of wars:
+1. Trade/economic - tariffs, import/export restrictions
+2. Technology - conflict over what tech is national security 
+3. Geopolitical- conflict over territory, solved with negotiation
+4. Capital - sanctions, limiting access to markets
+5. Military - shooting war
+
+- Cycles of conflict ~every 150 years with relative peace &rising tensions between
+- Financial strength wins conflicts
+
+### WWII Case Study
+#### Axis Powers
+- 1930s countries have large economic problems and internal orders become more populist. Germany, Italy, Spain, Japan populist of the right (fascist)
+- Hitler got to power in 1933 and became supreme leader with all the special powers. Forced banks to buy gvt debt and used the $ to finance infrastructure projects and privatization. 
+	- Unemployment from 25% to 0 and income per capita increased 22% from ‘33-‘38
+- Japan resource constrained, so they took resources by force from china after internal revolt and move to fascism
+
+#### Allied Powers
+- The US banks stopped lending, increased tariffs to protect domestic industry, hurt all other countries as well
+- Droughts in Soviet Union and US
+- FDR’s new deal increased debt and deficits and taxes on the rich to finance huge gvt spending programs. GDP grew 9%/yr from ‘33-‘36
+	- This caused inflation, which the fed raised interest rates to fight. Caused more tensions between countries
+#### Conflict
+- Axis and Allied powers fighting economically ~10 yrs before hit war. Germany and Japan became more expansionist. Economic war:
+	1. Asset freezes/seizures - preventing rival from selling assets to fund itself
+	2. Blocking access to capital markets
+	3. Embargoe/blockades - blocking trade
+- The US froze Japanese assets, restricted Panama Canal to Japanese ships, cut off oil trade. Forced japan to back down or attack US
+- In war, stocks perform based on who is winning. Germany up in the beginning and US&GB up when tides turned
+- Wars financed by debt and printing money. Hold gold in these times
+
+## Ch 7: Investing in Light of the Big Cycle
+
+- Markets are driven by: growth, inflation, risk premiums, and discount rates
+	- discount rate - interest rate for a given risk premium
+### Financial history
+- Lending with interest outlawed by Abrahamic religions. Currency is “hard” - gold & silver. No real financial markets
+- 1350 - beginning with Medici family in Florence- credit creation. Creates lots of buying power
+- Creating credit is near term stimulating and long term depressing. Broken promises to pay in the future (credit) causes debt default depressions and market crashes
+- 50 years before WW1 was extreme productivity growth and wealth creation and globalization. Couldn’t predict 7 of the top 10 countries would see their wealth wiped out completely. 
+- 
+![[Pasted image 20231118081030.jpg]]
+- financial assets inflating vs. real assets causes the big cycle. i.e. printing money reduces debt burdens but requires bad returns for cash and debt assets to monetize debts, which is the negative slope times in the chart above
+
+
+## Ch 8: The Last 500 Years in a Nutshell
+
+World was same but different:
+- Max travel in a day was 25 mi on horseback, so world was very segregated by geography
+	- Age of exploration beginning to change this
+- Territories ruled by families, no countries exist. Constant fighting to keep borders
+- Religious leaders more powerful
+- World much less egalitarian 
+
+### Europe
+- Habsburg dynasty largest. Old Holy Roman Empire. 
+- France, England, Russia, ottoman empires also family dynasties. 
+- Italian places (Florence, Milan, Venice ) were republics and was where all the wealth/innovation was. 
+### Asia
+- Ming dynasty in China, most technologically advanced in the world, same family dynasty structure as Europe
+	- double the population of Europe
+	- Gunpowder, printing press, banking, corporations, paper money, high literacy
+	- Largest navy in the world and 1M standing army
+- India and Japan and rest of Asia fragmented and not powerful
+
+### Middle East
+- Ottoman Empire
+### Americas
+- Aztec and Incan
+### Africa
+- Fragmented. And separated by large areas of unpopulated areas. 
+
+### Economic Ages
+#### Commercial Revolution
+- 1100s-1500s. Shift from only agriculture to include trade
+- Christian/Islamic conflict made land trade hard so sea trade took off, esp in Italy city-states. They also were republics so more nimble
+- Merchant class in Italy benefit most from well functioning financial system so they improved bookkeeping and credit markets and contract enforcement
+- Venice created perpetual bond in 12th century with 5% rate. Was able to do this because of solid currency based on trade wealth
+	- Bonds not new but these were much more reliable so less default and very liquid
+	- Ability to borrow quick with good rates was a huge boon to Venice
+
+#### The Renaissance
+- 1300s-1600s. Started in Italian city states and spread to all Europe. 
+- The rich invested in arts, tech, and culture to increase their wealth and of their city in a self reinforcing cycle. 
+- China’s neo-Confucianism was like their renaissance and happened much earlier
+
+#### Age of Exploration and Colonialism
+- 1400s-1700s. Fed on advancements from renaissance and kept it rolling. 
+- Expanded empires and their wealth. Influx of silver from new world increased inflation a lot in Spain for first time. 
+- More trade to China began. Silver for their goods. Not enough silver for Europe’s demand which led to wars. 
+- China flirted with exploration but eventually abandoned it and closed off, like Japan. 
+#### The Reformation
+- 1517-1648
+- Christian Protestant reformation broke down existing symbiotic relationship between Catholic Church and nobles and monarchs. 
+- After many religious wars and millions dead, Protestants won many rights and freedoms. But now many deep divisions. 
+- End of 30 years war led to nation states with geographic borders and sovereign rights for those living inside. Peace of Westphalia. 
+- Dutch leading power after this
+	- They invented capitalism with public equities to more efficiently allocate buying power to entrepreneurs
+#### Scientific Revolution
+- 1500s-1700s. Extension of renaissance. And invention of scientific method and gvts started to support research. 
+
+#### First Industrial Revolution
+- 1700s-1800s. Machine-based manufacturing/agriculture. Led to urbanization and self reinforcement 
+- UK led due to key innovations. Caught up to Netherlands by 1800 in per capita output. 
+- Urbanization required expansion of government to provide services/infrastructure for city population
+- New industrial capitalist system also required gvt infrastructure like courts, regulators, central banks etc. 
+#### Age of Enlightenment and Revolutions
+- 1600s-1700s. Scientific method applied to how humans should behave. 
+- Increased individual rights, decreased rights to monarchy and church
+- American, French, Spanish, German, Portuguese, Italians all had revolutions. 
+#### Napoleonic Wars and New World Order
+- 1803-1815. Pax Brittanica - extended peace after defeat of Napoleon and British on top
+
+#### West Moves into Asia
+- 1800s. British and US force Asia to open to trade. Led to modernization in Asia and Brit’s  controlling India. 
+
+#### Second Industrial Revolution
+- 1850s-early 1900s. Railroads, electricity, phones, interchangeable parts, etc. America is big winner. Large wealth gaps and leads to gilded age
+
+#### Invention of Communism
+- 1848. Reaction to capitalism and wealth gaps created. 
+
+## Ch 9: The Big Cycle Rose and Decline of the Dutch Empire and the Guilder
+![[Pasted image 20231119185553.png]] 
+![[Pasted image 20231119185644.png]]
+![[Pasted image 20231122224801.png]]
+- Spanish/Habsburg was the great power before Dutch. Due to wealth and power from age of exploration. Spanish was almost a reserve currency but they overextended in mid 1500s and followed the traditional downward spiral. 
+	- Religious and inequality are reasons for internal conflict. 
+	- Holy Roman Empire split into two after conflict and weakened it. 
+	- Hapsburg was Spain, Netherlands, Belgium, and part of Italy. 
+
+### The Rise
+- Provinces were United during fight for independence from Hapsburg
+- Provinces kept power which put in checks & balances to gvt
+- Good ships and strong military helped trade 
+- Capitalism helped finance productive enterprises
+- Reserve currency - guilder bank note - first reserve currency other than gold or silver
+- Stock market began with Dutch east India company to share risk and profits. 
+- In 1500s, >800 different coins, some debased (reduced precious metal content), some not
+	- Dutch created an exchange bank to protect their merchants from debased money and reduce cost of trade. 
+	- Guilder was backed by gold but worked as type 2 money
+	- Guilder caught on for its trustworthiness and the world began using their notes 
+- Peace of Westphalia ended 30 years war (1618-1648) and created the idea of sovereign states with Hapsburg losing and Dutch becoming independent
+
+### The Top
+- 
 
 
 
