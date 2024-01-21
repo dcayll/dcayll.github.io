@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
+                "file": "_posts/2023-04-23-Orion-Nebula.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/assets/2023-04-23-Orion-Nebula/tmp1705865714103_2023-04-23-Orion-Nebula-image-1.png",
+                "file": "_posts/2023-04-23-Orion-Nebula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/assets/2023-04-23-Orion-Nebula/tmp1705865714103_2023-04-23-Orion-Nebula-image-1.png",
+                "file": "_posts/2023-04-23-Orion-Nebula.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/assets/2023-04-23-Orion-Nebula/tmp1705865714103_2023-04-23-Orion-Nebula-image-1.png"
+                "file": "_posts/2023-04-23-Orion-Nebula.md"
               }
             }
           }
@@ -170,8 +170,9 @@
       "obsidian-attachment-name-formatting:Export Attachments": false
     }
   },
-  "active": "dcbb802279d63ed6",
+  "active": "10905f5740fc94cb",
   "lastOpenFiles": [
+    "_posts/assets/2023-04-23-Orion-Nebula/tmp1705865714103_2023-04-23-Orion-Nebula-image-1.png",
     "_posts/2023-04-23-Orion-Nebula.md",
     "_posts/assets/2023-04-23-Orion-Nebula/2023-04-23-Orion-Nebula-image-2.png",
     "_posts/assets/2023-04-23-Orion-Nebula/DSC05139.JPG",
