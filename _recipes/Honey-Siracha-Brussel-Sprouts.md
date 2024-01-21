@@ -15,3 +15,4 @@ https://thecollegehousewife.com/honey-sriracha-brussels-sprouts
 
 ![](assets/Honey-Siracha-Brussel-Sprouts/Honey-Siracha-Brussel-Sprouts-image-2.jpg)
 
+![](assets/Honey-Siracha-Brussel-Sprouts/Honey-Siracha-Brussel-Sprouts-image-3.jpg)
