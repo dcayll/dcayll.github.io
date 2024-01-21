@@ -779,7 +779,7 @@ World was same but different:
 - US also big winner after WW2 for similar reasons to WW1
 
 ### The Top
-![](assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-29.png)
+![](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-29.png)
 - Modern wars are going to be won by economic and technology wars because those fund the military and the money to compete globally to outlast the enemy
 ### The Post War Monetary System
 - After Bretton Woods, USD is world reserve currency. Post war countries were buying US goods with aid money from US and Holding USD in a self reinforcing cycle. 
