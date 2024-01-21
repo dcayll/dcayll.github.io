@@ -6,10 +6,10 @@ author_profile: false
 toc: true
 toc_sticky: true
 header:
-  teaser: /assets/images/book-notes/Covers/Principles of the changing world order teaser.png
+  teaser: //assets/images/book-notes/Covers/Principles of the changing world order teaser.png
 ---
 
-![jpg](/assets/images/book-notes/Covers/Principles of the changing world order.jpg)
+![jpg](//assets/images/book-notes/Covers/Principles of the changing world order.jpg)
 
 ## Introduction
 
@@ -47,8 +47,8 @@ header:
 
 ### Past Big Cycle Shifts in Wealth and Power
 
-- ![jpg](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/1.001_relative%20standing%20of%20great%20empires.png)
-- ![jpg](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/1.002_relative%20standing%20of%20great%20empires2.png)
+- ![jpg](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-1.png)
+- ![jpg](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-2.png)
 - Netherlands, Uk, and US are 3 most recent reserve currencies
 
 ### Eight determinants of Wealth and Power
@@ -62,7 +62,7 @@ header:
 7. Financial center strength
 8. Reserve currency status
 
-- ![jpg](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/1.003_archetypical%20rise%20and%20decline%20by%20determinant.png)
+- ![jpg](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-3.png)
 
 ### The Archetypical Big cycle
 
@@ -96,8 +96,8 @@ header:
 - International conflict possible if another power with big military
   - Requires leading power to spend more on military as internal conditions worsen
 - When debt and currency holders lose faith, they sell and cycle ends
-- ![jpg](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/1.004_the%20cycle.png)
-- ![jpg](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/1.005_scoring%20of%20measures%20by%20stage%20in%20cycle.png)
+- ![jpg](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-4.png)
+- ![jpg](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-5.png)
 
 ## Ch 2: The Determinants
 
@@ -111,10 +111,10 @@ header:
   - Pace of innovation
   - Acts of nature
 - 18 major determinants:
-  - ![jpg](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/2.001_determinants.png)
+  - ![jpg](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-6.png)
     - These determinants aren’t all independent. Much interaction and blending
 - Extra “soft” variables
-  - ![jpg](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/2.002_dynamics.png)
+  - ![jpg](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-7.png)
 
 ### Exploring the Determinants and Dynamics
 
@@ -376,7 +376,7 @@ header:
 ## Ch 3 discussion questions
 
 - We saw real inflation and monetary inflation in the past 2 years. Supply chain is real, and FED printing is monetary (M1 money).
-- ![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/3.001_fred_m1_graph.png)
+- ![png](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-8.png)
   - [Source](https://fred.stlouisfed.org/series/M1SL#)
 - Price vs. value:
   - What if prices of something increase more W/R/T other goods. Does this mean value increases? Its all relative, right? increasing home value in austin did give you more buying power if you sold it after 40% inflation in price.
@@ -411,13 +411,13 @@ header:
 
 ### In Relation To Gold
 
-![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.001_reserve_currencies_vs_gold.png)
+![png](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-9.png)
 
 - Currencies begin close to value of gold, then fall away as they are devalued.
 
-![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.002_spot_fx_vs_gold_1850-now.png)
+![png](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-10.png)
 
-![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.003_returns_of_fx_vs_gold.png)
+![png](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-11.png)
 {: .full}
 
 -FX Total return = Price change + interest 
@@ -430,7 +430,7 @@ header:
 
 #### 1850 - 1910
 
-- ![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.004_spot_fx_vs_gold_1800s.png)
+- ![png](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-12.png)
 
 - devaluations are typically abrupt
 - price of gold vs. currencies relatively stable from 1850-1910. High interest rates, but fast innovation in second industrial revolution produced high returns. Popping bubbles caused end of this era.
@@ -438,7 +438,7 @@ header:
 
 #### 1910 - 1930
 
-![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.005_spot_fx_vs_gold_early1900s.png)
+![png](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-13.png)
 
 - After WWI, allied europe owes US lots of war debt.
   - They inflated & devalued, we didn't.
@@ -447,13 +447,13 @@ header:
 
 #### 1930 - 1950
 
-![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.006_spot_fx_vs_gold_early_mid1900s.png)
+![png](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-14.png)
 
 - Since 1950s, downward pressure on currencies vs. gold. Because rate of innovation couldn't keep up with interest rates like in industrial revolution? requires some inflation vs. gold.
 
 #### 1956 - 1977
 
-![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.007_spot_fx_vs_gold_mid_late1900s.png)
+![png](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-15.png)
 
 - End of breton woods allow us to deflate from gold more easily
 
@@ -463,22 +463,22 @@ header:
 
 #### 1998 - Present
 
-![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.008_spot_fx_vs_gold_2000s.png)
+![png](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-16.png)
 
 - Broad drop in currencies vs. gold.
   - Correlated to lowering interest rates.
 
 #### Summary
 
-![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.011_table_fx-vs-gold.png)
+![png](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-17.png)
 
 - USA was best place to put money from 1850 - Present. Most innovation and productivity growth. Especially 1850 - 1912.
 - Modern era (since 1912) there was a higher return to hold gold vs. holding gvt issued cash. -0.1% vs. 1.6% when compared to CPI
   - Amount of goods purchasable went down, but fluctuation in currency makes that vary from country to country
 
-{% include figure image_path="/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.009_real_return_of_gold_vs_CPI.png" caption="return of gold vs. CPI" %}
+{% include figure image_path="//assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.009_real_return_of_gold_vs_CPI.png" caption="return of gold vs. CPI" %}
 
-![png](/assets/images/book-notes/Dalio-Principles-for-dealing-with-changing-world-order/4.010_real_return_of_bills_vs_CPI.png) Currency vs. CPI
+![png](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-18.png) Currency vs. CPI
 
 - Above figure is return of gold vs. CPI and Currency vs. CPI.
   - Gold vs. CPI
@@ -497,10 +497,7 @@ header:
   - Central banks increase rates to reduce devaluation, but eventually stop because of economic pain, then print again.
 - Economic and Military power at time of devaluation determine how much other countries have faith in the devaluing country, so helps those countries keep reserve status and keep devaluations more gradual.
 
-
-![[Pasted image 20230922070423.png]]
-Pasted image from mobile
-
+![](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-19.png)
 
 
 
@@ -530,7 +527,7 @@ Pasted image from mobile
 
 ### 6 stages of the internal cycle
 
-![[Pasted image 20230930112743.jpg]]
+![[/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-20.jpg]]
 
 - Cycle repeats over time and winners/losers adjust how other countries align themselves moving forward. 
 
@@ -701,9 +698,9 @@ World was same but different:
 - 1848. Reaction to capitalism and wealth gaps created. 
 
 ## Ch 9: The Big Cycle Rose and Decline of the Dutch Empire and the Guilder
-![[Pasted image 20231119185553.png]] 
-![[Pasted image 20231119185644.png]]
-![[Pasted image 20231122224801.png]]
+![](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-21.png)
+![](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-22.png)
+![](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-23.png)
 - Spanish/Habsburg was the great power before Dutch. Due to wealth and power from age of exploration. Spanish was almost a reserve currency but they overextended in mid 1500s and followed the traditional downward spiral. 
 	- Religious and inequality are reasons for internal conflict. 
 	- Holy Roman Empire split into two after conflict and weakened it. 
@@ -736,8 +733,9 @@ World was same but different:
 
 ## Ch 10: The Big Cycle Rise and Decline of the British Empire and the Pound
 
-![[Pasted image 20231206205724.png]]
-![[Pasted image 20231206210540.png]]
+![](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-24.png)
+![](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-25.png)
+
 - At its peak, UK was 2.5% of world population, had 20% of world income, and controlled 25% of the land
 ### The Rise
 - British civil war overthrew monarchy and rule of law prevailed
@@ -762,7 +760,7 @@ World was same but different:
 
 - after WW2, British in debt and spending more on colonies than they make
 - Took 20 yrs for USD to overtake pound after WW2
-![[Pasted image 20231226115713.png]]
+![](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-26.png)
 - US was trying to be nice to UK and provided a loan to them when restoring partial convertibility to protect against a run, but devaluation against the dollar was the only way to restore full convertibility, eventually unpegging from the dollar in 1967
 
 ### Europe After WW2
@@ -772,8 +770,7 @@ World was same but different:
 
 ## Ch 11: The Big Cycle Rise and Decline of the United States and the Dollar
 
-![[Pasted image 20231228215744.png]]
-
+![](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-27.png)
 ### The Rise
 
 - After civil war, second Industrial Revolution created great wealth in USA. 
@@ -783,7 +780,7 @@ World was same but different:
 - US also big winner after WW2 for similar reasons to WW1
 
 ### The Top
-![[Pasted image 20240106120705.png]]
+![](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-28.png)
 - Modern wars are going to be won by economic and technology wars because those fund the military and the money to compete globally to outlast the enemy
 ### The Post War Monetary System
 - After Bretton Woods, USD is world reserve currency. Post war countries were buying US goods with aid money from US and Holding USD in a self reinforcing cycle. 
