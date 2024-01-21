@@ -35,9 +35,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-04-23-Orion-Nebula.md",
+                "file": "_recipes/Honey-Siracha-Brussel-Sprouts.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-04-23-Orion-Nebula.md",
+                "file": "_recipes/Honey-Siracha-Brussel-Sprouts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-04-23-Orion-Nebula.md",
+                "file": "_recipes/Honey-Siracha-Brussel-Sprouts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-04-23-Orion-Nebula.md"
+                "file": "_recipes/Honey-Siracha-Brussel-Sprouts.md"
               }
             }
           }
@@ -172,9 +172,13 @@
   },
   "active": "10905f5740fc94cb",
   "lastOpenFiles": [
+    "_site/recipes/Honey-Siracha-Brussel-Sprouts/index.html",
+    "_site/recipes/Honey-Siracha-Brussel-Sprouts",
+    "_recipes/Lemon-garlic-salmon.md",
+    "_recipes/Honey-Siracha-Brussel-Sprouts.md",
+    "_posts/2023-04-23-Orion-Nebula.md",
     "_site/assets/2023-04-23-Orion-Nebula/2023-04-23-Orion-Nebula-image-2.png",
     "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
-    "_posts/2023-04-23-Orion-Nebula.md",
     "_site/page5/index.html",
     "_site/page5",
     "_site/finances/money/Small-Business-Deductions/index.html",
@@ -189,7 +193,6 @@
     "_site/Pasted image 20240106120705.png",
     "_site/Interest rates and QT/index.html",
     "_site/Interest rates and QT",
-    "_site/20231118 - Camille wedding notes/index.html",
     "assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website-image-1.png",
     "_posts/assets/2023-04-23-Orion-Nebula/tmp1705865714103_2023-04-23-Orion-Nebula-image-1.png",
     "assets/2023-04-23-Orion-Nebula/DSC05139.JPG",
