@@ -619,7 +619,7 @@ Pasted image from mobile
 - Creating credit is near term stimulating and long term depressing. Broken promises to pay in the future (credit) causes debt default depressions and market crashes
 - 50 years before WW1 was extreme productivity growth and wealth creation and globalization. Couldn’t predict 7 of the top 10 countries would see their wealth wiped out completely. 
 - 
-![[Honey-Siracha-Brussel-Sprouts-image-2.jpg]]
+![[tmp1705872532748_Honey-Siracha-Brussel-Sprouts-image-2.jpg]]
 - financial assets inflating vs. real assets causes the big cycle. i.e. printing money reduces debt burdens but requires bad returns for cash and debt assets to monetize debts, which is the negative slope times in the chart above
 
 
