@@ -11,8 +11,12 @@
             "id": "bec261d60ef4efc6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md"
+              }
             }
           }
         ],
@@ -141,6 +149,7 @@
   },
   "active": "bec261d60ef4efc6",
   "lastOpenFiles": [
+    "assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-19.png",
     "20231118 - Camille wedding notes.md",
     "20231118 - Camille wedding notes 1.md",
     "_site/20231118 - Camille wedding notes 1/index.html",
