@@ -11,6 +11,6 @@ Text for recipe of brussel sprouts
 
 https://thecollegehousewife.com/honey-sriracha-brussels-sprouts
 ![](assets/Honey-Siracha-Brussel-Sprouts/Honey-Siracha-Brussel-Sprouts-image-1.jpg)
-![](./assets/Honey-Siracha-Brussel-Sprouts/Honey-Siracha-Brussel-Sprouts-image-1.jpg)
+![](/assets/Honey-Siracha-Brussel-Sprouts/Honey-Siracha-Brussel-Sprouts-image-1.jpg)
 
-![](assets/Honey-Siracha-Brussel-Sprouts/Honey-Siracha-Brussel-Sprouts-image-2.jpg)
+![](root/assets/Honey-Siracha-Brussel-Sprouts/Honey-Siracha-Brussel-Sprouts-image-2.jpg)
