@@ -23,18 +23,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10905f5740fc94cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "_recipes/Honey-Siracha-Brussel-Sprouts.md",
                 "mode": "source",
                 "source": true
@@ -42,7 +30,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,36 +154,36 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-attachment-name-formatting:Export Attachments": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "10905f5740fc94cb",
+  "active": "bab3ffa058d13c62",
   "lastOpenFiles": [
-    "_site/assets/Honey-Siracha-Brussel-Sprouts/Honey-Siracha-Brussel-Sprouts-image-1.jpg",
     "assets/Honey-Siracha-Brussel-Sprouts/Honey-Siracha-Brussel-Sprouts-image-1.jpg",
-    "_site/recipes/assets/2024-01-21-Small-Business-Deductions/Honey-Siracha-Brussel-Sprouts-image-1.png",
+    "_site/assets/Honey-Siracha-Brussel-Sprouts/Honey-Siracha-Brussel-Sprouts-image-3.jpg",
+    "assets/Honey-Siracha-Brussel-Sprouts/tmp1705872452110_Honey-Siracha-Brussel-Sprouts-image-3.jpg",
+    "_recipes/Lemon-garlic-salmon.md",
+    "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
+    "_recipes/Honey-Siracha-Brussel-Sprouts.md",
+    "_site/assets/Honey-Siracha-Brussel-Sprouts/Honey-Siracha-Brussel-Sprouts-image-2.jpg",
+    "assets/Honey-Siracha-Brussel-Sprouts/Honey-Siracha-Brussel-Sprouts-image-2.jpg",
+    "_site/assets/Honey-Siracha-Brussel-Sprouts/Honey-Siracha-Brussel-Sprouts-image-1.jpg",
+    "assets/Honey-Siracha-Brussel-Sprouts/tmp1705872461331_Honey-Siracha-Brussel-Sprouts-image-1.jpg",
+    "_recipes/chimichurri-sauce.md",
+    "_site/assets/Honey-Siracha-Brussel-Sprouts/20140819_192110.jpg",
+    "assets/Honey-Siracha-Brussel-Sprouts/20140819_192110.jpg",
+    "_site/assets/Honey-Siracha-Brussel-Sprouts/20140819_182431.jpg",
+    "_site/assets/Honey-Siracha-Brussel-Sprouts",
+    "assets/Honey-Siracha-Brussel-Sprouts/20140819_182431.jpg",
     "_site/recipes/assets/2024-01-21-Small-Business-Deductions",
     "_site/recipes/assets",
     "_recipes/assets/2024-01-21-Small-Business-Deductions",
     "_recipes/assets",
-    "_site/assets/Honey-Siracha-Brussel-Sprouts/Honey-Siracha-Brussel-Sprouts-image-2.jpg",
-    "_recipes/chimichurri-sauce.md",
-    "_recipes/Honey-Siracha-Brussel-Sprouts.md",
-    "assets/Honey-Siracha-Brussel-Sprouts/Honey-Siracha-Brussel-Sprouts-image-2.jpg",
-    "assets/Honey-Siracha-Brussel-Sprouts/Honey-Siracha-Brussel-Sprouts-image-3.png",
-    "assets/Honey-Siracha-Brussel-Sprouts/tmp1705871316433_Honey-Siracha-Brussel-Sprouts-image-3.png",
-    "_site/assets/Honey-Siracha-Brussel-Sprouts/tmp1705871121671_Honey-Siracha-Brussel-Sprouts-image-2.png",
-    "assets/Honey-Siracha-Brussel-Sprouts/Honey-Siracha-Brussel-Sprouts-image-2.png",
-    "_site/assets/Honey-Siracha-Brussel-Sprouts/tmp1705870966873_Honey-Siracha-Brussel-Sprouts-image-2.png",
-    "assets/Honey-Siracha-Brussel-Sprouts/tmp1705871121671_Honey-Siracha-Brussel-Sprouts-image-2.png",
     "_recipes/Honey-Siracha-Brussel-Sprouts",
     "_posts/assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website/assets",
     "_posts/assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website",
     "_posts/assets/2023-04-23-Orion-Nebula",
     "_posts/assets",
-    "assets/images/2023-04-23-Orion-Nebula",
-    "_recipes/Lemon-garlic-salmon.md",
     "_posts/2023-04-23-Orion-Nebula.md",
     "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
     "_posts/2024-01-21-Small-Business-Deductions.md",
@@ -212,7 +200,6 @@
     "_posts/assets/images/2023-09-17-Obsidian/Pasted-image-20230917140127.png.md",
     "_posts/assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website/Pasted-image-20230917140127.png.md",
     "_posts/assets/2023-09-17-Obsidian/2023-09-17-Obsidian/Pasted-image-20230917140127.png.md",
-    "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
     "_site/assets/images/2023-09-17-Obsidian/Pasted.md",
     "_posts/2023-04-19-Life-as-a-Game-of-Chess.md",
     "_book-notes/Graham-The-Intelligent-Investor.md"

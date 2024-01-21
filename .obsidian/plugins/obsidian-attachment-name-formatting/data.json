@@ -49,8 +49,11 @@
   "oneInMany": "Copy",
   "enableAuto": true,
   "enableTime": false,
+  "enablePathHash": false,
   "enableExcludeFileName": false,
-  "excludedFolders": [],
+  "excludedFolders": [
+    "Select excluded folder"
+  ],
   "subfolders": [
     "",
     "",

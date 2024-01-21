@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "assets/Honey-Siracha-Brussel-Sprouts",
   "newFileLocation": "current",
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "useMarkdownLinks": true
 }
