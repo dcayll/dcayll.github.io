@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
+                "file": "_posts/2023-04-23-Orion-Nebula.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
+                "file": "_posts/2023-04-23-Orion-Nebula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
+                "file": "_posts/2023-04-23-Orion-Nebula.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md"
+                "file": "_posts/2023-04-23-Orion-Nebula.md"
               }
             }
           }
@@ -172,8 +172,8 @@
   },
   "active": "10905f5740fc94cb",
   "lastOpenFiles": [
-    "_posts/2023-04-23-Orion-Nebula.md",
     "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
+    "_posts/2023-04-23-Orion-Nebula.md",
     "_site/page5/index.html",
     "_site/page5",
     "_site/finances/money/Small-Business-Deductions/index.html",

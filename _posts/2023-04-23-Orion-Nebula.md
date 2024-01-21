@@ -42,15 +42,14 @@ Camera Settings:
 Original image:
 
 ![jpg](/assets/2023-04-23-Orion-Nebula/DSC05139.JPG)
-![jpg](/assets/2023-04-23-Orion-Nebula/2023-04-23-Orion-Nebula-image-1.jpg)
+
 Image with Black Point adjusted up to help with washed out look:
 
-![[2023-04-23-Orion-Nebula-image-1.jpg]]
-
+![[assets/2023-04-23-Orion-Nebula/2023-04-23-Orion-Nebula-image-1.jpg]]
 
 Image of images stacked in DeepSkyStacker:
 
 
 screenshot added in: 
-![jpg](2023-04-23-Orion-Nebula-image-2.png)
+![png](2023-04-23-Orion-Nebula-image-2.png)
 
