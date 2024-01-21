@@ -40,21 +40,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0c199e5656f0fef3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-04-23-Orion-Nebula.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-04-23-Orion-Nebula.md",
+                "file": "_posts/assets/2023-04-23-Orion-Nebula/tmp1705865714103_2023-04-23-Orion-Nebula-image-1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-04-23-Orion-Nebula.md",
+                "file": "_posts/assets/2023-04-23-Orion-Nebula/tmp1705865714103_2023-04-23-Orion-Nebula-image-1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-04-23-Orion-Nebula.md"
+                "file": "_posts/assets/2023-04-23-Orion-Nebula/tmp1705865714103_2023-04-23-Orion-Nebula-image-1.png"
               }
             }
           }
@@ -182,8 +170,9 @@
       "obsidian-attachment-name-formatting:Export Attachments": false
     }
   },
-  "active": "0c199e5656f0fef3",
+  "active": "dcbb802279d63ed6",
   "lastOpenFiles": [
+    "_posts/2023-04-23-Orion-Nebula.md",
     "_posts/assets/2023-04-23-Orion-Nebula/2023-04-23-Orion-Nebula-image-2.png",
     "_posts/assets/2023-04-23-Orion-Nebula/DSC05139.JPG",
     "_posts/2024-01-21-Small-Business-Deductions.md",
@@ -195,7 +184,6 @@
     "Pasted image 20231119185644.png",
     "Pasted image 20230930112743.jpg",
     "Pasted image 20230917163612.png",
-    "_posts/2023-04-23-Orion-Nebula.md",
     "_posts/2022-10-10-Solidworks-tips.md",
     "_posts/2022-10-10-RothIRA-vs-403b.md",
     "_posts/2022-11-12-83b-tax-form.md",
@@ -203,7 +191,6 @@
     "Pasted image 20231206210540.png",
     "Pasted image 20231122224441.png",
     "Pasted image 20230922070423.png",
-    "Pasted image 20231226115713.png",
     "20231118 - Camille wedding notes.md",
     "Interest rates and QT.md",
     "_posts/assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website/assets",

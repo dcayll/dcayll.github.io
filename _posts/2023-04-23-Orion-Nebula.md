@@ -45,7 +45,7 @@ Original image:
 
 Image with Black Point adjusted up to help with washed out look:
 
-![[2023-04-23-Orion-Nebula-image-1.jpg]]
+![jpg](/_posts/assets/2023-04-23-Orion-Nebula/2023-04-23-Orion-Nebula-image-1.jpg)
 
 
 
@@ -53,5 +53,5 @@ Image of images stacked in DeepSkyStacker:
 
 
 screenshot added in: 
-![[2023-04-23-Orion-Nebula-image-2.png]]
+![jpg](/_posts/assets/2023-04-23-Orion-Nebula/2023-04-23-Orion-Nebula-image-2.png)
 
