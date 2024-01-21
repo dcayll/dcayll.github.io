@@ -15,7 +15,7 @@
               "state": {
                 "file": "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -130,11 +130,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,9 +148,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bec261d60ef4efc6",
+  "active": "04e023749466e196",
   "lastOpenFiles": [
-    "assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-19.png",
+    "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-29.png.md",
+    "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-29.png/index.html",
+    "assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-29.png.md",
+    "assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-29.png",
+    "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-29.png",
+    "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-27.png",
+    "_site/Pasted image 20231118081030.jpg.md",
+    "_site/Pasted image 20231118081030.jpg/index.html",
+    "_site/Pasted image 20231118081030.jpg",
+    "Pasted image 20231118081030.jpg.md",
+    "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/tmp1705879730341_Dalio-Principles-for-dealing-with-the-changing-world-order-image-4.png",
+    "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-26.png",
+    "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-25.png",
+    "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-19.png",
+    "assets/Dalio-Principles-for-dealing-with-the-changing-world-order/tmp1705879998299_Dalio-Principles-for-dealing-with-the-changing-world-order-image-21.png",
     "20231118 - Camille wedding notes.md",
     "20231118 - Camille wedding notes 1.md",
     "_site/20231118 - Camille wedding notes 1/index.html",
@@ -157,29 +172,18 @@
     "_site/20231118 - Camille wedding notes 1.md",
     "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-1.jpg",
     "Interest rates and QT.md",
-    "Pasted image 20231122224441.png",
-    "Pasted image 20231118185553.jpg",
-    "Pasted image 20230917163612.png",
     "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
     "_site/assets/images/book-notes/Covers/Principles.md",
-    "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/tmp1705878749145_Dalio-Principles-for-dealing-with-the-changing-world-order-image-9.png",
-    "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-21.png",
-    "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-20.jpg",
     "_site/assets/images/book-notes/Covers/Principles/index.html",
     "_site/assets/images/book-notes/Covers/Principles",
     "assets/images/book-notes/Covers/Principles.md",
     "_recipes/Honey-Siracha-Brussel-Sprouts.md",
     "_book-notes/Kahneman-Thicking-Fast-and-Slow.md",
-    "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-28.png",
-    "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-26.png",
-    "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-27.png",
     "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order",
     "assets/Dalio-Principles-for-dealing-with-the-changing-world-order",
     "_site/assets/Lemon-garlic-salmon",
     "_recipes/Lemon-garlic-salmon.md",
     "assets/Lemon-garlic-salmon",
-    "_site/assets/Honey-Siracha-Brussel-Sprouts",
-    "_site/site/assets/Honey-Siracha-Brussel-Sprouts",
     "_recipes/chimichurri-sauce.md",
     "_recipes/Chicken-fajitas.md",
     "_posts/2024-01-21-Small-Business-Deductions.md",
@@ -191,10 +195,6 @@
     "_posts/2022-10-10-RothIRA-vs-403b.md",
     "_posts/2022-11-12-83b-tax-form.md",
     "_posts/Untitled.canvas",
-    "assets/images/2023-09-17-Obsidian/Pasted.md",
-    "index.md",
-    "_posts/assets/images/2023-09-17-Obsidian/Pasted-image-20230917140127.png.md",
-    "_posts/assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website/Pasted-image-20230917140127.png.md",
-    "_posts/assets/2023-09-17-Obsidian/2023-09-17-Obsidian/Pasted-image-20230917140127.png.md"
+    "assets/images/2023-09-17-Obsidian/Pasted.md"
   ]
 }
