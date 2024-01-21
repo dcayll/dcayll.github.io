@@ -46,8 +46,8 @@ header:
 
 ### Past Big Cycle Shifts in Wealth and Power
 
-- ![jpg](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-2.png)
-- ![jpg](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-3.png)
+- ![](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-2.png)
+- ![](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-3.png)
 - ![](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-4.png)
 - Netherlands, Uk, and US are 3 most recent reserve currencies
 
