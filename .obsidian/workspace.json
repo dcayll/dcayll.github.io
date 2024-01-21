@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d3612a871015f043",
+        "id": "5e17e7445e1fe1c7",
         "type": "tabs",
         "children": [
           {
-            "id": "bab3ffa058d13c62",
+            "id": "bec261d60ef4efc6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "20231118 - Camille wedding notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20231118 - Camille wedding notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20231118 - Camille wedding notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,13 +118,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "20231118 - Camille wedding notes.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -147,8 +139,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bab3ffa058d13c62",
+  "active": "bec261d60ef4efc6",
   "lastOpenFiles": [
+    "20231118 - Camille wedding notes.md",
+    "20231118 - Camille wedding notes 1.md",
+    "_site/20231118 - Camille wedding notes 1/index.html",
+    "_site/20231118 - Camille wedding notes 1",
+    "_site/20231118 - Camille wedding notes 1.md",
     "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-1.jpg",
     "Interest rates and QT.md",
     "Pasted image 20231122224441.png",
@@ -167,7 +164,6 @@
     "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-28.png",
     "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-26.png",
     "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-27.png",
-    "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/tmp1705878182429_Dalio-Principles-for-dealing-with-the-changing-world-order-image-21.png",
     "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order",
     "assets/Dalio-Principles-for-dealing-with-the-changing-world-order",
     "_site/assets/Lemon-garlic-salmon",
@@ -175,8 +171,6 @@
     "assets/Lemon-garlic-salmon",
     "_site/assets/Honey-Siracha-Brussel-Sprouts",
     "_site/site/assets/Honey-Siracha-Brussel-Sprouts",
-    "_site/site/assets",
-    "_site/site",
     "_recipes/chimichurri-sauce.md",
     "_recipes/Chicken-fajitas.md",
     "_posts/2024-01-21-Small-Business-Deductions.md",
@@ -188,13 +182,10 @@
     "_posts/2022-10-10-RothIRA-vs-403b.md",
     "_posts/2022-11-12-83b-tax-form.md",
     "_posts/Untitled.canvas",
-    "20231118 - Camille wedding notes.md",
     "assets/images/2023-09-17-Obsidian/Pasted.md",
     "index.md",
     "_posts/assets/images/2023-09-17-Obsidian/Pasted-image-20230917140127.png.md",
     "_posts/assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website/Pasted-image-20230917140127.png.md",
-    "_posts/assets/2023-09-17-Obsidian/2023-09-17-Obsidian/Pasted-image-20230917140127.png.md",
-    "_site/assets/images/2023-09-17-Obsidian/Pasted.md",
-    "_posts/2023-04-19-Life-as-a-Game-of-Chess.md"
+    "_posts/assets/2023-09-17-Obsidian/2023-09-17-Obsidian/Pasted-image-20230917140127.png.md"
   ]
 }
