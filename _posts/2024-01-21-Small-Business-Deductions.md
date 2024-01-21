@@ -17,4 +17,4 @@ tags:
 - This means that an individual can take the standard deduction for personal expenses, but then further reduce their adjusted gross income (AGI) through schedule C deductions. 
 - Source: https://www.irs.gov/publications/p535 
 ### Pass through Business Income
-- In addition to claiming deductions on business expenses, you can deduct 20% of qualified business income from your income tax form. This is only for pass-through businesses (businesses in which business income is taxed as regular personal income on an individual's tax return)
+- In addition to claiming deductions on business expenses, you can deduct 20% of qualified business income from your income tax form. This is only for pass-through businesses (businesses in which business income is taxed as regular personal income on an individual's tax return. 

@@ -49,7 +49,7 @@
               "state": {
                 "file": "_posts/2024-01-21-Small-Business-Deductions.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -183,8 +183,9 @@
   },
   "active": "0c199e5656f0fef3",
   "lastOpenFiles": [
-    "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
+    "_posts/Untitled.canvas",
     "_posts/2024-01-21-Small-Business-Deductions.md",
+    "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
     "Pasted image 20231206210540.png",
     "Pasted image 20231122224441.png",
     "Pasted image 20230917163612.png",
