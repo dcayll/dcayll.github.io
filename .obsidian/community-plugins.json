@@ -1,9 +1,9 @@
 [
   "obsidian-git",
   "obsidian-outliner",
-  "obsidian-custom-attachment-location",
   "table-editor-obsidian",
   "obsidian-languagetool-plugin",
   "obsidian-attachment-name-formatting",
-  "image-classify-paste"
+  "image-classify-paste",
+  "obsidian-custom-attachment-location"
 ]
