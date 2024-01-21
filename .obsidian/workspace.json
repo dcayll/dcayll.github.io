@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "_posts/assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website/assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website-image-1.png"
+                "file": "assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website/tmp1705866751173_2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website-image-1.png"
               }
             }
           },
@@ -35,9 +35,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-04-23-Orion-Nebula.md",
+                "file": "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-04-23-Orion-Nebula.md",
+                "file": "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-04-23-Orion-Nebula.md",
+                "file": "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-04-23-Orion-Nebula.md"
+                "file": "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md"
               }
             }
           }
@@ -172,10 +172,13 @@
   },
   "active": "10905f5740fc94cb",
   "lastOpenFiles": [
+    "assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website-image-1.png",
+    "_posts/assets/2023-04-23-Orion-Nebula/tmp1705865714103_2023-04-23-Orion-Nebula-image-1.png",
+    "_posts/assets/2023-04-23-Orion-Nebula",
+    "assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website",
+    "_posts/2023-04-23-Orion-Nebula.md",
     "assets/2023-04-23-Orion-Nebula/DSC05139.JPG",
     "assets/2023-04-23-Orion-Nebula",
-    "_posts/assets/2023-04-23-Orion-Nebula/tmp1705865714103_2023-04-23-Orion-Nebula-image-1.png",
-    "_posts/2023-04-23-Orion-Nebula.md",
     "assets/2023-04-23-Orion-Nebula/2023-04-23-Orion-Nebula-image-2.png",
     "_posts/assets/2023-04-23-Orion-Nebula/DSC05139.JPG",
     "_posts/2024-01-21-Small-Business-Deductions.md",
@@ -192,7 +195,6 @@
     "_posts/2022-11-12-83b-tax-form.md",
     "_posts/Untitled.canvas",
     "Pasted image 20231206210540.png",
-    "Pasted image 20231122224441.png",
     "20231118 - Camille wedding notes.md",
     "Interest rates and QT.md",
     "_posts/assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website/assets",
@@ -202,14 +204,12 @@
     "_posts/assets/images",
     "_posts/assets/images/2023-09-17-Obsidian/Pasted-image-20230917140127.png.md",
     "_posts/assets/images/2023-09-17-Obsidian",
-    "_posts/assets/2023-04-23-Orion-Nebula",
     "_posts/assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website/Pasted-image-20230917140127.png.md",
     "_posts/assets/2023-09-17-Obsidian/2023-09-17-Obsidian/Pasted-image-20230917140127.png.md",
     "_posts/assets/2023-09-17-Obsidian/2023-09-17-Obsidian",
     "_posts/assets/2023-09-17-Obsidian",
     "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
     "_posts/assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website",
-    "_posts/assets",
     "_site/assets/images/2023-09-17-Obsidian/Pasted.md",
     "_posts/2023-04-19-Life-as-a-Game-of-Chess.md",
     "_book-notes/Graham-The-Intelligent-Investor.md"

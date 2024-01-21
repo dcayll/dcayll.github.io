@@ -29,8 +29,11 @@ Benefits:
 
 Details to set up below: 
 
-1. Set up an obsidian vault using the "from a folder" option ![png](2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website-image-1.png)
-	1. Now your obsidian vault is the same as the file system used to update your Jekyll website 
+1. Set up an obsidian vault using the "from a folder" option 
+	1. ![[2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website-image-1.png]]
+
+
+	2. Now your obsidian vault is the same as the file system used to update your Jekyll website 
 2. Purchase and set up obsidian sync
 	1. This option allows your obsidian notebook to sync between multiple devices. It happens nearly instantaneously and then the changes show up on your initial file system. 
 3. Install the Obsidian git plugin to automatically push changes in the obsidian file system to github without having to open up github and push it yourself. 
