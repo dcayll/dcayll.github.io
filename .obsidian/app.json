@@ -3,5 +3,6 @@
   "attachmentFolderPath": "assets/Honey-Siracha-Brussel-Sprouts",
   "newFileLocation": "current",
   "showUnsupportedFiles": false,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "newLinkFormat": "shortest"
 }

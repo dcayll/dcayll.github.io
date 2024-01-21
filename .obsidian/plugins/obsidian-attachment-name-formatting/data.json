@@ -64,7 +64,7 @@
   "exportUnusedRiboon": false,
   "exportCurrentDeletion": false,
   "exportUnusedDeletion": false,
-  "copyPath": false,
+  "copyPath": true,
   "copyPathMode": "Absolute",
   "usingLog": false,
   "logPath": "/"
