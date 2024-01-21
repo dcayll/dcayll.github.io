@@ -501,6 +501,31 @@ header:
 ![[Pasted image 20230922070423.png]]
 Pasted image from mobile
 
+
+
+
+## Ch 4 discussion
+
+1. FED was designed to keep the central bank from printing money Willy Nilly. Does it's existence help prevent end of long term debt cycle since they're (theoretically) politically isolated from the people incurring debt for the gvt (congress)? How political is the FED these days?
+
+2. Seems like US right now is close to the currency breakdown criteria below. Low interest rate environment pushed us there?
+
+> - Amount of debt and money are too large to be turned into real value (I.e. goods and services) they are claims on
+> - Interest rate level to keep debtors from bankruptcy is lower than the rate required for creditors to put money into that debt
+> - Central bank interest rate changes (MP1) and QE (MP2) don't work
+
+3. In table, how does the gold value change in each country? Isn't it supposed to be a global market with the same price everywhere?
+
+4. Referring to table again, Gold return vs. CPI is because its gotten cheaper to make the things that make up the CPI, right? Productivity measurement.
+
+5. When referring to "interest earning currencies", that means the interest rate of countries that issue the currency, right? Not private debt that is issued by people/banks?
+
+6. Gold vs. CPI
+
+> - Why does Germany have such a steep increase in gold vs. CPI? after WWI they had high inflation. Price of basket of goods goes way up w/r/t while value of gold stays the same. So gold becomes more valuable there? compared to bills?
+
+
+
 ## Ch 5: The Big Cycle of Internal Order and Disorder
 
 ### 6 stages of the internal cycle
@@ -698,28 +723,77 @@ World was same but different:
 - Peace of Westphalia ended 30 years war (1618-1648) and created the idea of sovereign states with Hapsburg losing and Dutch becoming independent
 
 ### The Top
+- large empire was overextended & indebted and more military conflicts
+- British leading Industrial Revolution and overtook Dutch. Lost reserve currency status after war with Brits
+	- most wars were over trade/trade routes
+- 40% of global trade was settled in guilders at peak
+### The Decline
+- Rich Dutch began moving money to London due to higher returns and growth
+- Quinn & Robert’s - the bank of Amsterdam through the lens of monetary competition
+- British and other countries stole Dutch territory and trade routes. Dutch east India trading company lost 1/2 of ships and needed to borrow a lot from bank of Amsterdam to stay alive. 
+	- Bank printed money to help east India trading company monetize debts. But it led to runs on the bank because people scared their money would be worthless and they took out gold instead 
+		- Devaluing Guilder forced other investors to other stores of wealth away from guilder, ending reserve currency status. 
+
+## Ch 10: The Big Cycle Rise and Decline of the British Empire and the Pound
+
+![[Pasted image 20231206205724.png]]
+![[Pasted image 20231206210540.png]]
+- At its peak, UK was 2.5% of world population, had 20% of world income, and controlled 25% of the land
+### The Rise
+- British civil war overthrew monarchy and rule of law prevailed
+- Gvt built on enlightenment ideals. Books now available because of printing press. Education high. Helped them become innovative
+- UK bond yields low in mid 1700s  late 1800s due to stable economy
+- Industrial Revolution major driver. People move to cities to work in factories and forced gvt to be bigger and create more services
+- strong navy helped them have lots of trade and colonies so $ kept flowing and navy bigger
 - 
+### Why not France?
+- Gvt financing not as good. Had a bubble in French trading company and forced gvt to fund itself with higher taxes and high rate loans
+- lots of expensive wars that didn’t pay off
+- Very high inequality that eventually led to war against the nobility.
+- After Congress of Vienna in 1815, France was restored to its old borders and peace created for next 100 years
 
+### British Peak
+- No major wars so UK kept trading and stacking up wealth. Countries traded in the pound. 
+- Bank of England was lender of last resort to stabilize panics
+- UK didn’t keep up in 2nd Industrial Revolution and US & Germany overtook it in innovation
+- inequality peaked in late 1800s with top 1% owning 75% of wealth. Sowed seeds of conflict and leads to labor movement, increases in social services and more democratic representation of bottom
 
+### The Decline
 
+- after WW2, British in debt and spending more on colonies than they make
+- Took 20 yrs for USD to overtake pound after WW2
+![[Pasted image 20231226115713.png]]
+- US was trying to be nice to UK and provided a loan to them when restoring partial convertibility to protect against a run, but devaluation against the dollar was the only way to restore full convertibility, eventually unpegging from the dollar in 1967
 
+### Europe After WW2
 
-## Ch 4 discussion
+- EU started as a coal and steel economic pact between major European countries. 
+- After that, supranational bodies for representation, justice, taxation, loans and welfare formed. 
 
-1. FED was designed to keep the central bank from printing money Willy Nilly. Does it's existence help prevent end of long term debt cycle since they're (theoretically) politically isolated from the people incurring debt for the gvt (congress)? How political is the FED these days?
+## Ch 11: The Big Cycle Rise and Decline of the United States and the Dollar
 
-2. Seems like US right now is close to the currency breakdown criteria below. Low interest rate environment pushed us there?
+![[Pasted image 20231228215744.png]]
 
-> - Amount of debt and money are too large to be turned into real value (I.e. goods and services) they are claims on
-> - Interest rate level to keep debtors from bankruptcy is lower than the rate required for creditors to put money into that debt
-> - Central bank interest rate changes (MP1) and QE (MP2) don't work
+### The Rise
 
-3. In table, how does the gold value change in each country? Isn't it supposed to be a global market with the same price everywhere?
+- After civil war, second Industrial Revolution created great wealth in USA. 
+	- Created large wealth imbalances which brought about progressive policies and income tax
+- After WW1, major powers couldn’t keep gold convertibility in their currencies except the US. Helped USD because foreign powers were keeping USD to pay debts. 
+- US was also the one that provided loans to W Europe which boosted USD for global gvt debt
+- US also big winner after WW2 for similar reasons to WW1
 
-4. Referring to table again, Gold return vs. CPI is because its gotten cheaper to make the things that make up the CPI, right? Productivity measurement.
+### The Top
+![[Pasted image 20240106120705.png]]
+- Modern wars are going to be won by economic and technology wars because those fund the military and the money to compete globally to outlast the enemy
+### The Post War Monetary System
+- After Bretton Woods, USD is world reserve currency. Post war countries were buying US goods with aid money from US and Holding USD in a self reinforcing cycle. 
+- there was a quick post war recession with reshuffling from war to peacetime economy. After that economy boomed with stock market and increased foreign investment. 
 
-5. When referring to "interest earning currencies", that means the interest rate of countries that issue the currency, right? Not private debt that is issued by people/banks?
+#### The 1970s: The Balance of Payments Problem unfolds - Low Growth, High Inflation
 
-6. Gold vs. CPI
-
-> - Why does Germany have such a steep increase in gold vs. CPI? after WWI they had high inflation. Price of basket of goods goes way up w/r/t while value of gold stays the same. So gold becomes more valuable there? compared to bills?
+- around 1970, big balance of payments deficit. Imports > exports
+	- Nixon broke gold peg to dollar and offered USD instead
+		- This allowed US to keep printing which kept interest rates lower to give Americans more buying power. 
+	- US deficits went to countries with surpluses which deposited $ into US banks which invested in emerging economies. 
+		- Savings and Loan Associations borrowed short and lent long, exploiting low rates. 
+			- When geopolitical issues arose (Vietnam war, watergate, OPEC-induced oil $ spikes, drought-induced food $ spikes) more printing and inflation occured to keep ship afloat. 
