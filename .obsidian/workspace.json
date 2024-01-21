@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c199e5656f0fef3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-01-21-Small-Business-Deductions.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
+                "file": "_posts/2024-01-21-Small-Business-Deductions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
+                "file": "_posts/2024-01-21-Small-Business-Deductions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md"
+                "file": "_posts/2024-01-21-Small-Business-Deductions.md"
               }
             }
           }
@@ -169,8 +181,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "10905f5740fc94cb",
+  "active": "0c199e5656f0fef3",
   "lastOpenFiles": [
+    "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
+    "_posts/2024-01-21-Small-Business-Deductions.md",
     "Pasted image 20231206210540.png",
     "Pasted image 20231122224441.png",
     "Pasted image 20230917163612.png",
@@ -181,10 +195,8 @@
     "Pasted image 20231206205724.png",
     "Pasted image 20231122224801.png",
     "Pasted image 20231119185553.png",
-    "Pasted image 20231119185644.png",
     "20231118 - Camille wedding notes.md",
     "Interest rates and QT.md",
-    "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
     "_posts/assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website/assets",
     "assets/images/2023-09-17-Obsidian/Pasted.md",
     "index.md",
