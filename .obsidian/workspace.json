@@ -47,9 +47,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-01-21-Small-Business-Deductions.md",
+                "file": "_posts/2022-10-10-RothIRA-vs-403b.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-01-21-Small-Business-Deductions.md",
+                "file": "_posts/2022-10-10-RothIRA-vs-403b.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-01-21-Small-Business-Deductions.md",
+                "file": "_posts/2022-10-10-RothIRA-vs-403b.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-01-21-Small-Business-Deductions.md"
+                "file": "_posts/2022-10-10-RothIRA-vs-403b.md"
               }
             }
           }
@@ -183,8 +183,9 @@
   },
   "active": "0c199e5656f0fef3",
   "lastOpenFiles": [
-    "_posts/Untitled.canvas",
+    "_posts/2022-11-12-83b-tax-form.md",
     "_posts/2024-01-21-Small-Business-Deductions.md",
+    "_posts/Untitled.canvas",
     "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
     "Pasted image 20231206210540.png",
     "Pasted image 20231122224441.png",
