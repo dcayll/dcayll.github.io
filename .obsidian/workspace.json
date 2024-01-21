@@ -37,7 +37,7 @@
               "state": {
                 "file": "_posts/2023-04-23-Orion-Nebula.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -172,9 +172,11 @@
   },
   "active": "10905f5740fc94cb",
   "lastOpenFiles": [
+    "assets/2023-04-23-Orion-Nebula/DSC05139.JPG",
+    "assets/2023-04-23-Orion-Nebula",
     "_posts/assets/2023-04-23-Orion-Nebula/tmp1705865714103_2023-04-23-Orion-Nebula-image-1.png",
     "_posts/2023-04-23-Orion-Nebula.md",
-    "_posts/assets/2023-04-23-Orion-Nebula/2023-04-23-Orion-Nebula-image-2.png",
+    "assets/2023-04-23-Orion-Nebula/2023-04-23-Orion-Nebula-image-2.png",
     "_posts/assets/2023-04-23-Orion-Nebula/DSC05139.JPG",
     "_posts/2024-01-21-Small-Business-Deductions.md",
     "_posts/2022-10-09-test_landscape2.md",
@@ -191,7 +193,6 @@
     "_posts/Untitled.canvas",
     "Pasted image 20231206210540.png",
     "Pasted image 20231122224441.png",
-    "Pasted image 20230922070423.png",
     "20231118 - Camille wedding notes.md",
     "Interest rates and QT.md",
     "_posts/assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website/assets",
@@ -209,7 +210,6 @@
     "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
     "_posts/assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website",
     "_posts/assets",
-    "_site/assets/images/2023-09-17-Obsidian/Pasted/index.html",
     "_site/assets/images/2023-09-17-Obsidian/Pasted.md",
     "_posts/2023-04-19-Life-as-a-Game-of-Chess.md",
     "_book-notes/Graham-The-Intelligent-Investor.md"
