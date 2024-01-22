@@ -6,7 +6,7 @@ author_profile: false
 toc: true
 toc_sticky: true
 header:
-  teaser: //assets/images/book-notes/Covers/Principles of the changing world order teaser.png
+  teaser: /assets/images/book-notes/Covers/Principles of the changing world order teaser.png
 ---
 ![](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-1.jpg)
 
