@@ -5,7 +5,7 @@ title: "Welcome!"
 author_profile: true
 ---
 
-I'm currently a process development engineer at Qorvo inc. in Richardson, TX. I started in May 2023 in the thin films group and I've been focusing on Chemical Vapor Deposition (CVD) processes used in the fabrication of [BAW filter](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjcmeXq3e-DAxVDlGoFHWVYDbkQFnoECBAQAQ&url=https%3A%2F%2Fwww.qorvo.com%2Fresources%2Fd%2Fqorvo-advanced-baw-filter-technology-impact-on-5g-white-paper&usg=AOvVaw1b5Bq5eRPlMtFMwcV_ALT5&opi=89978449) technology. My additional responsibilities include process automation, new process release, documentation, and keeping the line running smoothly. 
+I'm currently a process development engineer at Qorvo inc. in Richardson, TX. I started in May 2023 in the thin films group and I've been focusing on Chemical Vapor Deposition (CVD) processes used in the fabrication of [BAW filter](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjcmeXq3e-DAxVDlGoFHWVYDbkQFnoECBAQAQ&url=https%3A%2F%2Fwww.qorvo.com%2Fresources%2Fd%2Fqorvo-advanced-baw-filter-technology-impact-on-5g-white-paper&usg=AOvVaw1b5Bq5eRPlMtFMwcV_ALT5&opi=89978449) technology. 
 
 In my spare time I enjoy being outdoors, riding motorcycles, lifting weights, practicing macro and astro photography, and learning about macro economics and monetary policy. This website is for organizing my interests and hobbies in hopes that it may be useful to myself and others down the road.
 
