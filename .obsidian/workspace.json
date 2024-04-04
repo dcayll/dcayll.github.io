@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
+                "file": "_drafts/20240403 - Groomsmen letters.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
+                "file": "_drafts/20240403 - Groomsmen letters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
+                "file": "_drafts/20240403 - Groomsmen letters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md"
+                "file": "_drafts/20240403 - Groomsmen letters.md"
               }
             }
           }
@@ -150,22 +150,26 @@
   },
   "active": "bec261d60ef4efc6",
   "lastOpenFiles": [
+    "_drafts/20240330 - why we are perfect for each other.md",
+    "_drafts/20240403 - Groomsmen letters.md",
+    "_book-notes/Graham-The-Intelligent-Investor.md",
+    "assets/images/book-notes/Covers/house.md",
+    "Espresso Martini.md",
+    "20240130 - personal examination like car repair.md",
+    "IMG_1169.jpeg",
+    "IMG_1160.jpeg",
+    "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
     "_site/IMG_1168.png",
     "_site/IMG_1167.jpeg",
     "IMG_1167.jpeg",
     "IMG_1168.png",
-    "_book-notes/Graham-The-Intelligent-Investor.md",
-    "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
     "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-29.png",
     "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-22.png",
     "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-21.jpg",
     "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-20.png",
-    "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-3.jpg",
-    "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-8.png",
     "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-29.png.md",
     "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-29.png/index.html",
     "assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-29.png.md",
-    "assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-29.png",
     "_site/Pasted image 20231118081030.jpg.md",
     "_site/Pasted image 20231118081030.jpg/index.html",
     "Pasted image 20231118081030.jpg.md",
@@ -192,10 +196,6 @@
     "_posts/2023-04-23-Orion-Nebula.md",
     "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
     "_posts/2022-10-09-test_landscape2.md",
-    "README.md",
-    "_posts/2022-10-10-Solidworks-tips.md",
-    "_posts/2022-10-10-RothIRA-vs-403b.md",
-    "_posts/2022-11-12-83b-tax-form.md",
     "_posts/Untitled.canvas"
   ]
 }

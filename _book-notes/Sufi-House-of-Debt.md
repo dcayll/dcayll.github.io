@@ -10,3 +10,5 @@ header:
 ---
 
 ![jpg](/assets/images/book-notes/Covers/house of debt.jpg)
+
+![](IMG_1169.jpeg)
