@@ -1,0 +1,3 @@
+The feeling astronauts get when looking back at the earth. The feeling of awe when looking on the Grand Canyon or other natural wonder. The feeling when you imagine you’re in an infinite white room, matrix style. My childhood dream of an earth-sized ball rolling towards me without anything I could do about it. 
+
+All of these scenarios put you in perspective that you are  a small part of God’s plan. God is the infinity and surpasses all things and scenes man can think of. Bigger than the earth, bigger than the infinite universe. The act of being is what he is. The great I Am. Yahweh 

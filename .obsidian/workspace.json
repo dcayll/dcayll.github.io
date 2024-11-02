@@ -13,13 +13,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20240528 - Nula beach.md",
+                "file": "_jupyter/2022-10-23-test-jupyter.md",
                 "mode": "source",
-                "source": true
-              }
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2022-10-23-test-jupyter"
+            }
+          },
+          {
+            "id": "3b41711c41ab5805",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_daily-reflections/20241031 - On lacking coworkers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20241031 - On lacking coworkers"
+            }
+          },
+          {
+            "id": "b11f78572457851e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -39,7 +68,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +85,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20240528 - Nula beach.md",
+                "file": "_jupyter/2022-10-23-test-jupyter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +128,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2022-10-23-test-jupyter"
             }
           },
           {
@@ -102,10 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20240528 - Nula beach.md",
+                "file": "_jupyter/2022-10-23-test-jupyter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2022-10-23-test-jupyter"
             }
           },
           {
@@ -116,7 +155,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20240528 - Nula beach.md"
-              }
+                "file": "_jupyter/2022-10-23-test-jupyter.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2022-10-23-test-jupyter"
             }
           }
         ],
@@ -148,54 +191,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bec261d60ef4efc6",
+  "active": "b11f78572457851e",
   "lastOpenFiles": [
-    "20240604 - Social security.md",
-    "_drafts/20240403 - Groomsmen letters.md",
-    "20240615 - grad cards.md",
+    "_daily-reflections/20241030 - On community engagement.md",
+    "_daily-reflections/20241031 - On lacking coworkers.md",
+    "_book-notes/Acemoglu-Why-Nations-Fail.md",
+    "_book-notes/Clear-Atomic-Habits.md",
+    "assets/Clear-Atomic-Habits/Clear-Atomic-Habits-image-1.jpg",
+    "assets/Clear-Atomic-Habits/Acemoglu-Why-Nations-Fail-image-1.jpg",
+    "assets/Acemoglu-Why-Nations-Fail/Acemoglu-Why-Nations-Fail-image-1.jpg",
+    "assets/Acemoglu-Why-Nations-Fail/Acemoglu-Why-Nations-Fail-image-1.jpg",
+    "assets/images/book-notes/Covers/acemoglu-why-nations-fail.jpg",
+    "assets/Acemoglu-Why-Nations-Fail",
+    "_jupyter/2022-10-23-test-jupyter.md",
+    "assets/images/book-notes/Covers/Clear-Atomic-Habits.jpg",
+    "assets/Clear-Atomic-Habits",
+    "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
+    "_daily-reflections/20241029 - Why to write daily.md",
+    "_drafts/20241021 - The Great I Am.md",
+    "_daily-reflections",
+    "_drafts/20240806 - building each other up without using guilt.md",
+    "_drafts/20240808 - aunts postcards from croatia.md",
+    "_book-notes/Why-Nations-Fail.md",
+    "Pasted image 20240904214749.png",
+    "_drafts/20240727 - confession and lust.md",
+    "_drafts/20240718 - Benjamin.md",
+    "_drafts/20240712 - clean up the house for grandkids.md",
+    "_jupyter/2024-06-29-Medical_student_Debt-Strategy.ipynb",
+    "_jupyter/2024-06-29-Medical_student_Debt-Strategy.ipnyb",
+    "_jupyter/2022-10-23-test-jupyter_files/2022-10-23-test-jupyter_1_0.png",
+    "_posts/2022-11-12-83b-tax-form.md",
+    "_posts/2022-10-23-test-jupyter.md",
+    "_posts/2022-06-07-coding-example.md",
+    "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
+    "_posts/2024-06-29-Medical-Student-Debt-Strategy.md",
+    "_posts/2024-01-21-Small-Business-Deductions.md",
+    "_recipes/Beef-fajitas.md",
+    "_recipes/Espresso Martini 1.md",
+    "_recipes/chimichurri-sauce.md",
+    "_recipes/Espresso Martini.md",
     "20240528 - Nula beach.md",
-    "Espresso Martini.md",
-    "Note to thong.md",
-    "Retreat food.md",
-    "_drafts/20240130 - personal examination like car repair.md",
-    "_drafts/20240330 - why we are perfect for each other.md",
-    "_book-notes/Graham-The-Intelligent-Investor.md",
-    "assets/images/book-notes/Covers/house.md",
-    "20240130 - personal examination like car repair.md",
+    "20240604 - Social security.md",
     "IMG_1169.jpeg",
     "IMG_1160.jpeg",
-    "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
-    "_site/IMG_1168.png",
-    "_site/IMG_1167.jpeg",
-    "IMG_1167.jpeg",
-    "IMG_1168.png",
-    "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-29.png",
-    "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-22.png",
-    "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-21.jpg",
-    "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-20.png",
-    "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-29.png.md",
     "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-29.png/index.html",
-    "assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-29.png.md",
-    "_site/Pasted image 20231118081030.jpg.md",
     "_site/Pasted image 20231118081030.jpg/index.html",
-    "Pasted image 20231118081030.jpg.md",
-    "20231118 - Camille wedding notes.md",
-    "20231118 - Camille wedding notes 1.md",
     "_site/20231118 - Camille wedding notes 1/index.html",
     "_site/20231118 - Camille wedding notes 1",
-    "_site/20231118 - Camille wedding notes 1.md",
-    "Interest rates and QT.md",
-    "_site/assets/images/book-notes/Covers/Principles.md",
     "_site/assets/images/book-notes/Covers/Principles/index.html",
-    "_site/assets/images/book-notes/Covers/Principles",
-    "assets/images/book-notes/Covers/Principles.md",
-    "_recipes/Honey-Siracha-Brussel-Sprouts.md",
-    "_book-notes/Kahneman-Thicking-Fast-and-Slow.md",
-    "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order",
-    "assets/Dalio-Principles-for-dealing-with-the-changing-world-order",
-    "_site/assets/Lemon-garlic-salmon",
-    "_recipes/Lemon-garlic-salmon.md",
-    "assets/Lemon-garlic-salmon",
     "_posts/Untitled.canvas"
   ]
 }

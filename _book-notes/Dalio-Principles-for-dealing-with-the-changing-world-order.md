@@ -8,7 +8,7 @@ toc_sticky: true
 header:
   teaser: //assets/images/book-notes/Covers/Principles of the changing world order teaser.png
 ---
-![](/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-1.jpg)
+![](assets/Acemoglu-Why-Nations-Fail/Acemoglu-Why-Nations-Fail-image-1.jpg)
 
 ## Introduction
 
@@ -808,4 +808,27 @@ World was same but different:
 #### 1990-2008: Globalization, Digitization, and Booming Financed by Debt
 
 - When interest rates hit zero, assets inflate and expand wealth gaps
+
+# Ch 12: The Big Cycle Rise of China and the Renminbi
+
+![](Pasted%20image%2020240904214749.png)
+- Growth from 1980s to 2008 was not fueled by debt. It grew with economic growth after opening economy
+- Before communist China, dominant philosophies were: 
+	- Confucianism- respect your leaders and your place
+	- Legalism - fascism
+	- Taoism - harmony with nature
+	- All were hierarchical and non-egalitarian. Prizing the collective over individuals 
+
+## China’s Monetary and Economic History
+
+- China as gone through many cycles of all 3 types of currency: metal coin, paper backed by metal, and unpegged paper
+	- Currently unpegged paper
+- In 1100’s first commodity-backed paper money introduced. Following were many cycles of overprinting, inflation, and retreat to hard money after currency collapse
+- China’s never been a global reserve currency
+	- never a big world power. 
+	- Established first stock companies and paper money, but financial/capital markets in Europe more developed by 1600
+	- Scholars regarded higher than entrepreneurs. Less industry and innovation from that
+	- Not much state investment in important industries in beginning
+- currency is real valued if it trades at the same rate domestically and internationally 
+	- by definition reserve currencies must trade the same 
 - 

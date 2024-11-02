@@ -1,0 +1,3 @@
+Jim Rice's positions outside of his company are very impressive and he's had a huge impact on the fort bend school district/ county in general. How did this start? According to linkedin, he started his non-profit in 2004, started his company in 2005, and became a fort bend isd trustee in 2010. Work in the non-profit probably opened the door to those opportunities.
+
+Do I want to do things that impact that widely? probably. why? To prove something to myself or someone else? maybe. don't need to think this far ahead yet. 
