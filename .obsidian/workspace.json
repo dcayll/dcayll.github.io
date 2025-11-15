@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
+                "file": "_drafts/20251019 - Treating Caroline as a Teen.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "20251019 - Treating Caroline as a Teen"
             }
           }
         ],
@@ -181,13 +181,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dcbb802279d63ed6",
+  "active": "b11f78572457851e",
   "lastOpenFiles": [
-    "Interest rates and QT.md",
+    "_daily-reflections/20241031 - On lacking coworkers.md",
+    "_daily-reflections/20241030 - On community engagement.md",
+    "_site/book-notes/Clear-Atomic-Habits/index.html",
+    "_site/book-notes/Clear-Atomic-Habits",
+    "_site/book-notes/Acemoglu-why-nations-fail/index.html",
+    "_site/book-notes/Acemoglu-why-nations-fail",
+    "_site/assets/images/book-notes/Covers/house/index.html",
+    "_site/assets/images/book-notes/Covers/house",
+    "_site/assets/images/book-notes/Covers/an/index.html",
+    "_site/assets/images/book-notes/Covers/an",
+    "_site/20240604 - Social security/index.html",
+    "_site/20240604 - Social security",
+    "_daily-reflections/20241029 - Why to write daily.md",
+    "README.md",
+    "_site/recipes/Bubbleberry wedding drink.md",
+    "_site/assets/images/book-notes/Covers/acemoglu-why-nations-fail.jpg",
+    "_site/assets/images/book-notes/Covers/Clear-Atomic-Habits.jpg",
+    "_site/assets/Clear-Atomic-Habits/Clear-Atomic-Habits-image-1.jpg",
     "index.md",
+    "Interest rates and QT.md",
     "Pasted image 20231122224441.png",
     "Pasted image 20240904214749.png",
-    "README.md",
     "Pasted image 20231118081030.jpg.md",
     "Pasted image 20230917163612.png",
     "20240604 - Social security.md",
@@ -199,7 +216,6 @@
     "20240615 - grad cards.md",
     "Home list.md",
     "_book-notes/Kahneman-Thicking-Fast-and-Slow.md",
-    "_daily-reflections/20241031 - On lacking coworkers.md",
     "_book-notes/Heinrich-The-Secret-Of-Our-Success.md",
     "_book-notes/Covey-7-habits-of-highly-effective-people.md",
     "_book-notes/Acemoglu-Why-Nations-Fail.md",
@@ -210,25 +226,8 @@
     "_drafts/20251007 - fatherhood feelings.md",
     "_drafts/Untitled.md",
     "_jupyter/2022-10-23-test-jupyter.md",
-    "assets/images/book-notes/Covers/an.md",
-    "_drafts/20250731 - Healthy Baby.md",
-    "_drafts/20250728 - Caroline direction.md",
-    "_drafts/20250630 - real estate agent.md",
     "assets/20250412 - China US relations/1972_GDP_numbers.png",
-    "assets/20250412 - China US relations",
     "assets/Clear-Atomic-Habits/Clear-Atomic-Habits-image-1.jpg",
-    "assets/Clear-Atomic-Habits/Acemoglu-Why-Nations-Fail-image-1.jpg",
-    "assets/Acemoglu-Why-Nations-Fail/Acemoglu-Why-Nations-Fail-image-1.jpg",
-    "assets/Acemoglu-Why-Nations-Fail/Acemoglu-Why-Nations-Fail-image-1.jpg",
-    "assets/Acemoglu-Why-Nations-Fail",
-    "assets/Clear-Atomic-Habits",
-    "_daily-reflections",
-    "_jupyter/2024-06-29-Medical_student_Debt-Strategy.ipynb",
-    "_jupyter/2024-06-29-Medical_student_Debt-Strategy.ipnyb",
-    "_site/assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-29.png/index.html",
-    "_site/Pasted image 20231118081030.jpg/index.html",
-    "_site/20231118 - Camille wedding notes 1/index.html",
-    "_site/20231118 - Camille wedding notes 1",
     "_posts/Untitled.canvas"
   ]
 }
