@@ -831,4 +831,27 @@ World was same but different:
 	- Not much state investment in important industries in beginning
 - currency is real valued if it trades at the same rate domestically and internationally 
 	- by definition reserve currencies must trade the same 
+
+### 1800-1949
+- British paid for Chinese goods in silver. When they ran out of silver, they smuggled opium into China for silver and then used that silver to pay for Chinese goods
+- Qing dynasty was in big debt and many internal wars until 1949 when Mao & communism won
+
+### 1949- now
+- Mao, Deng Xiao Ping, Xi Jinping
+- Mao opened China to trade with the US in 1971 to deter the Soviet Union. US didn’t want China to become Soviet, so we were also incentivized. 
+- Deng set up reforms to make China less dependent on the leader. Set up politburo, politburo selection process, term limits, etc. 
+	- Deng’s opening up made China much richer and made people interacting with China richer too. 
+	- Peace while all involved were benefiting. 
+- During globalization in early 2000’s - 2016, US would buy cheap goods from China and China would loan the US $ to buy it. Helped build savings and wealth for china
+- After 2008 recession, G20 countries printed money to finance economic stimulation. Debt growth in China >> economic growth after GFC
+- Xi Jingping has been consolidating power because he/politicians see harder times ahead and it’s better to have a continuity leadership in times like that. 
+
+# Ch 13: US-China Relations and Wars
+
+- partners are buying us bonds but they have negative real rates because we need to monetize our debts. I.e not beating inflation
+- US complaining about:
+	- Chinese markets closed to us goods
+	- Gvt support for domestic industry
+	- Chinese stealing IP
+- both countries pushing towards decoupling. China more at risk than US for 5-10 years until they get their own access to advanced technologies the US has control and influence over
 - 

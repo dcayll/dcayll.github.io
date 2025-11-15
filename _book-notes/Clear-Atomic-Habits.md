@@ -94,13 +94,27 @@ header:
 
 ## Ch 17: How an Accountability Partner Can Change Everything
 
+- Get accountability partner and make a public contract to make failing hurtful
+- 
+
 # Part 5: Advanced Tactics: How to Go from Being Merely Good to Being Truly Great
 
 ## Ch 18: The Truth About Talent (When Genes Matter and When they Don't)
 
+- Find what you’re good at/sets you apart and nurture that skillset. 
+- If you don’t have something, put together two and it makes it harder to match you
+- Still need to put in the work even if you’re gifted in something
+- 
+
 ## Ch 19: The Goldilocks Rule: How to Stay Motivated in Life and Work
+
+- Keep going when not excited about training etc. push ourselves to 4% pas our limit to keep novelty. But not so much to loose motivation
 
 ## Ch 20: The Downside of Creating Good Habits
 
+
+-  need to reflect harder when we’re getting better in our habits and training. We get too good at our habits that we donot pay attention anymore and loose progress
+- Decisions journal
+- Don’t hold identities too tightly as it can hold you down
 # Part 6: Conclusion: The Secret to Results That Last
 

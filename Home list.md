@@ -1,0 +1,9 @@
+- Distance from David work
+- No carpet in living spaces downstairs
+- backyard butts up to a forest
+- 1/2 bath downstairs
+- >2000 sqft
+- school district >=7/10
+- Backyard not tiny
+- office for David not in a bedroom
+- 

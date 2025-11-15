@@ -31,3 +31,9 @@ Nothing which is true or beautiful or good makes complete sense in any immediate
 Nothing we do, however virtuous, can be accomplished alone; therefore we must be saved by love.  
 No virtuous act is quite as virtuous from the standpoint of our friend or foe as it is from our standpoint. Therefore we must be saved by the final form of love which is forgiveness.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— Reinhold Niebuhr
+
+> 53. Now as there are an infinity of possible universes in the ideas of God, and but one of them can exist, there must be a sufficient reason for the choice of God which determines him to select one rather than another.
+> 54. And this reason is to be found only in the _fitness_ or in the degree of perfection which these worlds possess, each possible thing having the right to claim existence in proportion to the perfection which it involves.
+> 55. This is the cause for the existence of the greatest good; namely, that the wisdom of God permits him to know it, his goodness causes him to choose it, and his power enables him to produce it.[[4]](https://en.m.wikipedia.org/wiki/Best_of_all_possible_worlds#cite_note-:1-4)
+		- Gottfried Leibniz, Theodicy
+
