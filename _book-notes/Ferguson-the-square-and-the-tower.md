@@ -1,3 +1,15 @@
+---
+title: "The Square and the Tower"
+excerpt: Nial Ferguson
+permalink: /book-notes/Fergusin-the-square-and-the-tower/
+author_profile: false
+toc: true
+toc_sticky: true
+header:
+  # image: /assets/images/book-notes/Covers/give and take.jpg
+  teaser: /assets/images/book-notes/Covers/give and take teaser.png
+---
+
 ## Ch 1: introduction - Illuminati
 
 - intended to be association 
