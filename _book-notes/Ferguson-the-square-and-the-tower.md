@@ -78,4 +78,11 @@ Totalitarian networks are easy to break by connecting a few random notes like in
 
 ## Ch12: The Network Age
 
-- 
+- - The Black Death Killed about half of all Western Europe, causing labor shortages, and more local powers versus a large empire life room or like Byzantium the east
+- The loser non-family members of Western Europe allowed bankers and elites to begin infant capitalism
+
+# # # # CH13:SpaceCH13:Space
+Chapter 15 the New World
+
+In Spanish America, the conquistador network over through imperial hierarchies of Inca and Mayans civilizations. They updated the network by marrying the royalty of the indigenous and set up a cast system pricing Spanish blood
+
