@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/20251019 - Treating Caroline as a Teen.md",
-                "mode": "preview",
-                "source": false
+                "file": "_recipes/Espresso Martini.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "20251019 - Treating Caroline as a Teen"
+              "title": "Espresso Martini"
             }
           }
         ],
@@ -183,13 +183,15 @@
   },
   "active": "b11f78572457851e",
   "lastOpenFiles": [
+    "_recipes/chimichurri-sauce.md",
+    "_drafts/20251019 - Treating Caroline as a Teen.md",
+    "assets/images/recipes/espresso_martini.jpeg",
     "_book-notes/Holland-Dominion.md",
     "_drafts/20251215 - clean the house for Cecilia.md",
     "_drafts/20251204 - Shock of First Divorce.md",
     "_drafts/20251116 - The case for kids before you’re ready.md",
     "_drafts/20250405 - 1st anniversary.md",
     "_drafts/20241021 - The Great I Am.md",
-    "_drafts/20251019 - Treating Caroline as a Teen.md",
     "_drafts/20251007 - fatherhood feelings.md",
     "_daily-reflections/20241031 - On lacking coworkers.md",
     "_daily-reflections/20241030 - On community engagement.md",
@@ -226,9 +228,7 @@
     "_book-notes/Kahneman-Thicking-Fast-and-Slow.md",
     "_book-notes/Heinrich-The-Secret-Of-Our-Success.md",
     "_book-notes/Covey-7-habits-of-highly-effective-people.md",
-    "_book-notes/Acemoglu-Why-Nations-Fail.md",
     "assets/20250412 - China US relations/1972_GDP_numbers.png",
-    "assets/Clear-Atomic-Habits/Clear-Atomic-Habits-image-1.jpg",
     "_posts/Untitled.canvas"
   ]
 }
