@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "b11f78572457851e",
+            "id": "eb1514a5aaf973d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_recipes/Espresso Martini.md",
+                "file": "_book-notes/Sufi-House-of-Debt.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Espresso Martini"
+              "title": "Sufi-House-of-Debt"
             }
           }
         ],
@@ -181,8 +181,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b11f78572457851e",
+  "active": "eb1514a5aaf973d0",
   "lastOpenFiles": [
+    "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
+    "_book-notes/Covey-7-habits-of-highly-effective-people.md",
+    "_book-notes/Sufi-House-of-Debt.md",
+    "assets/images/book-notes/Covers/house of debt teaser.png",
+    "assets/images/book-notes/Covers/house-of-debt.jpg",
+    "assets/images/book-notes/Covers/house.md",
+    "_book-notes/Stiglitz-The-Price-of-Inequality.md",
+    "_book-notes/Rosenthal-an-american-sickness.md",
+    "_book-notes/Walker-Why-We-Sleep.md",
+    "_book-notes/Why-Nations-Fail.md",
+    "_recipes/Coquito.md",
+    "_recipes/Moms-Brownies.md",
+    "assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1.jpg",
+    "assets/Covey-7-habits-of-highly-effective-people/tmp1769048884626_Covey-7-habits-of-highly-effective-people-image-1.jpg",
+    "_drafts/20251007 - fatherhood feelings.md",
+    "_book-notes/Clear-Atomic-Habits.md",
+    "_book-notes/Acemoglu-Why-Nations-Fail.md",
+    "assets/Covey-7-habits-of-highly-effective-people",
+    "_recipes/Espresso Martini.md",
+    "_drafts/20251224 - Isabel Christmas Letter.md",
     "_recipes/chimichurri-sauce.md",
     "_drafts/20251019 - Treating Caroline as a Teen.md",
     "assets/images/recipes/espresso_martini.jpeg",
@@ -192,7 +212,6 @@
     "_drafts/20251116 - The case for kids before you’re ready.md",
     "_drafts/20250405 - 1st anniversary.md",
     "_drafts/20241021 - The Great I Am.md",
-    "_drafts/20251007 - fatherhood feelings.md",
     "_daily-reflections/20241031 - On lacking coworkers.md",
     "_daily-reflections/20241030 - On community engagement.md",
     "_site/book-notes/Clear-Atomic-Habits/index.html",
@@ -204,31 +223,11 @@
     "_site/assets/images/book-notes/Covers/an/index.html",
     "_site/assets/images/book-notes/Covers/an",
     "_site/20240604 - Social security/index.html",
-    "_site/20240604 - Social security",
-    "_daily-reflections/20241029 - Why to write daily.md",
-    "README.md",
-    "_site/recipes/Bubbleberry wedding drink.md",
     "_site/assets/images/book-notes/Covers/acemoglu-why-nations-fail.jpg",
     "_site/assets/images/book-notes/Covers/Clear-Atomic-Habits.jpg",
     "_site/assets/Clear-Atomic-Habits/Clear-Atomic-Habits-image-1.jpg",
-    "index.md",
-    "Interest rates and QT.md",
     "Pasted image 20231122224441.png",
     "Pasted image 20240904214749.png",
-    "Pasted image 20231118081030.jpg.md",
-    "Pasted image 20230917163612.png",
-    "20240604 - Social security.md",
-    "Note to thong.md",
-    "20240528 - Nula beach.md",
-    "IMG_1168.png",
-    "IMG_1167.jpeg",
-    "_drafts/20250412 - China US relations.md",
-    "20240615 - grad cards.md",
-    "Home list.md",
-    "_book-notes/Kahneman-Thicking-Fast-and-Slow.md",
-    "_book-notes/Heinrich-The-Secret-Of-Our-Success.md",
-    "_book-notes/Covey-7-habits-of-highly-effective-people.md",
-    "assets/20250412 - China US relations/1972_GDP_numbers.png",
     "_posts/Untitled.canvas"
   ]
 }

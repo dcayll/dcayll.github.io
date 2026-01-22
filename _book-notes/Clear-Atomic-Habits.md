@@ -8,7 +8,7 @@ toc_sticky: true
 header:
   teaser: //assets/images/book-notes/Covers/Clear-Atomic-Habits.jpg
 ---
-![](assets/Clear-Atomic-Habits/Clear-Atomic-Habits-image-1.jpg)
+![](assets/Covey-7-habits-of-highly-effective-people/tmp1769048884626_Covey-7-habits-of-highly-effective-people-image-1.jpg)
 
 # Part 1: The Fundamentals: Why Tiny Changes Make a Big Difference
 

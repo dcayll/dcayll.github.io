@@ -1,9 +1,19 @@
-Heading stuff
+---
+title: 7 Habits of Highly Effective People
+excerpt: James Covey
+permalink: /book-notes/Covey-7-habits-of-highly-effective-people/
+author_profile: false
+toc: true
+toc_sticky: true
+header:
+  teaser: //assets/images/book-notes/Covers/Covey-7-habits-of-highly-effective-people.jpg
+---
+![](assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1.jpg)
 
 ## Preface
 - Habits 1-3 are personal improvement. My wins
 - Habits 4-6 are teamwork improvement. Our wins
-- Habit 7 is ?
+- Habit 7 is continuous improvement
 ## Ch 1: be proactive
 - 3 paradigms for human conditioning:
 	1. Nature- your grandparents genes determine your behavior
@@ -50,8 +60,7 @@ Heading stuff
 - Win-loose is a non-collaborative mindset. Win at all costs. Zero sum. 
 - Loose-win is being compliant and letting the other person win because you respect them or feel bad or don’t communicate your winning criteria
 - Many people oscillate between win-loose and loose-win in their relationships. 
-- To operationalize win-win need to have systems and reward it. Can’t only look at hard metrics and expect interpersonal communication to improve. 
-- 
+- To operationalize win-win need to have systems and reward it. Can’t only look at hard metrics and expect interpersonal communication to improve.
 
 ## Ch 5: Seek first to understand, then to be Understood
 - empathic listening is a big deposit into emotional bank account
@@ -80,5 +89,3 @@ Heading stuff
 - must renew all 4 together in equal proportion. Neglecting one will bring down the rest
 - This renewal enables the other habits and the other habits reinforce each other. Upward spiral. 
 - Every cycle through the habits brings greater depth of understanding
-
-## Ch 8: 

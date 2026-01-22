@@ -9,6 +9,6 @@ header:
   teaser: /assets/images/book-notes/Covers/house of debt teaser.png
 ---
 
-![jpg](/assets/images/book-notes/Covers/house of debt.jpg)
+![](assets\images\book-notes\Covers\house-of-debt.jpg)
 
 ![](IMG_1169.jpeg)
