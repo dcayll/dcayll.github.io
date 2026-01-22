@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "assets/${filename}",
+  "attachmentFolderPath": "./assets/${filename}",
   "pastedImageFileName": "./assets/${filename}/image-${date}",
   "dateTimeFormat": "YYYYMMDDHHmmssSSS",
   "autoRenameFolder": true,

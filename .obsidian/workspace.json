@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_jupyter/2022-10-23-test-jupyter.md",
+                "file": "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2022-10-23-test-jupyter"
+              "title": "Backlinks for Dalio-Principles-for-dealing-with-the-changing-world-order"
             }
           },
           {
@@ -179,13 +179,11 @@
               "title": "Outline of 2022-10-23-test-jupyter"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,7 +197,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "51c952d4cd9fec1b",
+  "active": "2af87daccbeb2ca4",
   "lastOpenFiles": [
     "_posts/2022-11-12-83b-tax-form.md",
     "_posts/2022-10-23-test-jupyter.md",
