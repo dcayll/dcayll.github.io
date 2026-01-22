@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_jupyter/2022-11-12-83b-tax-form.md",
+                "file": "_posts/2022-10-10-RothIRA-vs-403b.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2022-11-12-83b-tax-form"
+              "title": "2022-10-10-RothIRA-vs-403b"
             }
           }
         ],
@@ -183,9 +183,11 @@
   },
   "active": "eb1514a5aaf973d0",
   "lastOpenFiles": [
-    "assets/2022-11-12-83b-tax-form",
     "_posts/2022-06-07-coding-example.md",
+    "_posts/2022-07-01-LASIK-calculations.md",
+    "_posts/2022-06-07-first-post.md",
     "_jupyter/2022-11-12-83b-tax-form.md",
+    "assets/2022-11-12-83b-tax-form",
     "_jupyter/2022-10-23-test-jupyter.md",
     "assets/2022-11-12-83b-tax-form/2022-11-12-83b-tax-form-image-1.png",
     "_book-notes/Ferguson-the-square-and-the-tower.md",
@@ -220,7 +222,6 @@
     "_drafts/20251224 - Isabel Christmas Letter.md",
     "_recipes/chimichurri-sauce.md",
     "_drafts/20251019 - Treating Caroline as a Teen.md",
-    "_book-notes/Holland-Dominion.md",
     "_site/book-notes/Clear-Atomic-Habits/index.html",
     "_site/book-notes/Clear-Atomic-Habits",
     "_site/book-notes/Acemoglu-why-nations-fail/index.html",
@@ -228,7 +229,6 @@
     "_site/assets/images/book-notes/Covers/house/index.html",
     "_site/assets/images/book-notes/Covers/house",
     "_site/assets/images/book-notes/Covers/an/index.html",
-    "_site/assets/images/book-notes/Covers/an",
     "_posts/Untitled.canvas"
   ]
 }
