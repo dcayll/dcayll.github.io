@@ -6,9 +6,9 @@ author_profile: false
 toc: true
 toc_sticky: true
 header:
-  teaser: //assets/images/book-notes/Covers/Covey-7-habits-of-highly-effective-people.jpg
+  teaser: /assets/images/book-notes/Covers/Covey-7-habits-of-highly-effective-people.jpg
 ---
-![](assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1.jpg)
+![](/assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1.jpg)
 
 ## Preface
 - Habits 1-3 are personal improvement. My wins
