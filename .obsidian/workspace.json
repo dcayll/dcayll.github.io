@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022-10-23-test-jupyter.md",
+                "file": "_jupyter/2022-11-12-83b-tax-form.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "2022-10-23-test-jupyter"
+              "title": "2022-11-12-83b-tax-form"
             }
           }
         ],
@@ -183,13 +183,15 @@
   },
   "active": "eb1514a5aaf973d0",
   "lastOpenFiles": [
-    "_jupyter/2022-11-12-83b-tax-form.md",
-    "_jupyter/2022-11-12-83b-tax-form_files/2022-11-12-83b-tax-form_9_0.png",
-    "_jupyter/2022-11-12-83b-tax-form_files",
-    "_posts/2022-10-23-test-jupyter.md",
-    "_jupyter/2022-10-23-test-jupyter.md",
-    "_jupyter/2022-10-23-test-jupyter_files/2022-10-23-test-jupyter_1_0.png",
+    "assets/2022-11-12-83b-tax-form",
     "_posts/2022-06-07-coding-example.md",
+    "_jupyter/2022-11-12-83b-tax-form.md",
+    "_jupyter/2022-10-23-test-jupyter.md",
+    "assets/2022-11-12-83b-tax-form/2022-11-12-83b-tax-form-image-1.png",
+    "_book-notes/Ferguson-the-square-and-the-tower.md",
+    "_posts/2022-10-23-test-jupyter.md",
+    "_jupyter/2022-11-12-83b-tax-form_files",
+    "_jupyter/2022-10-23-test-jupyter_files/2022-10-23-test-jupyter_1_0.png",
     "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
     "assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website/tmp1705866751173_2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website-image-1.png",
     "assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website-image-1.png",
@@ -219,7 +221,6 @@
     "_recipes/chimichurri-sauce.md",
     "_drafts/20251019 - Treating Caroline as a Teen.md",
     "_book-notes/Holland-Dominion.md",
-    "_drafts/20251215 - clean the house for Cecilia.md",
     "_site/book-notes/Clear-Atomic-Habits/index.html",
     "_site/book-notes/Clear-Atomic-Habits",
     "_site/book-notes/Acemoglu-why-nations-fail/index.html",
