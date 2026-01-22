@@ -29,7 +29,7 @@
               "state": {
                 "file": "_book-notes/Covey-7-habits-of-highly-effective-people.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Covey-7-habits-of-highly-effective-people"
@@ -183,14 +183,19 @@
   },
   "active": "eb1514a5aaf973d0",
   "lastOpenFiles": [
+    "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
+    "assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1 - teaser.png.~tmp",
+    "assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1 - teaser.png",
+    "_book-notes/Graham-The-Intelligent-Investor.md",
+    "_book-notes/Covey-7-habits-of-highly-effective-people.md",
+    "_book-notes/Grant-Give-and-Take.md",
+    "_book-notes/Rosenthal-an-american-sickness.md",
     "assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1 - teaser.jpg",
     "assets/images/2023-03-24-jewlery-insurance/deductible comparison.png",
     "assets/images/2023-09-17-Obsidian/Pasted.md",
     "assets/images/book-notes/Covers/an american sickness teaser.png",
     "assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1 - teaser (Custom).jpg",
-    "_book-notes/Covey-7-habits-of-highly-effective-people.md",
     "assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1 - Copy.jpg",
-    "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
     "assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-2.png",
     "assets/data/Gym scanning data/~$UTRS Facility Visits (David Richard Cayll).xlsx",
     "assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1.jpg",
@@ -207,27 +212,22 @@
     "_posts/2022-10-23-test-jupyter.md",
     "_jupyter/2022-11-12-83b-tax-form_files",
     "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
-    "assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website/tmp1705866751173_2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website-image-1.png",
     "assets/images/book-notes/Covers/Principles.md",
     "_book-notes/Acemoglu-Why-Nations-Fail.md",
     "_book-notes/Clear-Atomic-Habits.md",
     "_book-notes/Sufi-House-of-Debt.md",
     "assets/images/book-notes/Covers/house.md",
     "_book-notes/Stiglitz-The-Price-of-Inequality.md",
-    "_book-notes/Rosenthal-an-american-sickness.md",
     "_book-notes/Walker-Why-We-Sleep.md",
     "_book-notes/Why-Nations-Fail.md",
     "_recipes/Coquito.md",
     "_recipes/Moms-Brownies.md",
-    "_drafts/20251007 - fatherhood feelings.md",
     "assets/Covey-7-habits-of-highly-effective-people",
-    "_recipes/Espresso Martini.md",
     "_site/book-notes/Clear-Atomic-Habits/index.html",
     "_site/book-notes/Clear-Atomic-Habits",
     "_site/book-notes/Acemoglu-why-nations-fail/index.html",
     "_site/book-notes/Acemoglu-why-nations-fail",
     "_site/assets/images/book-notes/Covers/house/index.html",
-    "_site/assets/images/book-notes/Covers/house",
     "_posts/Untitled.canvas"
   ]
 }
