@@ -20,6 +20,8 @@ github has a text editor on mobile that I tried to use to make changes to my web
 
 A coworker showed me obsidian and I began experimenting with it and discovered it was exactly what I wanted. It was built to edit markdown files natively, and can sync between multiple devices seamlessly. It saves files in a folder format on your computer which can also overlap with the folder you sync with github. Changes made on mobile can be immediately pushed to the github server where the website is hosted for a seamless experience from the user's POV. 
 
+Additionally, any jupyter notebooks in the repo can be converted to markdown using the command `python -m nbconvert "<your jupyter file name>" --to markdown`. This translates the code blocks and existing markdown correctly and also runs the code and saves any images and adds the links to the images in the file. This can then be moved wherever it is needed. 
+
 Benefits: 
 1. Easier integration of images into a post. 
 2. Native .md file editing in Obsidian
@@ -29,7 +31,7 @@ Benefits:
 
 Details to set up below: 
 
-1. Set up an obsidian vault using the "from a folder" option ![png](/assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website-image-1.png)
+1. Set up an obsidian vault using the "from a folder" option ![png](_posts/assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website-image-1.png)
 
 
 	2. Now your obsidian vault is the same as the file system used to update your Jekyll website 
