@@ -1,3 +1,20 @@
+---
+title: "Dominion"
+excerpt: Tom Holland
+permalink: /book-notes/Holland-Dominion/
+author_profile: false
+toc: true
+toc_sticky: true
+header:
+  # image: /assets/images/book-notes/Covers/the intelligent investor.jpg
+  teaser: /assets/images/book-notes/Covers/the intelligent investor teaser.png
+---
+
+![](_book-notes/assets/Holland-Dominion/Holland-Dominion-image-1.jpeg)
+![](_book-notes/assets/Holland-Dominion/Holland-Dominion-image-2.jpeg)
+![](_book-notes/assets/Holland-Dominion/Holland-Dominion-image-3.jpeg)
+
+
 ## Ch 1: Athens 479 BC: The Hellespont
 - Cyrus and then Darius were the first rulers of the Persian empire the largest the world had seen up until this point. They Adopted the Babylonian God and used him as a justification for conquering frontier peoples. To cleanse them from darkness and lies
 - ethos of ancient world was might makes right. 
@@ -74,3 +91,4 @@ Manifestations of the divine on earth. More potent than cathedrals
 - up until 1076, priests could be married, unlike celibate monks. 
 - Pope Gregory - hildebrand -  at this time was a reformer and hated loyalty oaths bishops paid to kings
 - Henry ordered pope to be
+- 

@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
+                "file": "_book-notes/Holland-Dominion.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website"
+              "title": "Holland-Dominion"
             }
           }
         ]
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
+                "file": "_book-notes/Holland-Dominion.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website"
+              "title": "Backlinks for Holland-Dominion"
             }
           },
           {
@@ -186,15 +186,23 @@
   },
   "active": "51c952d4cd9fec1b",
   "lastOpenFiles": [
+    "_book-notes/Graham-The-Intelligent-Investor.md",
+    "_book-notes/Holland-Dominion.md",
+    "_book-notes/assets/Holland-Dominion/Holland-Dominion-image-3.jpeg",
+    "_book-notes/assets/Holland-Dominion/Holland-Dominion-image-2.jpeg",
+    "_book-notes/assets/Holland-Dominion",
+    "_book-notes/assets",
+    "_drafts/20251007 - fatherhood feelings.md",
+    "_book-notes/assets/Holland-Dominion/Holland-Dominion-image-1.jpeg",
+    "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
+    "assets/${filename}",
     "_posts/assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website",
     "_posts/assets",
     "_posts/2024-01-21-Small-Business-Deductions.md",
     "_posts/2024-06-29-Medical-Student-Debt-Strategy.md",
-    "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
     "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
     "assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-9.png",
     "_book-notes/Covey-7-habits-of-highly-effective-people.md",
-    "_drafts/20251007 - fatherhood feelings.md",
     "_posts/2022-11-12-83b-tax-form.md",
     "_posts/2022-10-23-test-jupyter.md",
     "assets/2022-11-12-83b-tax-form/2022-11-12-83b-tax-form-image-1.png",
@@ -204,20 +212,12 @@
     "_site/assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1-teaser (Custom) (1).png",
     "assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1-teaser (Custom) (1).png",
     "_site/assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1-teaser (Custom).png",
-    "assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1-teaser (Custom).png",
-    "assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1-teaser.bak.png",
-    "_site/assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1-teaser.png",
     "_site/assets/Covey-7-habits-of-highly-effective-people",
     "_site/book-notes/Covey-7-habits-of-highly-effective-people/index.html",
     "_site/book-notes/Covey-7-habits-of-highly-effective-people",
     "_site/recipes/Coquito/index.html",
     "_site/recipes/Coquito",
-    "_site/assets/2022-11-12-83b-tax-form",
-    "_jupyter/_site/2024-06-29-Medical_student_Debt-Strategy.ipynb",
-    "_jupyter/_site/2022-11-12-83b-tax-form.ipynb",
-    "_jupyter/_site/2022-10-23-test-jupyter_files",
     "_jupyter/_site/2022-10-23-test-jupyter.md",
-    "_book-notes/Graham-The-Intelligent-Investor.md",
     "_book-notes/Grant-Give-and-Take.md",
     "_book-notes/Rosenthal-an-american-sickness.md",
     "assets/images/2023-09-17-Obsidian/Pasted.md",
@@ -231,7 +231,6 @@
     "_book-notes/Clear-Atomic-Habits.md",
     "_book-notes/Sufi-House-of-Debt.md",
     "assets/images/book-notes/Covers/house.md",
-    "_book-notes/Stiglitz-The-Price-of-Inequality.md",
     "_posts/Untitled.canvas"
   ]
 }
