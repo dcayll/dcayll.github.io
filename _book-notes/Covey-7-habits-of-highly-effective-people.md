@@ -6,7 +6,7 @@ author_profile: false
 toc: true
 toc_sticky: true
 header:
-  teaser: /assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1-teaser.png
+  teaser: /assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1-teaser_1.png
 ---
 ![](/assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1.jpg)
 
