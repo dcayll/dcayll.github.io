@@ -307,3 +307,14 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Sitemap configuration
+url: "https://dcayll.github.io"
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-include-cache
+  - jemoji
+  - jekyll-algolia
