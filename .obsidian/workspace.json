@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_book-notes/Covey-7-habits-of-highly-effective-people.md",
+                "file": "_posts/2022-11-12-83b-tax-form.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Covey-7-habits-of-highly-effective-people"
+              "title": "2022-11-12-83b-tax-form"
             }
           }
         ],
@@ -183,11 +183,15 @@
   },
   "active": "eb1514a5aaf973d0",
   "lastOpenFiles": [
+    "assets/2022-11-12-83b-tax-form/2022-11-12-83b-tax-form-image-1.png",
+    "_posts/2022-11-12-83b-tax-form.md",
+    "_posts/2022-11-12-83b-tax-form.md",
+    "assets/2022-11-12-83b-tax-form",
+    "_book-notes/Covey-7-habits-of-highly-effective-people.md",
     "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
     "assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1 - teaser.png.~tmp",
     "assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1 - teaser.png",
     "_book-notes/Graham-The-Intelligent-Investor.md",
-    "_book-notes/Covey-7-habits-of-highly-effective-people.md",
     "_book-notes/Grant-Give-and-Take.md",
     "_book-notes/Rosenthal-an-american-sickness.md",
     "assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1 - teaser.jpg",
@@ -199,13 +203,11 @@
     "assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-2.png",
     "assets/data/Gym scanning data/~$UTRS Facility Visits (David Richard Cayll).xlsx",
     "assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1.jpg",
-    "assets/2022-11-12-83b-tax-form/2022-11-12-83b-tax-form-image-1.png",
     "_jupyter/2022-10-23-test-jupyter_files/2022-10-23-test-jupyter_1_0.png",
     "_posts/2022-10-10-RothIRA-vs-403b.md",
     "_posts/2022-06-07-coding-example.md",
     "_posts/2022-07-01-LASIK-calculations.md",
     "_posts/2022-06-07-first-post.md",
-    "_jupyter/2022-11-12-83b-tax-form.md",
     "assets/2022-11-12-83b-tax-form",
     "_jupyter/2022-10-23-test-jupyter.md",
     "_book-notes/Ferguson-the-square-and-the-tower.md",
@@ -221,13 +223,11 @@
     "_book-notes/Walker-Why-We-Sleep.md",
     "_book-notes/Why-Nations-Fail.md",
     "_recipes/Coquito.md",
-    "_recipes/Moms-Brownies.md",
     "assets/Covey-7-habits-of-highly-effective-people",
     "_site/book-notes/Clear-Atomic-Habits/index.html",
     "_site/book-notes/Clear-Atomic-Habits",
     "_site/book-notes/Acemoglu-why-nations-fail/index.html",
     "_site/book-notes/Acemoglu-why-nations-fail",
-    "_site/assets/images/book-notes/Covers/house/index.html",
     "_posts/Untitled.canvas"
   ]
 }
