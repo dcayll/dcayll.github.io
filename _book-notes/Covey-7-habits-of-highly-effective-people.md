@@ -6,7 +6,7 @@ author_profile: false
 toc: true
 toc_sticky: true
 header:
-  teaser: /assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1 - teaser.png
+  teaser: /assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1-teaser.png
 ---
 ![](/assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1.jpg)
 
@@ -18,7 +18,7 @@ header:
 - 3 paradigms for human conditioning:
 	1. Nature- your grandparents genes determine your behavior
 	2. Nurture - your upbringing by your parents determine your behavior
-	3. Environment - the people around you and they way they treat you determine your behavior
+	3. Environment - the people arou[[]]nd you and they way they treat you determine your behavior
 - In reality, the gap between stimulus and response is where you excersize your free will and how things affect you. 
 	- Viktor frankel discusses the freedom he had in concentration camps by his imagination and internal dialogue. More free than the guards
 - be proactive because your responsible. 

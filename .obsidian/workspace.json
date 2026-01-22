@@ -29,7 +29,7 @@
               "state": {
                 "file": "_book-notes/Covey-7-habits-of-highly-effective-people.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Covey-7-habits-of-highly-effective-people"
@@ -183,6 +183,13 @@
   },
   "active": "eb1514a5aaf973d0",
   "lastOpenFiles": [
+    "_site/assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1-teaser.png",
+    "_site/assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1.jpg",
+    "_site/assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1 - teaser.jpg",
+    "_site/assets/Covey-7-habits-of-highly-effective-people",
+    "assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1-teaser.png",
+    "_site/book-notes/Covey-7-habits-of-highly-effective-people/index.html",
+    "_site/book-notes/Covey-7-habits-of-highly-effective-people",
     "_site/recipes/Coquito/index.html",
     "_site/recipes/Coquito",
     "_site/assets/2022-11-12-83b-tax-form/2022-11-12-83b-tax-form-image-1.png",
@@ -193,14 +200,10 @@
     "_jupyter/_site/2022-10-23-test-jupyter_files",
     "_jupyter/_site/2022-10-23-test-jupyter.md",
     "_jupyter/_site/2022-10-23-test-jupyter.ipynb",
-    "_jupyter/_site",
-    "robots.txt",
     "_posts/2022-11-12-83b-tax-form.md",
     "assets/2022-11-12-83b-tax-form/2022-11-12-83b-tax-form-image-1.png",
-    "assets/2022-11-12-83b-tax-form",
     "_book-notes/Covey-7-habits-of-highly-effective-people.md",
     "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
-    "assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1 - teaser.png.~tmp",
     "assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1 - teaser.png",
     "_book-notes/Graham-The-Intelligent-Investor.md",
     "_book-notes/Grant-Give-and-Take.md",
@@ -209,9 +212,6 @@
     "assets/images/2023-03-24-jewlery-insurance/deductible comparison.png",
     "assets/images/2023-09-17-Obsidian/Pasted.md",
     "assets/images/book-notes/Covers/an american sickness teaser.png",
-    "assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1 - teaser (Custom).jpg",
-    "assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1 - Copy.jpg",
-    "assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-2.png",
     "_posts/2022-10-10-RothIRA-vs-403b.md",
     "_posts/2022-06-07-coding-example.md",
     "_posts/2022-07-01-LASIK-calculations.md",
