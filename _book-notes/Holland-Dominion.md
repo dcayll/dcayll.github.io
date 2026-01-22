@@ -1,5 +1,5 @@
 ---
-title: "Dominion"
+title: "Dominion: How the Christian Revolution Remade the World"
 excerpt: Tom Holland
 permalink: /book-notes/Holland-Dominion/
 author_profile: false
