@@ -31,7 +31,7 @@ Benefits:
 
 Details to set up below: 
 
-1. Set up an obsidian vault using the "from a folder" option ![png](_posts/assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website-image-1.png)
+1. Set up an obsidian vault using the "from a folder" option ![png](/assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website-image-1.png)
 
 
 	2. Now your obsidian vault is the same as the file system used to update your Jekyll website 

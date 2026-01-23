@@ -89,6 +89,12 @@ Manifestations of the divine on earth. More potent than cathedrals
 ## Ch 9: Revolution AD 1076: Cambri
 
 - up until 1076, priests could be married, unlike celibate monks. 
+- A priest was burned alive for calling out other unclean priests and the pope Gregory agreed. 
+	- Mainly due to the oath to Henry IIII tha priest made. Just before Rome said the king couldn’t declare bishops. 
+		- This was the opposite of what was happening then. at was happening then. 
 - Pope Gregory - hildebrand -  at this time was a reformer and hated loyalty oaths bishops paid to kings
-- Henry ordered pope to be
-- 
+- There were a succession of corrupt, scandalous popes and Roman dynastic battles until emperor henry III appointed his cousin. Started reformation
+- talented clerics recruited to Rome and it became a capitol of affairs. That’s when Gregory started as pope. 
+- Henry IV told him to step down but Gregory didn’t and instead excommunicated him from the church. Lost legitimacy from his subjects and asked for forgiveness from pope. 
+- after Gregory died, reformation lived on to split church from the secular state
+- Bishop Gerard 
