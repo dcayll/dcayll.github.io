@@ -13,26 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_drafts/20251007 - fatherhood feelings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20251007 - fatherhood feelings"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d5f7e4226f83e57e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "51c952d4cd9fec1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "_book-notes/Holland-Dominion.md",
                 "mode": "source",
                 "source": true
@@ -184,39 +164,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "51c952d4cd9fec1b",
+  "active": "bec261d60ef4efc6",
   "lastOpenFiles": [
-    "_book-notes/Graham-The-Intelligent-Investor.md",
+    "_plugins/asset_filter.rb",
+    "_plugins",
+    "_drafts/20260129 - Praying for Cecilia.md",
+    "_drafts/Untitled.md",
+    "assets/Holland-Dominion/Holland-Dominion-image-20260123082254943.png",
+    "assets/Holland-Dominion/Holland-Dominion-image-20260123082207171.png",
+    "assets/Holland-Dominion/Holland-Dominion-image-20260123082009834.png",
+    "assets/Holland-Dominion/Holland-Dominion-image-20260123081010103.png",
+    "assets/Holland-Dominion/Holland-Dominion-image-20260123080937660.png",
+    "assets/Holland-Dominion/Holland-Dominion-image-20260123080847250.md",
     "_book-notes/Holland-Dominion.md",
-    "_book-notes/assets/Holland-Dominion/Holland-Dominion-image-3.jpeg",
-    "_book-notes/assets/Holland-Dominion/Holland-Dominion-image-2.jpeg",
+    "assets/Holland-Dominion/Holland-Dominion-image-20260123080847243.png",
+    "assets/Holland-Dominion/Holland-Dominion-image-20260123080720936.md",
+    "assets/Holland-Dominion/Holland-Dominion-image-20260123080720930.png",
+    "assets/Holland-Dominion/Holland-Dominion-image-20260123080615935.png",
+    "assets/Holland-Dominion/Holland-Dominion-image-20260123074331665.png",
+    "assets/Holland-Dominion/Holland-Dominion-image-20260123074300391.png",
+    "assets/Holland-Dominion/Holland-Dominion-image-1.jpeg.md",
+    "_drafts/20251007 - fatherhood feelings.md",
+    "assets/Holland-Dominion/assets/Holland-Dominion",
+    "assets/Holland-Dominion/assets",
+    "_book-notes/Graham-The-Intelligent-Investor.md",
+    "_posts/assets",
+    "assets/Holland-Dominion",
     "_book-notes/assets/Holland-Dominion",
     "_book-notes/assets",
-    "_drafts/20251007 - fatherhood feelings.md",
-    "_book-notes/assets/Holland-Dominion/Holland-Dominion-image-1.jpeg",
     "_posts/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website.md",
     "assets/${filename}",
     "_posts/assets/2023-09-17-Linking-Obsidian-Sync-to-github-pages-Website",
-    "_posts/assets",
     "_posts/2024-01-21-Small-Business-Deductions.md",
     "_posts/2024-06-29-Medical-Student-Debt-Strategy.md",
     "_book-notes/Dalio-Principles-for-dealing-with-the-changing-world-order.md",
-    "assets/Dalio-Principles-for-dealing-with-the-changing-world-order/Dalio-Principles-for-dealing-with-the-changing-world-order-image-9.png",
     "_book-notes/Covey-7-habits-of-highly-effective-people.md",
     "_posts/2022-11-12-83b-tax-form.md",
     "_posts/2022-10-23-test-jupyter.md",
-    "assets/2022-11-12-83b-tax-form/2022-11-12-83b-tax-form-image-1.png",
     "_posts/2022-10-10-RothIRA-vs-403b.md",
-    "_site/assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1-teaser_1.png",
-    "assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1-teaser_1.png",
-    "_site/assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1-teaser (Custom) (1).png",
-    "assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1-teaser (Custom) (1).png",
-    "_site/assets/Covey-7-habits-of-highly-effective-people/Covey-7-habits-of-highly-effective-people-image-1-teaser (Custom).png",
     "_site/assets/Covey-7-habits-of-highly-effective-people",
-    "_site/book-notes/Covey-7-habits-of-highly-effective-people/index.html",
-    "_site/book-notes/Covey-7-habits-of-highly-effective-people",
-    "_site/recipes/Coquito/index.html",
-    "_site/recipes/Coquito",
     "_jupyter/_site/2022-10-23-test-jupyter.md",
     "_book-notes/Grant-Give-and-Take.md",
     "_book-notes/Rosenthal-an-american-sickness.md",
@@ -226,11 +212,6 @@
     "_posts/2022-06-07-first-post.md",
     "_jupyter/2022-10-23-test-jupyter.md",
     "_book-notes/Ferguson-the-square-and-the-tower.md",
-    "assets/images/book-notes/Covers/Principles.md",
-    "_book-notes/Acemoglu-Why-Nations-Fail.md",
-    "_book-notes/Clear-Atomic-Habits.md",
-    "_book-notes/Sufi-House-of-Debt.md",
-    "assets/images/book-notes/Covers/house.md",
     "_posts/Untitled.canvas"
   ]
 }

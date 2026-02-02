@@ -10,10 +10,12 @@ header:
   teaser: /assets/images/book-notes/Covers/the intelligent investor teaser.png
 ---
 
-![](_book-notes/assets/Holland-Dominion/Holland-Dominion-image-1.jpeg)
-![](_book-notes/assets/Holland-Dominion/Holland-Dominion-image-2.jpeg)
-![](_book-notes/assets/Holland-Dominion/Holland-Dominion-image-3.jpeg)
-
+![](/assets/Holland-Dominion/Holland-Dominion-image-1.jpg)
+![](/assets/Holland-Dominion/Holland-Dominion-image-20260123074331665.png)
+![](/assets/Holland-Dominion/Holland-Dominion-image-20260123082254943.png)
+![](/assets/Holland-Dominion/Holland-Dominion-image-1.jpg)
+![](/assets/Holland-Dominion/Holland-Dominion-image-20260123074331665.png)
+![](/assets/Holland-Dominion/Holland-Dominion-image-20260123082254943.png)
 
 ## Ch 1: Athens 479 BC: The Hellespont
 - Cyrus and then Darius were the first rulers of the Persian empire the largest the world had seen up until this point. They Adopted the Babylonian God and used him as a justification for conquering frontier peoples. To cleanse them from darkness and lies
@@ -97,4 +99,26 @@ Manifestations of the divine on earth. More potent than cathedrals
 - talented clerics recruited to Rome and it became a capitol of affairs. That’s when Gregory started as pope. 
 - Henry IV told him to step down but Gregory didn’t and instead excommunicated him from the church. Lost legitimacy from his subjects and asked for forgiveness from pope. 
 - after Gregory died, reformation lived on to split church from the secular state
-- Bishop Gerard 
+- from Jesus to Augustine to Colin Baris to Gregory rendering Caesars onto Cesar and God‘s to God THE, four consecration of religious activities and the full separation of the world or secular would not be undone
+- in 1095 Pope urban declared that fighting to liberate Jerusalem would forgive sins. In 1099 Christian warrior pilgrims we took Jerusalem from the Muslims
+- a law school in bologna was first university. Sponsored by Matilda- Gregory’s friend
+	- became a path to working with the papacy 
+- The Decretum Was the first compilation of Cannon law and for the first time emphasized equal human rights. Status used to always play a factor in The law, but no longer 
+- Abalaud was a philosopher from Paris was called a heretic for finding contradictions between church fathers and trying to reconcile them. His legacy was that logic and reasoning could get us closer to God’s truth and questioning was part of that. 
+	- Universities now took his questioning attitude and institutional lines that. They had independence from the bishop to pursue free inquiry
+	- Philosophy was the major subject, but the order of natural philosophy, a.k.a. the sciences were seen as Coming from God as well. 
+
+## Ch 10: persecution 1229 Marburg 
+
+- by 1215 the Reformation was slowing. This bread, more radical ideas still for rejecting the papacy
+	- people who announced their wealth and walked around, preaching where called heretics because people scholars wanted a monopoly on pontificating. 
+	- Those who became beggars and traveling creatures were excommunicated
+- In early 1200s popes Fought for power to seek out genetics and punish them. Inquisitors were created that could compel secular authorities to deal sentences sense priests could not
+- albigensian’s or cathatrs we’re old-fashioned Christians identifying with pre-reformation Christendom. Distrust of the people hierarchy targeted them as heretics that needed to be eliminated
+- 20 years of crusade against heretics and southern France was chaos. Killing innocents was an acceptable cost for clearing heresy. 
+- around this time, Christian started to translate. Muslim works and found mini works by Aristotle in Arabic and translated them.  This form the basis of reasoning that the world was ordered by God and logic and science can bring us closer to understanding him
+- Sun readers of Aristotle were burned his heretics, and that lead his writings to be banned from Paris. ButDominican friars As inquisitors found Aristotle’s teachings helpful for inquisition. So universities were given freedom from this ban. 
+- Jews were not Labeled as heretics and we’re allowed to live, but we’re continually persecuted
+
+## ch 11: Flesh 1300 Milan
+- Theologian struggled to define women’s place in the world. They were seen as creators of original sin
