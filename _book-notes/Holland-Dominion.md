@@ -10,12 +10,10 @@ header:
   teaser: /assets/images/book-notes/Covers/the intelligent investor teaser.png
 ---
 
-![](/assets/Holland-Dominion/Holland-Dominion-image-1.jpg)
 ![](/assets/Holland-Dominion/Holland-Dominion-image-20260123074331665.png)
-![](/assets/Holland-Dominion/Holland-Dominion-image-20260123082254943.png)
-![](/assets/Holland-Dominion/Holland-Dominion-image-1.jpg)
-![](/assets/Holland-Dominion/Holland-Dominion-image-20260123074331665.png)
-![](/assets/Holland-Dominion/Holland-Dominion-image-20260123082254943.png)
+![](assets/Holland-Dominion/Holland-Dominion-image-20260123082254943.png)
+
+
 
 ## Ch 1: Athens 479 BC: The Hellespont
 - Cyrus and then Darius were the first rulers of the Persian empire the largest the world had seen up until this point. They Adopted the Babylonian God and used him as a justification for conquering frontier peoples. To cleanse them from darkness and lies
