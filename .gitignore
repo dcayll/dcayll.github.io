@@ -3,3 +3,7 @@ _site
 .jekyll-metadata
 Gemfile.lock
 _drafts/
+.obsidian/
+*.swp
+*.swo
+.DS_Store
