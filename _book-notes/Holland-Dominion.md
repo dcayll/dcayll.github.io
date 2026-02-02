@@ -11,7 +11,7 @@ header:
 ---
 
 ![](/assets/Holland-Dominion/Holland-Dominion-image-20260123074331665.png)
-![](assets/Holland-Dominion/Holland-Dominion-image-20260123082254943.png)
+![](/assets/Holland-Dominion/Holland-Dominion-image-20260123082254943.png)
 
 
 
